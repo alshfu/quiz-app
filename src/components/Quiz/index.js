@@ -16,6 +16,8 @@ import he from 'he';
 import Countdown from '../Countdown';
 import { getLetter } from '../../utils';
 
+import { Image } from 'semantic-ui-react'
+
 const Quiz = ({ data, countdownTime, endQuiz }) => {
   const [questionIndex, setQuestionIndex] = useState(0);
   const [correctAnswers, setCorrectAnswers] = useState(0);
@@ -86,7 +88,10 @@ const Quiz = ({ data, countdownTime, endQuiz }) => {
                   />
                 </Item.Extra>
                 <br />
-                <Item.Meta>
+
+                <Item.Meta floated="center">
+                  <img src={data[questionIndex].img}
+                       className="ui medium  image"/>
                   <Message size="huge" floating>
                     <b>{`Q. ${he.decode(data[questionIndex].question)}`}</b>
                   </Message>
