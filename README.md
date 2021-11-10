@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-![quiz-app](https://user-images.githubusercontent.com/48409548/104132046-a39e5b80-539c-11eb-9df3-28d52e499a6c.png)
+![quiz-app](https://raw.githubusercontent.com/alshfu/quiz-app/master/screenshot.PNG)
 
 ## Built with
 
