@@ -3,7 +3,8 @@ import { Menu, Button } from 'semantic-ui-react';
 
 const Header = () => {
   const [promptEvent, setPromptEvent] = useState(null);
-  const [appAccepted, setAppAccepted] = useState(false);
+  // const [appAccepted, setAppAccepted] = useState(false);
+  const [appAccepted] = useState(false);
 
   let isAppInstalled = false;
 
@@ -18,20 +19,20 @@ const Header = () => {
 
   const installApp = () => {
     promptEvent.prompt();
-    promptEvent.userChoice.then(result => {
-      if (result.outcome === 'accepted') {
-        setAppAccepted(true);
-        console.log('User accepted the A2HS prompt');
-      } else {
-        console.log('User dismissed the A2HS prompt');
-      }
-    });
+    // promptEvent.userChoice.then(result => {
+    //   if (result.outcome === 'accepted') {
+    //     setAppAccepted(true);
+    //     console.log('User accepted the A2HS prompt');
+    //   } else {
+    //     console.log('User dismissed the A2HS prompt');
+    //   }
+    // });
   };
 
   return (
     <Menu stackable inverted size="massive">
       <Menu.Item header>
-        <h1 style={{ color: '#2185D0' }}>QuizApp</h1>
+        <h1 style={{ color: '#2185D0' }}>Körkortsfrågor</h1>
       </Menu.Item>
       {promptEvent && !isAppInstalled && (
         <Menu.Item position="right">

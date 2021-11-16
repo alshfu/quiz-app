@@ -24,7 +24,7 @@ const Countdown = ({ countdownTime, timeOver, setTimeTaken }) => {
           icon: 'info',
           timer: 5000,
           willClose: () => timeOver(totalTime - timerTime)
-        });
+        }).then(_ => null);
       }
     }, 1000);
 

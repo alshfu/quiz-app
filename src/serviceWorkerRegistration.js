@@ -80,7 +80,7 @@ function registerValidSW(swUrl, config) {
                 title: 'App is ready to work offline.',
                 showConfirmButton: false,
                 timer: 6000
-              });
+              }).then(_ => null);
 
               // Execute callback
               if (config && config.onSuccess) {
@@ -130,7 +130,7 @@ export function unregister() {
   if ('serviceWorker' in navigator) {
     navigator.serviceWorker.ready
       .then(registration => {
-        registration.unregister();
+        registration.unregister().then(_ => null);
       })
       .catch(error => {
         console.error(error.message);

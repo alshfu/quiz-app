@@ -1,8 +1,6 @@
 const calculateGrade = score => {
   const percentage = parseInt(score);
-
-  let grade = null;
-  let remarks = null;
+  let grade: null, remarks: null;
 
   if (percentage >= 97) {
     grade = 'A+';

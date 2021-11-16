@@ -1,13 +1,18 @@
 const CATEGORIES = [
-  {
-    key: '0',
-    text: 'Any Category',
-    value: '0'
-  },
+  // {
+  //   key: '0',
+  //   text: 'Alla kategorier',
+  //   value: '0'
+  // },
   {
     key: 1,
-    text: 'Vägmärken',
+    text: 'Vägmarkeringar',
     value: 1
+  },
+  {
+    key: 2,
+    text: 'Körkorts frågor',
+    value: 2
   },
   // {
   //   key: 10,

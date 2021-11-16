@@ -1,0 +1,2749 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a1-1.png",
+      "img_file_name": "A1.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för farlig kurva"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a2-1.png",
+      "img_file_name": "A2.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för flera farliga kurvor"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a3-1.png",
+      "img_file_name": "A3.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för nedförslutning"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a4-1.png",
+      "img_file_name": "A4.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för stigning"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a5-1.png",
+      "img_file_name": "A5.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för avsmalnande väg"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a6-1.png",
+      "img_file_name": "A6.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för bro"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a7-1.png",
+      "img_file_name": "A7.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för kaj"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a8-1.png",
+      "img_file_name": "A8.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för ojämn väg"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a9-1.png",
+      "img_file_name": "A9.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för farthinder"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a10-1.png",
+      "img_file_name": "A10.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för slirig väg"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a11-1.png",
+      "img_file_name": "A11.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för stenskott"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a12-1.png",
+      "img_file_name": "A12.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för stenras"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a13-1.png",
+      "img_file_name": "A13.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för övergångsställe"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a14-1.jpg",
+      "img_file_name": "A14.jpg",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för gående"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a15-1.png",
+      "img_file_name": "A15.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för barn"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a16-1.png",
+      "img_file_name": "A16.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för cyklande och mopedförare"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a17-1.png",
+      "img_file_name": "A17.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för skidåkare"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a18-1.png",
+      "img_file_name": "A18.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för ridande"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a19-1.png",
+      "img_file_name": "A19.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för djur"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a20-1.png",
+      "img_file_name": "A20.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för vägarbete"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a21.jpg",
+      "img_file_name": "A21.jpg",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Slut på sträcka med vägarbete"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a22-1.png",
+      "img_file_name": "A22.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för flerfärgssignal"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a23-1.png",
+      "img_file_name": "A23.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för lågt flygande flygplan"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a24-1.png",
+      "img_file_name": "A24.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för sidvind"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a25.jpg",
+      "img_file_name": "A25.jpg",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för mötande trafik"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a26-1.png",
+      "img_file_name": "A26.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för tunnel"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a27-1.png",
+      "img_file_name": "A27.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för svag vägkant eller hög körbanekant"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a28-1.png",
+      "img_file_name": "A28.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för vägkorsning"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a29-1.png",
+      "img_file_name": "A29.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för vägkorsning där trafikanter på anslutande väg har väjningsplikt eller stopplikt"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a30-1.png",
+      "img_file_name": "A30.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för cirkulationsplats"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a31-1.jpg",
+      "img_file_name": "A31.jpg",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för långsamtgående fordon"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a32-1.png",
+      "img_file_name": "A32.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för fordon med förspänt dragdjur"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a33-1.png",
+      "img_file_name": "A33.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för terrängskotertrafik"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a34-1.png",
+      "img_file_name": "A34.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för kö"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a35-1.png",
+      "img_file_name": "A35.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för järnvägskorsning med bommar"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a36-1.png",
+      "img_file_name": "A36.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för järnvägskorsning utan bommar"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a37-1.png",
+      "img_file_name": "A37.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för korsning med spårväg utan bommar"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a38-1.png",
+      "img_file_name": "A38.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Avstånd till plankorsning"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a39-1.png",
+      "img_file_name": "A39.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Kryssmärke"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a40-1.png",
+      "img_file_name": "A40.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för annan fara"
+    },
+    {
+      "category": " Varningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a41.png",
+      "img_file_name": "A41.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varning för olycka"
+    },
+    {
+      "category": " Väjningspliktsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/b1-1.png",
+      "img_file_name": "B1.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Väjningsplikt"
+    },
+    {
+      "category": " Väjningspliktsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/b2-1.png",
+      "img_file_name": "B2.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Stopplikt"
+    },
+    {
+      "category": " Väjningspliktsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/b3-1.png",
+      "img_file_name": "B3.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Övergångsställe"
+    },
+    {
+      "category": " Väjningspliktsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/b4-1.png",
+      "img_file_name": "B4.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Huvudled"
+    },
+    {
+      "category": " Väjningspliktsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/b5-1.png",
+      "img_file_name": "B5.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Huvudled upphör"
+    },
+    {
+      "category": " Väjningspliktsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/b6-1.png",
+      "img_file_name": "B6.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Väjningsplikt mot mötande trafik"
+    },
+    {
+      "category": " Väjningspliktsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/b7-1.png",
+      "img_file_name": "B7.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Mötande trafik har väjningsplikt"
+    },
+    {
+      "category": " Väjningspliktsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/ny-katalog/cykeloverfart/b8_1.png",
+      "img_file_name": "B8_1.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Cykelöverfart"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c1-1.png",
+      "img_file_name": "C1.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förbud mot infart med fordon"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c2-1.png",
+      "img_file_name": "C2.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förbud mot trafik med fordon"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c3-1.png",
+      "img_file_name": "C3.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förbud mot trafik med annat motordrivet fordon än moped klass II"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c4-1.png",
+      "img_file_name": "C4.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förbud mot trafik med motordrivet fordon med fler än två hjul"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c5-1.png",
+      "img_file_name": "C5.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förbud mot trafik med motorcykel och moped klass I"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c6-1.png",
+      "img_file_name": "C6.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förbud mot trafik med motordrivet fordon med tillkopplad släpvagn"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c7-1.png",
+      "img_file_name": "C7.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förbud mot trafik med tung lastbil"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c8-1.png",
+      "img_file_name": "C8.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förbud mot trafik med traktor och motorredskap klass II"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c9-1.png",
+      "img_file_name": "C9.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förbud mot trafik med fordon lastat med farligt gods"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c10-1.png",
+      "img_file_name": "C10.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förbud mot trafik med cykel och moped klass II"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c11-1.png",
+      "img_file_name": "C11.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förbud mot trafik med moped klass II"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c12-1.png",
+      "img_file_name": "C12.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förbud mot trafik med fordon förspänt med dragdjur"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c13-1.png",
+      "img_file_name": "C13.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förbud mot trafik med terrängmotorfordon och terrängsläp"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c14-1.png",
+      "img_file_name": "C14.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förbud mot ridning"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c15-1.png",
+      "img_file_name": "C15.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förbud mot gångtrafik"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c16-1.png",
+      "img_file_name": "C16.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Begränsad fordonsbredd"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c17-1.png",
+      "img_file_name": "C17.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Begränsad fordonshöjd"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c18-1.png",
+      "img_file_name": "C18.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Begränsad fordonslängd"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c19-1.png",
+      "img_file_name": "C19.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Minsta avstånd"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c20-1.png",
+      "img_file_name": "C20.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Begränsad bruttovikt på fordon"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c21-1.png",
+      "img_file_name": "C21.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Begränsad bruttovikt på fordon och fordonståg"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c22-1.png",
+      "img_file_name": "C22.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Bärighetsklass"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c23-1.png",
+      "img_file_name": "C23.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Begränsat axeltryck"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c24-1.png",
+      "img_file_name": "C24.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Begränsat boggitryck"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c25-1.png",
+      "img_file_name": "C25.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förbud mot sväng i korsning"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c26-1.png",
+      "img_file_name": "C26.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förbud mot U-sväng"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c27-1.png",
+      "img_file_name": "C27.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förbud mot omkörning"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c28-1.png",
+      "img_file_name": "C28.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Slut på förbud mot omkörning"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c29-1.png",
+      "img_file_name": "C29.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förbud mot omkörning med tung lastbil"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c30-1.png",
+      "img_file_name": "C30.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Slut på förbud mot omkörning med tung lastbil"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c31-3.png",
+      "img_file_name": "C31.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Hastighetsbegränsning"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c32-3.png",
+      "img_file_name": "C32.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Tillfällig hastighetsbegränsning upphör"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c33-1.png",
+      "img_file_name": "C33.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Stopp vid tull"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c34.png",
+      "img_file_name": "C34.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Stopp för angivet ändamål"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c35-1.png",
+      "img_file_name": "C35.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förbud mot att parkera fordon"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c36-1.png",
+      "img_file_name": "C36.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förbud mot att parkera fordon på dag med udda datum"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c37-1.png",
+      "img_file_name": "C37.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förbud mot att parkera fordon på dag med jämnt datum"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c38-1.png",
+      "img_file_name": "C38.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Datumparkering"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c39-1.png",
+      "img_file_name": "C39.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förbud mot att stanna och parkera fordon"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c40-1.png",
+      "img_file_name": "C40.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Ändamålsplats"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c41-1.png",
+      "img_file_name": "C41.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Slut på ändamålsplats"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c42-1.png",
+      "img_file_name": "C42.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Vändplats"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c43-1.png",
+      "img_file_name": "C43.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Slut på vändplats"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c44.png",
+      "img_file_name": "C44.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förbud mot trafik med annat motordrivet fordon med dubbdäck än moped klass II"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c45.png",
+      "img_file_name": "C45.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Särskilda bestämmelser för stannande och parkering"
+    },
+    {
+      "category": " Förbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c46.png",
+      "img_file_name": "C46.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Begränsat trippelaxeltryck"
+    },
+    {
+      "category": " Påbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/d1-1.png",
+      "img_file_name": "D1.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Påbjuden körriktning"
+    },
+    {
+      "category": " Påbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/d2-1.png",
+      "img_file_name": "D2.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Påbjuden körbana"
+    },
+    {
+      "category": " Påbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/d3-1.png",
+      "img_file_name": "D3.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Cirkulationsplats"
+    },
+    {
+      "category": " Påbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/d4-1.png",
+      "img_file_name": "D4.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Påbjuden cykelbana"
+    },
+    {
+      "category": " Påbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/d5-1.png",
+      "img_file_name": "D5.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Påbjuden gångbana"
+    },
+    {
+      "category": " Påbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/d6-1.png",
+      "img_file_name": "D6.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Påbjuden gång- och cykelbana"
+    },
+    {
+      "category": " Påbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/d7-1.png",
+      "img_file_name": "D7.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Påbjudna gång- och cykelbanor"
+    },
+    {
+      "category": " Påbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/d8-1.png",
+      "img_file_name": "D8.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Påbjuden ridväg"
+    },
+    {
+      "category": " Påbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/d9-1.png",
+      "img_file_name": "D9.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Påbjuden led för terrängmotorfordon och terrängsläp"
+    },
+    {
+      "category": " Påbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/d10-1.png",
+      "img_file_name": "D10.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": ""
+    },
+    {
+      "category": " Påbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/d11-1.png",
+      "img_file_name": "D11.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Slut på påbjuden bana, körfält, väg eller led"
+    },
+    {
+      "category": " Påbudsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/d12-1.png",
+      "img_file_name": "D12.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Påbjuden körriktning för fordon lastat med farligt gods"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e1-1.jpg",
+      "img_file_name": "E1.jpg",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Motorväg"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e2-1.png",
+      "img_file_name": "E2.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Motorväg upphör"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e3-1.png",
+      "img_file_name": "E3.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Motortrafikled"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e4-1.png",
+      "img_file_name": "E4.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Motortrafikled upphör"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e5-1.png",
+      "img_file_name": "E5.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Tättbebyggt område"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e6-1.png",
+      "img_file_name": "E6.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Tättbebyggt område upphör"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e7-1.png",
+      "img_file_name": "E7.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Gågata"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e8-1.png",
+      "img_file_name": "E8.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Gågata upphör"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e9-1.png",
+      "img_file_name": "E9.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Gångfartsområde"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e10-1.png",
+      "img_file_name": "E10.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Gångfartsområde upphör"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e11-1.png",
+      "img_file_name": "E11.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Rekommenderad lägre hastighet"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e12-1.png",
+      "img_file_name": "E12.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Rekommenderad lägre hastighet upphör"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e13-1.png",
+      "img_file_name": "E13.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Rekommenderad högsta hastighet"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e14-1.png",
+      "img_file_name": "E14.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Rekommenderad högsta hastighet upphör"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e15-1.png",
+      "img_file_name": "E15.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Sammanvävning"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e16-1.png",
+      "img_file_name": "E16.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Enkelriktad trafik"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e17-1.png",
+      "img_file_name": "E17.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Återvändsväg"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e18-1.png",
+      "img_file_name": "E18.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Mötesplats"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e19-1.png",
+      "img_file_name": "E19.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Parkering"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e20-1.png",
+      "img_file_name": "E20.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Områdesmärke"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e21-1.png",
+      "img_file_name": "E21.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Slut på område"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e22-1.png",
+      "img_file_name": "E22.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Busshållplats"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e23-1.png",
+      "img_file_name": "E23.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Taxi"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e24-1.png",
+      "img_file_name": "E24.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Automatisk trafikövervakning"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e25-1.png",
+      "img_file_name": "E25.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Betalväg"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e26-1.png",
+      "img_file_name": "E26.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Tunnel"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e27-1.png",
+      "img_file_name": "E27.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Nöduppställningsplats"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e28-1.png",
+      "img_file_name": "E28.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Nödutgång"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e29-1.png",
+      "img_file_name": "E29.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Utrymningsväg"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e30.png",
+      "img_file_name": "E30.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Särskilda bestämmelser för parkering"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e31-1.png",
+      "img_file_name": "E31.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Miljözon"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e32-1.png",
+      "img_file_name": "E32.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Slut på miljözon"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e33-cykelgata.jpg",
+      "img_file_name": "E33.jpg",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Cykelgata"
+    },
+    {
+      "category": " Anvisningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e34-cykelgata-upphor.jpg",
+      "img_file_name": "E34.jpg",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Cykelgata upphör"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f1-1.png",
+      "img_file_name": "F1.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Orienteringstavla"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f2-1.png",
+      "img_file_name": "F2.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Orienteringstavla vid förbjuden sväng i korsning"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f3-1.png",
+      "img_file_name": "F3.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Tabellorienteringstavla"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f4-1.png",
+      "img_file_name": "F4.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Avfartsorienteringstavla"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f5-1.png",
+      "img_file_name": "F5.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Vägvisare"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f6-1.png",
+      "img_file_name": "F6.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Tabellvägvisare"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f7-1.png",
+      "img_file_name": "F7.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Avfartsvisare"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f8-1.png",
+      "img_file_name": "F8.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Körfältsvägvisare"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f9-1.png",
+      "img_file_name": "F9.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Samlingsmärke för vägvisning"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f10-1.png",
+      "img_file_name": "F10.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Platsmärke"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f11-1.png",
+      "img_file_name": "F11.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Vägnamn"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f12-1.png",
+      "img_file_name": "F12.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Vattendrag"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f13-1.png",
+      "img_file_name": "F13.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Avståndstavla"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f14-1.png",
+      "img_file_name": "F14.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Vägnummer"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f15-1.png",
+      "img_file_name": "F15.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Omledning"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f16-1.png",
+      "img_file_name": "F16.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Ökning av antal körfält"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f17-1.png",
+      "img_file_name": "F17.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Minskning av antal körfält"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f18-1.png",
+      "img_file_name": "F18.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Körfältsindelning på sträcka"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f19-1.png",
+      "img_file_name": "F19.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Väganslutning med accelerationsfält"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f20-1.png",
+      "img_file_name": "F20.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Väganslutning med separat körfält"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f21-1.png",
+      "img_file_name": "F21.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Körfältsindelning före korsning"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f22-1.png",
+      "img_file_name": "F22.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Riksmärke"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f23-1.png",
+      "img_file_name": "F23.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Orienteringstavla för omledningsväg"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f24-1.png",
+      "img_file_name": "F24.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Färdriktning vid omledning"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f25-1.png",
+      "img_file_name": "F25.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Körfält upphör"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f26-1.png",
+      "img_file_name": "F26.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Körfält avstängt"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f27-1.png",
+      "img_file_name": "F27.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Trafikplatsnummer"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f28-1.png",
+      "img_file_name": "F28.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Parkeringshus"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f29-1.png",
+      "img_file_name": "F29.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Infartsparkering"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f30-1.png",
+      "img_file_name": "F30.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Lokal slinga"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f31-1.png",
+      "img_file_name": "F31.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Lämplig väg eller förbifart för visst fordonsslag eller trafikantgrupp"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f32-1.png",
+      "img_file_name": "F32.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Farligt gods"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f33-1.png",
+      "img_file_name": "F33.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Räddningsplats"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning av gång- och cykeltrafik",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f34-1.png",
+      "img_file_name": "F34.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Vägvisare"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning av gång- och cykeltrafik",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f35-1.png",
+      "img_file_name": "F35.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Tabellvägvisare"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning av gång- och cykeltrafik",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f36-1.png",
+      "img_file_name": "F36.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Platsmärke"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning av gång- och cykeltrafik",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f37-1.png",
+      "img_file_name": "F37.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Avståndstavla"
+    },
+    {
+      "category": " Lokaliseringsmärken för vägvisning av gång- och cykeltrafik",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f38-1.png",
+      "img_file_name": "F38.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Cykelled"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om allmänna inrättningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//contentassets/73aa9e3e3ff74b75b6a51f25568c5dbb/laddahem/g1-1.png",
+      "img_file_name": "G1.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Post"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om allmänna inrättningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//contentassets/367e6313af084754b1a37cf6d6d6b808/laddahem/g2-1.png",
+      "img_file_name": "G2.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Hjälptelefon"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om allmänna inrättningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//contentassets/575601228fdf4871b1357e7d450dfab3/laddahem/g3-1.png",
+      "img_file_name": "G3.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Radiostation för vägtrafikinformation"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om allmänna inrättningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//contentassets/c67d1e0d2d044dc3aad46756a95e1909/laddahem/g4-1.png",
+      "img_file_name": "G4.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Akutsjukhus"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om allmänna inrättningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//contentassets/9016eeab713146f5b4e1e63555514cc4/laddahem/g5-1.png",
+      "img_file_name": "G5.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Industriområde"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om allmänna inrättningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//contentassets/5589ae77e67b4c6a814a333cf2875754/laddahem/g6-1.png",
+      "img_file_name": "G6.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Järnvägsstation"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om allmänna inrättningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//contentassets/0c24e94efe0341d19490cc333da598af/laddahem/g7.png",
+      "img_file_name": "G7.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Busstation"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om allmänna inrättningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//contentassets/6fa4ad45445542ff91f17a30d7c53367/laddahem/g8-1.png",
+      "img_file_name": "G8.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Flygplats"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om allmänna inrättningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//contentassets/63a26786cc3a4c10a1d03bb8361f5068/laddahem/g9-1.png",
+      "img_file_name": "G9.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Brandsläckare"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om allmänna inrättningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//contentassets/edfe079945414716a46eaa52df646b7f/laddahem/g10.png",
+      "img_file_name": "G10.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Handelsområde"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om allmänna inrättningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//contentassets/b13c77c8657a4872b7358e66e9816506/laddahem/g11.png",
+      "img_file_name": "G11.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Färja"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om allmänna inrättningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//contentassets/2a94a45d2a434d97bcd0fa713e74f9d1/laddahem/g12.png",
+      "img_file_name": "G12.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Personfärja"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h1-1.png",
+      "img_file_name": "H1.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Informationsplats"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h2-1.png",
+      "img_file_name": "H2.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Fordonsverkstad"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h3-1.png",
+      "img_file_name": "H3.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": "  Drivmedel"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h4-1.png",
+      "img_file_name": "H4.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Gas för fordonsdrift"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h5-1.png",
+      "img_file_name": "H5.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Servering"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h6-1.png",
+      "img_file_name": "H6.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Restaurang"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h7-1.png",
+      "img_file_name": "H7.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Hotell"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h8-1.png",
+      "img_file_name": "H8.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Vandrarhem"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h9-1.png",
+      "img_file_name": "H9.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Stugby"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h10-1.png",
+      "img_file_name": "H10.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Stuga"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h11-1.png",
+      "img_file_name": "H11.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Campingplats"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h12-1.png",
+      "img_file_name": "H12.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Husvagnsplats"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h13-1.png",
+      "img_file_name": "H13.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Rastplats"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h14-1.png",
+      "img_file_name": "H14.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Toalett"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h15-1.png",
+      "img_file_name": "H15.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Badplats"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h16-1.png",
+      "img_file_name": "H16.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Friluftsområde"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h17-1.png",
+      "img_file_name": "H17.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Vandringsled"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h18-1.png",
+      "img_file_name": "H18.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Stollift"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h19-1.png",
+      "img_file_name": "H19.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Släplift"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h20-1.png",
+      "img_file_name": "H20.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Golfbana"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h21-1.png",
+      "img_file_name": "H21.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Försäljningsställe för fiskekort"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h22-1.png",
+      "img_file_name": "H22.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Sevärdhet"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h23.png",
+      "img_file_name": "H23.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förberedande upplysning om vägnära service"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h24-1.png",
+      "img_file_name": "H24.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Rum och frukost"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h25.png",
+      "img_file_name": "H25.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Gårdsbutik"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h26.png",
+      "img_file_name": "H26.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Hantverk"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h27.png",
+      "img_file_name": "H27.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Laddstation"
+    },
+    {
+      "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h28.png",
+      "img_file_name": "H28.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Anläggning som enbart tillhandahåller platser för bilar med bostadsutrymme"
+    },
+    {
+      "category": " Lokaliseringsmärken för turistiskt intressanta mål med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/i1-1.png",
+      "img_file_name": "I1.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Turistväg"
+    },
+    {
+      "category": " Lokaliseringsmärken för turistiskt intressanta mål med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/i2-1.png",
+      "img_file_name": "I2.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Turistområde"
+    },
+    {
+      "category": " Lokaliseringsmärken för turistiskt intressanta mål med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/i3-1.png",
+      "img_file_name": "I3.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Landmärke"
+    },
+    {
+      "category": " Lokaliseringsmärken för turistiskt intressanta mål med mera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/i4-1.png",
+      "img_file_name": "I4.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Världsarv"
+    },
+    {
+      "category": " Upplysningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/j2-1.png",
+      "img_file_name": "J2.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Upplysningsmärke"
+    },
+    {
+      "category": " Upplysningsmärken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/j3-1.png",
+      "img_file_name": "J3.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Livsfarlig ledning"
+    },
+    {
+      "category": " Symboler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/s1.1.jpg",
+      "img_file_name": "S1.jpg",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Tung lastbil"
+    },
+    {
+      "category": " Symboler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/s2-1.png",
+      "img_file_name": "S2.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Tung lastbil med tillkopplad släpvagn"
+    },
+    {
+      "category": " Symboler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/s3-1.png",
+      "img_file_name": "S3.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Personbil"
+    },
+    {
+      "category": " Symboler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/s4-1.png",
+      "img_file_name": "S4.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Personbil med tillkopplad släpkärra"
+    },
+    {
+      "category": " Symboler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/s5-1.png",
+      "img_file_name": "S5.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Buss"
+    },
+    {
+      "category": " Symboler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/s6-1.png",
+      "img_file_name": "S6.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Traktor och motorredskap klass II"
+    },
+    {
+      "category": " Symboler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/s7-1.png",
+      "img_file_name": "S7.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Motorcykel"
+    },
+    {
+      "category": " Symboler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/s8-1.png",
+      "img_file_name": "S8.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Cykel och moped klass II"
+    },
+    {
+      "category": " Symboler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/s9-1.png",
+      "img_file_name": "S9.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Släpkärra"
+    },
+    {
+      "category": " Symboler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/s10-1.png",
+      "img_file_name": "S10.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Gående"
+    },
+    {
+      "category": " Symboler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/s11-1.png",
+      "img_file_name": "S11.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Rörelsehindrade"
+    },
+    {
+      "category": " Symboler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/s12.gif",
+      "img_file_name": "S12.gif",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Personbil klass II"
+    },
+    {
+      "category": " Symboler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/s13-1.png",
+      "img_file_name": "S13.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Personfärja"
+    },
+    {
+      "category": " Tilläggstavlor",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t1.png",
+      "img_file_name": "T1.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Vägsträckas längd"
+    },
+    {
+      "category": " Tilläggstavlor",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t2-1.png",
+      "img_file_name": "T2.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Avstånd"
+    },
+    {
+      "category": " Tilläggstavlor",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t3-1.png",
+      "img_file_name": "T3.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Avstånd till stopplikt"
+    },
+    {
+      "category": " Tilläggstavlor",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t4-1.png",
+      "img_file_name": "T4.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Fri bredd"
+    },
+    {
+      "category": " Tilläggstavlor",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t5.png",
+      "img_file_name": "T5.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Totalvikt"
+    },
+    {
+      "category": " Tilläggstavlor",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t6-1.png",
+      "img_file_name": "T6.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Tidsangivelse"
+    },
+    {
+      "category": " Tilläggstavlor",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t7-1.jpg",
+      "img_file_name": "T7.jpg",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Rörelsehindrade"
+    },
+    {
+      "category": " Tilläggstavlor",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t8-1.png",
+      "img_file_name": "T8.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Symboltavla"
+    },
+    {
+      "category": " Tilläggstavlor",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t9-1.png",
+      "img_file_name": "T9.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Nedsatt syn"
+    },
+    {
+      "category": " Tilläggstavlor",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t10.png",
+      "img_file_name": "T10.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Nedsatt hörsel"
+    },
+    {
+      "category": " Tilläggstavlor",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t11-1.png",
+      "img_file_name": "T11.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Utsträckning"
+    },
+    {
+      "category": " Tilläggstavlor",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t12-1.png",
+      "img_file_name": "T12.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Riktning"
+    },
+    {
+      "category": " Tilläggstavlor",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t13-1.png",
+      "img_file_name": "T13.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Flervägsväjning"
+    },
+    {
+      "category": " Tilläggstavlor",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t14-1.png",
+      "img_file_name": "T14.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Flervägsstopp"
+    },
+    {
+      "category": " Tilläggstavlor",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t15-1.png",
+      "img_file_name": "T15.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Vägars fortsättning i korsning"
+    },
+    {
+      "category": " Tilläggstavlor",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t16.png",
+      "img_file_name": "T16.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Avgift"
+    },
+    {
+      "category": " Tilläggstavlor",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t17-1.png",
+      "img_file_name": "T17.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Parkeringsskiva"
+    },
+    {
+      "category": " Tilläggstavlor",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t18.png",
+      "img_file_name": "T18.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Tillåten tid för parkering"
+    },
+    {
+      "category": " Tilläggstavlor",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t19.png",
+      "img_file_name": "T19.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Boende"
+    },
+    {
+      "category": " Tilläggstavlor",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t20.png",
+      "img_file_name": "T20.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Parkeringsbiljett"
+    },
+    {
+      "category": " Tilläggstavlor",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t21-1.png",
+      "img_file_name": "T21.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Uppställning av fordon"
+    },
+    {
+      "category": " Tilläggstavlor",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t22-1.png",
+      "img_file_name": "T22.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Text"
+    },
+    {
+      "category": " Tilläggstavlor",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t23-1.jpg",
+      "img_file_name": "T23.jpg",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Tunnelkategori"
+    },
+    {
+      "category": " Tilläggstavlor",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t24-1.png",
+      "img_file_name": "T24.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Laddplats"
+    },
+    {
+      "category": " Tilläggstavlor",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t25-1.png",
+      "img_file_name": "T25.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Öppet dygnet runt"
+    },
+    {
+      "category": " Trafiksignaler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig1-1.png",
+      "img_file_name": "SIG1.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Röd"
+    },
+    {
+      "category": " Trafiksignaler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig2-1.png",
+      "img_file_name": "SIG2.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Röd + gul"
+    },
+    {
+      "category": " Trafiksignaler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig3-1.png",
+      "img_file_name": "SIG3.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Grön"
+    },
+    {
+      "category": " Trafiksignaler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig4-1.png",
+      "img_file_name": "SIG4.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Gul"
+    },
+    {
+      "category": " Trafiksignaler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig5-1.png",
+      "img_file_name": "SIG5.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Blinkande gul"
+    },
+    {
+      "category": " Trafiksignaler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig6-1.png",
+      "img_file_name": "SIG6.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Röd akustisk signal med långsam pulsfrekvens"
+    },
+    {
+      "category": " Trafiksignaler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig7-1.png",
+      "img_file_name": "SIG7.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Grön akustisk signal med snabb pulsfrekvens"
+    },
+    {
+      "category": " Trafiksignaler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig8-1.png",
+      "img_file_name": "SIG8.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " S"
+    },
+    {
+      "category": " Trafiksignaler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig9-1.png",
+      "img_file_name": "SIG9.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " S+vågrätt streck"
+    },
+    {
+      "category": " Trafiksignaler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig10-1.png",
+      "img_file_name": "SIG10.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Lodrätt streck eller pil"
+    },
+    {
+      "category": " Trafiksignaler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig11-1.png",
+      "img_file_name": "SIG11.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Vågrätt streck"
+    },
+    {
+      "category": " Trafiksignaler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig12-1.png",
+      "img_file_name": "SIG12.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Rött kryss"
+    },
+    {
+      "category": " Trafiksignaler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig13-1.png",
+      "img_file_name": "SIG13.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Gul pil eller pilar"
+    },
+    {
+      "category": " Trafiksignaler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig14-1.png",
+      "img_file_name": "SIG14.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Grön pil"
+    },
+    {
+      "category": " Trafiksignaler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig16-1.png",
+      "img_file_name": "SIG16.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Rött blinkande ljus"
+    },
+    {
+      "category": " Trafiksignaler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig17-1.png",
+      "img_file_name": "SIG17.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Rött fast ljus"
+    },
+    {
+      "category": " Trafiksignaler",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig18-1.png",
+      "img_file_name": "SIG18.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Gult blinkande ljus för påkallande av särskild försiktighet"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m1-1.png",
+      "img_file_name": "M1.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Mittlinje eller körfältslinje"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m2-1.png",
+      "img_file_name": "M2.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Kantlinje"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m3-1.png",
+      "img_file_name": "M3.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varningslinje"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m4-1.png",
+      "img_file_name": "M4.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Ledlinje"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m5-1.png",
+      "img_file_name": "M5.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Cykelfältslinje"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m6-1.png",
+      "img_file_name": "M6.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Linje för fordon i linjetrafik med flera"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m7-1.png",
+      "img_file_name": "M7.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Reversibelt körfält"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m8-1.png",
+      "img_file_name": "M8.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Heldragen linje"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m9-1.png",
+      "img_file_name": "M9.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Spärrområde"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m10-1.png",
+      "img_file_name": "M10.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Mittlinje eller körfältslinje och heldragen linje"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m11-1.png",
+      "img_file_name": "M11.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Varningslinje och heldragen linje"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m12-1.png",
+      "img_file_name": "M12.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Mittlinje och varningslinje"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m13-1.png",
+      "img_file_name": "M13.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Stopplinje"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m14-1.png",
+      "img_file_name": "M14.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Väjningslinje"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m15-1.png",
+      "img_file_name": "M15.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Övergångsställe"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m16-1.jpg",
+      "img_file_name": "M16.jpg",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Cykelpassage eller cykelöverfart"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m17-1.png",
+      "img_file_name": "M17.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Farthinder"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m17a-cykelbox.png",
+      "img_file_name": "M17A.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Cykelbox"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m18-1.png",
+      "img_file_name": "M18.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förberedande upplysning om väjningsplikt eller stopplikt"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m19-1.png",
+      "img_file_name": "M19.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Körfältspilar"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m20-1.png",
+      "img_file_name": "M20.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Körfältsbyte"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m21-1.png",
+      "img_file_name": "M21.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förbud mot att stanna och parkera"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m22-1.png",
+      "img_file_name": "M22.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förbud mot att parkera"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m23-1.png",
+      "img_file_name": "M23.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förbud mot att stanna och parkera eller att parkera"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m24-1.png",
+      "img_file_name": "M24.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Uppställningsplats"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m25-1.png",
+      "img_file_name": "M25.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Gång- och cykelpil"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m26-1.png",
+      "img_file_name": "M26.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Cykel"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m27-1.png",
+      "img_file_name": "M27.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Gående"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m28-1.png",
+      "img_file_name": "M28.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Buss"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m29-1.png",
+      "img_file_name": "M29.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Hastighet"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m30.png",
+      "img_file_name": "M30.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Vägnummer"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m31-1.png",
+      "img_file_name": "M31.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Ändamålsplats"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m32-1.png",
+      "img_file_name": "M32.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Stopp"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m33-1.png",
+      "img_file_name": "M33.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Rörelsehindrad"
+    },
+    {
+      "category": " Vägmarkeringar",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m34-1.png",
+      "img_file_name": "M34.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Information"
+    },
+    {
+      "category": " Tecken av vakt",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/v1.png",
+      "img_file_name": "V1.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Stopp"
+    },
+    {
+      "category": " Tecken av vakt",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/v2.png",
+      "img_file_name": "V2.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Kör fram"
+    },
+    {
+      "category": " Tecken av vakt",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/v3.png",
+      "img_file_name": "V3.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Kännetecken"
+    },
+    {
+      "category": " Andra anordningar för anvisningar för trafiken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/x1.png",
+      "img_file_name": "X1.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Markeringspil"
+    },
+    {
+      "category": " Andra anordningar för anvisningar för trafiken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/x2-1.png",
+      "img_file_name": "X2.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Markeringsskärm för hinder"
+    },
+    {
+      "category": " Andra anordningar för anvisningar för trafiken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/x3-1.png",
+      "img_file_name": "X3.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Markeringsskärm för sidohinder, farthinder med mera"
+    },
+    {
+      "category": " Andra anordningar för anvisningar för trafiken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/x4-1.png",
+      "img_file_name": "X4.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Avfartsskärm"
+    },
+    {
+      "category": " Andra anordningar för anvisningar för trafiken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/x5-1.png",
+      "img_file_name": "X5.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Gul ljuspil eller ljuspilar"
+    },
+    {
+      "category": " Andra anordningar för anvisningar för trafiken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/x6-1.png",
+      "img_file_name": "X6.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Särskild varningsanordning"
+    },
+    {
+      "category": " Andra anordningar för anvisningar för trafiken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/x7-1.png",
+      "img_file_name": "X7.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Vägbom"
+    },
+    {
+      "category": " Andra anordningar för anvisningar för trafiken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/x8-1.gif",
+      "img_file_name": "X8.gif",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " X8"
+    },
+    {
+      "category": " Andra anordningar för anvisningar för trafiken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/x9-1.png",
+      "img_file_name": "X9.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Cirkulationstrafik"
+    },
+    {
+      "category": " Andra anordningar för anvisningar för trafiken",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/x10.png",
+      "img_file_name": "X10.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Stolpmarkeringsanordning"
+    },
+    {
+      "category": " Tecken av polisman med flera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/p1-1.png",
+      "img_file_name": "P1.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Stopp"
+    },
+    {
+      "category": " Tecken av polisman med flera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/p2-1.png",
+      "img_file_name": "P2.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Stopp"
+    },
+    {
+      "category": " Tecken av polisman med flera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/p3-1.png",
+      "img_file_name": "P3.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Stopp"
+    },
+    {
+      "category": " Tecken av polisman med flera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/p4-1.png",
+      "img_file_name": "P4.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Kör fram"
+    },
+    {
+      "category": " Tecken av polisman med flera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/p5-1.png",
+      "img_file_name": "P5.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Minska hastigheten"
+    },
+    {
+      "category": " Tecken av polisman med flera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/p6-1.png",
+      "img_file_name": "P6.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Kontroll"
+    },
+    {
+      "category": " Tecken av polisman med flera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/p7-1.png",
+      "img_file_name": "P7.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Förberedande upplysning om kontroll"
+    },
+    {
+      "category": " Tecken av polisman med flera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/p8-1.png",
+      "img_file_name": "P8.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Minska hastigheten"
+    },
+    {
+      "category": " Tecken av polisman med flera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/p9-1.png",
+      "img_file_name": "P9.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Minska hastigheten"
+    },
+    {
+      "category": " Tecken av polisman med flera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/p10-1.png",
+      "img_file_name": "P10.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Följ efter och stanna bakom polisfordonet när detta stannar"
+    },
+    {
+      "category": " Tecken av polisman med flera",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/p11-1.png",
+      "img_file_name": "P11.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Kör in till vägkanten och stanna framför polisfordonet"
+    },
+    {
+      "category": "Signaler vid korsning med järnväg eller spårväg",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/y1.png",
+      "img_file_name": "Y1.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Rött blinkande ljus"
+    },
+    {
+      "category": " Signaler vid korsning med järnväg eller spårväg",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/y2-1.gif",
+      "img_file_name": "Y2.gif",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Ljudsignal"
+    },
+    {
+      "category": " Signaler vid korsning med järnväg eller spårväg",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/y3-1.png",
+      "img_file_name": "Y3.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Bom"
+    },
+    {
+      "category": " Signaler vid korsning med järnväg eller spårväg",
+      "type": "multiple",
+      "image": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/y4.png",
+      "img_file_name": "Y4.png",
+      "question": "Vad betyder vägmärken bilden vägmärke ?",
+      "correct_answer": " Plankorsningsskärm"
+    }
+  ]
+}

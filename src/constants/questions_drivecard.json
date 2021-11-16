@@ -1,0 +1,297 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "./public/images/C27.png)",
+      "img_file_name": "C27.png",
+      "question": "Vad innebär vägmärket?",
+      "correct_answer": "Förbud att köra om motordrivna fordon med fler hjul än två",
+      "incorrect_answers": [
+        "Enbart förbud att köra om personbilar",
+        "Förbud att köra om alla motordrivna fordon "
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.png",
+      "question": "Du kör i mörker. I vilken situation är det förbjudet att använda helljus?",
+      "correct_answer": "Vid möte med en cyklist",
+      "incorrect_answers": [
+        "När jag passerar ett parkerat fordon",
+        "Vid möte med gående"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_1.png",
+      "question": "Får du köra om på höger sida i den här situation?",
+      "correct_answer": "JA",
+      "incorrect_answers": [
+        "Nej"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_2.png",
+      "question": "I vilken av dessa situationer är det lämpligt att använda vägrenen för att underlätta omkörning?",
+      "correct_answer": "Bild A",
+      "incorrect_answers": [
+        "Bild B",
+        "Bild C",
+        "Bild D"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_3.png",
+      "question": "Vad innebär vägmärkeskombinationen?",
+      "correct_answer": "Det är förbjudet att parkera före dessa vägmärken",
+      "incorrect_answers": [
+        "Det är förbjudet att stanna efter dessa vägmärken",
+        "Det är förbjudet att stanna före dessa vägmärken",
+        "Det är förbjudet att parkera efter dessa vägmärken"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.png",
+      "question": "I vilken av följande grupp får alla fordonen köra på motorväg?",
+      "correct_answer": "Lätt motorcykel, tung last, personbil med släpvagn",
+      "incorrect_answers": [
+        "Buss, tung motorcykel, traktor",
+        "Lätt lastbil, personbil med släpvagn, traktor",
+        "Lätt motorcykel, moped klass I, personbil med släpvagn"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.png",
+      "question": "Hur undviker du bäst att få vattenplaning?",
+      "correct_answer": "Genom att köra tillräcklig låg hastighet",
+      "incorrect_answers": [
+        "Genom att köra en bil med fyrhjulsdrift",
+        "Genom att köra med breda däck",
+        "Genom att köra med däck vars mönsterdjup är mer än 5 mm"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "B5.png",
+      "question": "Du har precis passerat det här vägmärket. Vad gäller i korsningen du kommer till om det inte finns några andra vägmärken?",
+      "correct_answer": "Jag ska låta trafik från höger köra före mig",
+      "incorrect_answers": [
+        "Jag ska låta all korsande trafik köra före mig",
+        "Jag ska låta trafik från vänster köra före mig",
+        "All korsande trafik skall låta mig köra först"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.png",
+      "question": "Får en ambulans med sirener och blåljus påslagna passera en trafiksignal som visar röt ljus",
+      "correct_answer": "Ja",
+      "incorrect_answers": [
+        "Nej",
+        "Ingen kan köra på röt"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.png",
+      "question": "Kan du bli åtalad om du följer med som passagerare i en bil och du vet att föraren är alkoholpåverkad ",
+      "correct_answer": "Ja",
+      "incorrect_answers": [
+        "Nej",
+        "Nej om du är nykter"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.png",
+      "question": "Din personbil är 180 cm bred. Hur mycket får lasten som mest skjuta ut bilens ena sida, vid färd på allmän väg?",
+      "correct_answer": "20 cm",
+      "incorrect_answers": [
+        "10 cm",
+        "30 cm",
+        "40 cm"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.png",
+      "question": "Du ska transportera en säng på taket på din bil. Bilen är 160 cm bred och ska köras på allmän väg. Hur bred får sängen maximalt vara?",
+      "correct_answer": "200 cm",
+      "incorrect_answers": [
+        "160 cm",
+        "180 cm",
+        "220 cm",
+        "240 cm",
+        "260 cm"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.png",
+      "question": "Vid begreppet LÄTT LASTBIL menas lastbil vars vikt är högst 3,5 ton",
+      "correct_answer": "Totalvikt",
+      "incorrect_answers": [
+        "Maxlast",
+        "Tjänstevikt",
+        "Bruttovikt"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_4.png",
+      "question": "Vad gäller om du ska svänga till höger?",
+      "correct_answer": "Jag får svänga nu eftersom den gröna pilen lyser",
+      "incorrect_answers": [
+        "Jag ska vänta eftersom signalen visar rött ljus",
+        "Jag ska stanna eftersom vägmärket STOP finns uppsatt"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.png",
+      "question": "Är du skyldig att underrätta polisen om du kört på och skadat en älg?",
+      "correct_answer": "Ja, jag måste alltid underrätta polisen",
+      "incorrect_answers": [
+        "Nej, inte om älgen kan springa från platsen",
+        "Ja, men enbart om älgen dödas vid krocken"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.png",
+      "question": "Vilken belysning får du använda när du kör i dimma i dagsljus?",
+      "correct_answer": "Dimljus tillsammans med parkeringsljus",
+      "incorrect_answers": [
+        "Enbart dimljus",
+        "Dimljus tillsammans med halvljus"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.png",
+      "question": "I vilken av dessa gruppen finns de flesta förare som skadas svårt i trafiken?",
+      "correct_answer": "Kvinnor 18 - 24 år",
+      "incorrect_answers": [
+        "Kvinnor 18 - 24 år",
+        "Kvinnor 50 - 65 år",
+        "Män 18 - 24 år",
+        "Män 40 - 55 år",
+        "Män 75 - 84 år"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_5.png",
+      "question": "Du kör inne på en stor parkeringsplats och ska fortsätta rakt fram. Bilen som kommer från höger kör sakta. Vad ska du göra",
+      "correct_answer": "Jag låter den andra bilen köra först eftersom den kommer från höger",
+      "incorrect_answers": [
+        "Jag kör först eftersom den andra bilen kommer från höger",
+        "Jag kör först eftersom jag ska köra rakt fram"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.png",
+      "question": "Är det tillåtet att stanna eller parkera vid en busshållplats",
+      "correct_answer": "Ja, om jag inte hindrar någon buss och jag stannar för att låta passagerare stiga ur eller i bilen",
+      "incorrect_answers": [
+        "Ja, om jag inte hindrar någon buss och jag stannar för att lasta ur eller i någon gods",
+        "Ja, jag får parkera om jag sitter kvar i bilen",
+        "Nej, jag får aldrig stanna vid en busshållplats"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_6.png",
+      "question": "Vilket av de här vägmärkena anger en vägkorsning där högerregeln gäller",
+      "correct_answer": "Vägmärke C",
+      "incorrect_answers": [
+        "Vägmärke A",
+        "Vägmärke B",
+        "Vägmärke D"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_6.png",
+      "question": "Vad gäller i korsningen på biden?",
+      "correct_answer": "Jag får svänga både till höger och till vänster",
+      "incorrect_answers": [
+        "Jag måste svänga till höger",
+        "Jag måste svänga till vänster"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_7.jpg",
+      "question": "Du avser att fortsätta rakt fram. Vad är viktigast att ha beredd på i den här situationen?",
+      "correct_answer": "Att föraren framför kanske stannar strax",
+      "incorrect_answers": [
+        "Att föraren framför kanske ångrar sig och fortsätter rakt fram",
+        "Att föraren i vänster körfält kanske byter till mitt körfält i korsningen. "
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.jpg",
+      "question": "Vad kallas hela sträckan från att du upptäcker ett hinder och tills bilen står stilla?",
+      "correct_answer": "Stoppsträcka",
+      "incorrect_answers": [
+        "Bromssträcka",
+        "Reaktionssträcka"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.jpg",
+      "question": "Vad grundar miljöklassningen av nya personbilar på?",
+      "correct_answer": "Mängden kolväten och vissa andra skadliga ämnen som bilen släpper ut",
+      "incorrect_answers": [
+        "Mängden koldioxid som bilen släpper ut",
+        "Bilens totalvikt",
+        "Bilens bränsleförbrukning"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.jpg",
+      "question": "Vad grundar miljöklassningen av nya personbilar på?",
+      "correct_answer": "Mängden kolväten och vissa andra skadliga ämnen som bilen släpper ut",
+      "incorrect_answers": [
+        "Mängden koldioxid som bilen släpper ut",
+        "Bilens totalvikt",
+        "Bilens bränsleförbrukning"
+      ]
+    }
+  ]
+}

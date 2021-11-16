@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1>
   <a href="https://safdarjamal.github.io/quiz-app/">
     Kör kort Teori
   </a>
