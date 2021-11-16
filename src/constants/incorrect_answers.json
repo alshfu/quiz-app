@@ -1,0 +1,1374 @@
+[
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för farlig kurva"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för flera farliga kurvor"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för nedförslutning"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för stigning"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för avsmalnande väg"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för bro"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för kaj"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för ojämn väg"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för farthinder"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för slirig väg"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för stenskott"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för stenras"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för övergångsställe"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för gående"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för barn"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för cyklande och mopedförare"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för skidåkare"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för ridande"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för djur"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för vägarbete"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Slut på sträcka med vägarbete"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för flerfärgssignal"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för lågt flygande flygplan"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för sidvind"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för mötande trafik"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för tunnel"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för svag vägkant eller hög körbanekant"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för vägkorsning"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för vägkorsning där trafikanter på anslutande väg har väjningsplikt eller stopplikt"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för cirkulationsplats"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för långsamtgående fordon"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för fordon med förspänt dragdjur"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för terrängskotertrafik"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för kö"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för järnvägskorsning med bommar"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för järnvägskorsning utan bommar"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för korsning med spårväg utan bommar"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Avstånd till plankorsning"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Kryssmärke"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för annan fara"
+  },
+  {
+    "category": " Varningsmärken",
+    "string": " Varning för olycka"
+  },
+  {
+    "category": " Väjningspliktsmärken",
+    "string": " Väjningsplikt"
+  },
+  {
+    "category": " Väjningspliktsmärken",
+    "string": " Stopplikt"
+  },
+  {
+    "category": " Väjningspliktsmärken",
+    "string": " Övergångsställe"
+  },
+  {
+    "category": " Väjningspliktsmärken",
+    "string": " Huvudled"
+  },
+  {
+    "category": " Väjningspliktsmärken",
+    "string": " Huvudled upphör"
+  },
+  {
+    "category": " Väjningspliktsmärken",
+    "string": " Väjningsplikt mot mötande trafik"
+  },
+  {
+    "category": " Väjningspliktsmärken",
+    "string": " Mötande trafik har väjningsplikt"
+  },
+  {
+    "category": " Väjningspliktsmärken",
+    "string": " Cykelöverfart"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Förbud mot infart med fordon"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Förbud mot trafik med fordon"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Förbud mot trafik med annat motordrivet fordon än moped klass II"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Förbud mot trafik med motordrivet fordon med fler än två hjul"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Förbud mot trafik med motorcykel och moped klass I"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Förbud mot trafik med motordrivet fordon med tillkopplad släpvagn"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Förbud mot trafik med tung lastbil"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Förbud mot trafik med traktor och motorredskap klass II"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Förbud mot trafik med fordon lastat med farligt gods"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Förbud mot trafik med cykel och moped klass II"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Förbud mot trafik med moped klass II"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Förbud mot trafik med fordon förspänt med dragdjur"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Förbud mot trafik med terrängmotorfordon och terrängsläp"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Förbud mot ridning"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Förbud mot gångtrafik"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Begränsad fordonsbredd"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Begränsad fordonshöjd"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Begränsad fordonslängd"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Minsta avstånd"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Begränsad bruttovikt på fordon"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Begränsad bruttovikt på fordon och fordonståg"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Bärighetsklass"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Begränsat axeltryck"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Begränsat boggitryck"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Förbud mot sväng i korsning"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Förbud mot U-sväng"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Förbud mot omkörning"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Slut på förbud mot omkörning"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Förbud mot omkörning med tung lastbil"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Slut på förbud mot omkörning med tung lastbil"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Hastighetsbegränsning"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Tillfällig hastighetsbegränsning upphör"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Stopp vid tull"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Stopp för angivet ändamål"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Förbud mot att parkera fordon"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Förbud mot att parkera fordon på dag med udda datum"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Förbud mot att parkera fordon på dag med jämnt datum"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Datumparkering"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Förbud mot att stanna och parkera fordon"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Ändamålsplats"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Slut på ändamålsplats"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Vändplats"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Slut på vändplats"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Förbud mot trafik med annat motordrivet fordon med dubbdäck än moped klass II"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Särskilda bestämmelser för stannande och parkering"
+  },
+  {
+    "category": " Förbudsmärken",
+    "string": " Begränsat trippelaxeltryck"
+  },
+  {
+    "category": " Påbudsmärken",
+    "string": " Påbjuden körriktning"
+  },
+  {
+    "category": " Påbudsmärken",
+    "string": " Påbjuden körbana"
+  },
+  {
+    "category": " Påbudsmärken",
+    "string": " Cirkulationsplats"
+  },
+  {
+    "category": " Påbudsmärken",
+    "string": " Påbjuden cykelbana"
+  },
+  {
+    "category": " Påbudsmärken",
+    "string": " Påbjuden gångbana"
+  },
+  {
+    "category": " Påbudsmärken",
+    "string": " Påbjuden gång- och cykelbana"
+  },
+  {
+    "category": " Påbudsmärken",
+    "string": " Påbjudna gång- och cykelbanor"
+  },
+  {
+    "category": " Påbudsmärken",
+    "string": " Påbjuden ridväg"
+  },
+  {
+    "category": " Påbudsmärken",
+    "string": " Påbjuden led för terrängmotorfordon och terrängsläp"
+  },
+  {
+    "category": " Påbudsmärken",
+    "string": ""
+  },
+  {
+    "category": " Påbudsmärken",
+    "string": " Slut på påbjuden bana, körfält, väg eller led"
+  },
+  {
+    "category": " Påbudsmärken",
+    "string": " Påbjuden körriktning för fordon lastat med farligt gods"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Motorväg"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Motorväg upphör"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Motortrafikled"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Motortrafikled upphör"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Tättbebyggt område"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Tättbebyggt område upphör"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Gågata"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Gågata upphör"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Gångfartsområde"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Gångfartsområde upphör"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Rekommenderad lägre hastighet"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Rekommenderad lägre hastighet upphör"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Rekommenderad högsta hastighet"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Rekommenderad högsta hastighet upphör"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Sammanvävning"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Enkelriktad trafik"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Återvändsväg"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Mötesplats"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Parkering"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Områdesmärke"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Slut på område"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Busshållplats"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Taxi"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Automatisk trafikövervakning"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Betalväg"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Tunnel"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Nöduppställningsplats"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Nödutgång"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Utrymningsväg"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Särskilda bestämmelser för parkering"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Miljözon"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Slut på miljözon"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Cykelgata"
+  },
+  {
+    "category": " Anvisningsmärken",
+    "string": " Cykelgata upphör"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Orienteringstavla"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Orienteringstavla vid förbjuden sväng i korsning"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Tabellorienteringstavla"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Avfartsorienteringstavla"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Vägvisare"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Tabellvägvisare"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Avfartsvisare"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Körfältsvägvisare"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Samlingsmärke för vägvisning"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Platsmärke"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Vägnamn"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Vattendrag"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Avståndstavla"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Vägnummer"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Omledning"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Ökning av antal körfält"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Minskning av antal körfält"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Körfältsindelning på sträcka"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Väganslutning med accelerationsfält"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Väganslutning med separat körfält"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Körfältsindelning före korsning"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Riksmärke"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Orienteringstavla för omledningsväg"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Färdriktning vid omledning"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Körfält upphör"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Körfält avstängt"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Trafikplatsnummer"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Parkeringshus"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Infartsparkering"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Lokal slinga"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Lämplig väg eller förbifart för visst fordonsslag eller trafikantgrupp"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Farligt gods"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning",
+    "string": " Räddningsplats"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning av gång- och cykeltrafik",
+    "string": " Vägvisare"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning av gång- och cykeltrafik",
+    "string": " Tabellvägvisare"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning av gång- och cykeltrafik",
+    "string": " Platsmärke"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning av gång- och cykeltrafik",
+    "string": " Avståndstavla"
+  },
+  {
+    "category": " Lokaliseringsmärken för vägvisning av gång- och cykeltrafik",
+    "string": " Cykelled"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om allmänna inrättningar med mera",
+    "string": " Post"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om allmänna inrättningar med mera",
+    "string": " Hjälptelefon"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om allmänna inrättningar med mera",
+    "string": " Radiostation för vägtrafikinformation"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om allmänna inrättningar med mera",
+    "string": " Akutsjukhus"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om allmänna inrättningar med mera",
+    "string": " Industriområde"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om allmänna inrättningar med mera",
+    "string": " Järnvägsstation"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om allmänna inrättningar med mera",
+    "string": " Busstation"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om allmänna inrättningar med mera",
+    "string": " Flygplats"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om allmänna inrättningar med mera",
+    "string": " Brandsläckare"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om allmänna inrättningar med mera",
+    "string": " Handelsområde"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om allmänna inrättningar med mera",
+    "string": " Färja"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om allmänna inrättningar med mera",
+    "string": " Personfärja"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+    "string": " Informationsplats"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+    "string": " Fordonsverkstad"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+    "string": "  Drivmedel"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+    "string": " Gas för fordonsdrift"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+    "string": " Servering"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+    "string": " Restaurang"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+    "string": " Hotell"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+    "string": " Vandrarhem"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+    "string": " Stugby"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+    "string": " Stuga"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+    "string": " Campingplats"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+    "string": " Husvagnsplats"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+    "string": " Rastplats"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+    "string": " Toalett"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+    "string": " Badplats"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+    "string": " Friluftsområde"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+    "string": " Vandringsled"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+    "string": " Stollift"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+    "string": " Släplift"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+    "string": " Golfbana"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+    "string": " Försäljningsställe för fiskekort"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+    "string": " Sevärdhet"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+    "string": " Förberedande upplysning om vägnära service"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+    "string": " Rum och frukost"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+    "string": " Gårdsbutik"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+    "string": " Hantverk"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+    "string": " Laddstation"
+  },
+  {
+    "category": " Lokaliseringsmärken för upplysning om serviceanläggningar med mera",
+    "string": " Anläggning som enbart tillhandahåller platser för bilar med bostadsutrymme"
+  },
+  {
+    "category": " Lokaliseringsmärken för turistiskt intressanta mål med mera",
+    "string": " Turistväg"
+  },
+  {
+    "category": " Lokaliseringsmärken för turistiskt intressanta mål med mera",
+    "string": " Turistområde"
+  },
+  {
+    "category": " Lokaliseringsmärken för turistiskt intressanta mål med mera",
+    "string": " Landmärke"
+  },
+  {
+    "category": " Lokaliseringsmärken för turistiskt intressanta mål med mera",
+    "string": " Världsarv"
+  },
+  {
+    "category": " Upplysningsmärken",
+    "string": " Upplysningsmärke"
+  },
+  {
+    "category": " Upplysningsmärken",
+    "string": " Livsfarlig ledning"
+  },
+  {
+    "category": " Symboler",
+    "string": " Tung lastbil"
+  },
+  {
+    "category": " Symboler",
+    "string": " Tung lastbil med tillkopplad släpvagn"
+  },
+  {
+    "category": " Symboler",
+    "string": " Personbil"
+  },
+  {
+    "category": " Symboler",
+    "string": " Personbil med tillkopplad släpkärra"
+  },
+  {
+    "category": " Symboler",
+    "string": " Buss"
+  },
+  {
+    "category": " Symboler",
+    "string": " Traktor och motorredskap klass II"
+  },
+  {
+    "category": " Symboler",
+    "string": " Motorcykel"
+  },
+  {
+    "category": " Symboler",
+    "string": " Cykel och moped klass II"
+  },
+  {
+    "category": " Symboler",
+    "string": " Släpkärra"
+  },
+  {
+    "category": " Symboler",
+    "string": " Gående"
+  },
+  {
+    "category": " Symboler",
+    "string": " Rörelsehindrade"
+  },
+  {
+    "category": " Symboler",
+    "string": " Personbil klass II"
+  },
+  {
+    "category": " Symboler",
+    "string": " Personfärja"
+  },
+  {
+    "category": " Tilläggstavlor",
+    "string": " Vägsträckas längd"
+  },
+  {
+    "category": " Tilläggstavlor",
+    "string": " Avstånd"
+  },
+  {
+    "category": " Tilläggstavlor",
+    "string": " Avstånd till stopplikt"
+  },
+  {
+    "category": " Tilläggstavlor",
+    "string": " Fri bredd"
+  },
+  {
+    "category": " Tilläggstavlor",
+    "string": " Totalvikt"
+  },
+  {
+    "category": " Tilläggstavlor",
+    "string": " Tidsangivelse"
+  },
+  {
+    "category": " Tilläggstavlor",
+    "string": " Rörelsehindrade"
+  },
+  {
+    "category": " Tilläggstavlor",
+    "string": " Symboltavla"
+  },
+  {
+    "category": " Tilläggstavlor",
+    "string": " Nedsatt syn"
+  },
+  {
+    "category": " Tilläggstavlor",
+    "string": " Nedsatt hörsel"
+  },
+  {
+    "category": " Tilläggstavlor",
+    "string": " Utsträckning"
+  },
+  {
+    "category": " Tilläggstavlor",
+    "string": " Riktning"
+  },
+  {
+    "category": " Tilläggstavlor",
+    "string": " Flervägsväjning"
+  },
+  {
+    "category": " Tilläggstavlor",
+    "string": " Flervägsstopp"
+  },
+  {
+    "category": " Tilläggstavlor",
+    "string": " Vägars fortsättning i korsning"
+  },
+  {
+    "category": " Tilläggstavlor",
+    "string": " Avgift"
+  },
+  {
+    "category": " Tilläggstavlor",
+    "string": " Parkeringsskiva"
+  },
+  {
+    "category": " Tilläggstavlor",
+    "string": " Tillåten tid för parkering"
+  },
+  {
+    "category": " Tilläggstavlor",
+    "string": " Boende"
+  },
+  {
+    "category": " Tilläggstavlor",
+    "string": " Parkeringsbiljett"
+  },
+  {
+    "category": " Tilläggstavlor",
+    "string": " Uppställning av fordon"
+  },
+  {
+    "category": " Tilläggstavlor",
+    "string": " Text"
+  },
+  {
+    "category": " Tilläggstavlor",
+    "string": " Tunnelkategori"
+  },
+  {
+    "category": " Tilläggstavlor",
+    "string": " Laddplats"
+  },
+  {
+    "category": " Tilläggstavlor",
+    "string": " Öppet dygnet runt"
+  },
+  {
+    "category": " Trafiksignaler",
+    "string": " Röd"
+  },
+  {
+    "category": " Trafiksignaler",
+    "string": " Röd + gul"
+  },
+  {
+    "category": " Trafiksignaler",
+    "string": " Grön"
+  },
+  {
+    "category": " Trafiksignaler",
+    "string": " Gul"
+  },
+  {
+    "category": " Trafiksignaler",
+    "string": " Blinkande gul"
+  },
+  {
+    "category": " Trafiksignaler",
+    "string": " Röd akustisk signal med långsam pulsfrekvens"
+  },
+  {
+    "category": " Trafiksignaler",
+    "string": " Grön akustisk signal med snabb pulsfrekvens"
+  },
+  {
+    "category": " Trafiksignaler",
+    "string": " S"
+  },
+  {
+    "category": " Trafiksignaler",
+    "string": " S+vågrätt streck"
+  },
+  {
+    "category": " Trafiksignaler",
+    "string": " Lodrätt streck eller pil"
+  },
+  {
+    "category": " Trafiksignaler",
+    "string": " Vågrätt streck"
+  },
+  {
+    "category": " Trafiksignaler",
+    "string": " Rött kryss"
+  },
+  {
+    "category": " Trafiksignaler",
+    "string": " Gul pil eller pilar"
+  },
+  {
+    "category": " Trafiksignaler",
+    "string": " Grön pil"
+  },
+  {
+    "category": " Trafiksignaler",
+    "string": " Rött blinkande ljus"
+  },
+  {
+    "category": " Trafiksignaler",
+    "string": " Rött fast ljus"
+  },
+  {
+    "category": " Trafiksignaler",
+    "string": " Gult blinkande ljus för påkallande av särskild försiktighet"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Mittlinje eller körfältslinje"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Kantlinje"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Varningslinje"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Ledlinje"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Cykelfältslinje"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Linje för fordon i linjetrafik med flera"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Reversibelt körfält"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Heldragen linje"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Spärrområde"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Mittlinje eller körfältslinje och heldragen linje"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Varningslinje och heldragen linje"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Mittlinje och varningslinje"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Stopplinje"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Väjningslinje"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Övergångsställe"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Cykelpassage eller cykelöverfart"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Farthinder"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Cykelbox"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Förberedande upplysning om väjningsplikt eller stopplikt"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Körfältspilar"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Körfältsbyte"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Förbud mot att stanna och parkera"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Förbud mot att parkera"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Förbud mot att stanna och parkera eller att parkera"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Uppställningsplats"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Gång- och cykelpil"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Cykel"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Gående"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Buss"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Hastighet"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Vägnummer"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Ändamålsplats"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Stopp"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Rörelsehindrad"
+  },
+  {
+    "category": " Vägmarkeringar",
+    "string": " Information"
+  },
+  {
+    "category": " Tecken av vakt",
+    "string": " Stopp"
+  },
+  {
+    "category": " Tecken av vakt",
+    "string": " Kör fram"
+  },
+  {
+    "category": " Tecken av vakt",
+    "string": " Kännetecken"
+  },
+  {
+    "category": " Andra anordningar för anvisningar för trafiken",
+    "string": " Markeringspil"
+  },
+  {
+    "category": " Andra anordningar för anvisningar för trafiken",
+    "string": " Markeringsskärm för hinder"
+  },
+  {
+    "category": " Andra anordningar för anvisningar för trafiken",
+    "string": " Markeringsskärm för sidohinder, farthinder med mera"
+  },
+  {
+    "category": " Andra anordningar för anvisningar för trafiken",
+    "string": " Avfartsskärm"
+  },
+  {
+    "category": " Andra anordningar för anvisningar för trafiken",
+    "string": " Gul ljuspil eller ljuspilar"
+  },
+  {
+    "category": " Andra anordningar för anvisningar för trafiken",
+    "string": " Särskild varningsanordning"
+  },
+  {
+    "category": " Andra anordningar för anvisningar för trafiken",
+    "string": " Vägbom"
+  },
+  {
+    "category": " Andra anordningar för anvisningar för trafiken",
+    "string": " X8"
+  },
+  {
+    "category": " Andra anordningar för anvisningar för trafiken",
+    "string": " Cirkulationstrafik"
+  },
+  {
+    "category": " Andra anordningar för anvisningar för trafiken",
+    "string": " Stolpmarkeringsanordning"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "string": " Stopp"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "string": " Stopp"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "string": " Stopp"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "string": " Kör fram"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "string": " Minska hastigheten"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "string": " Kontroll"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "string": " Förberedande upplysning om kontroll"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "string": " Minska hastigheten"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "string": " Minska hastigheten"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "string": " Följ efter och stanna bakom polisfordonet när detta stannar"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "string": " Kör in till vägkanten och stanna framför polisfordonet"
+  },
+  {
+    "category": " Signaler vid korsning med järnväg eller spårväg",
+    "string": " Rött blinkande ljus"
+  },
+  {
+    "category": " Signaler vid korsning med järnväg eller spårväg",
+    "string": " Ljudsignal"
+  },
+  {
+    "category": " Signaler vid korsning med järnväg eller spårväg",
+    "string": " Bom"
+  },
+  {
+    "category": " Signaler vid korsning med järnväg eller spårväg",
+    "string": " Plankorsningsskärm"
+  }
+]
