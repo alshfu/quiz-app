@@ -285,12 +285,47 @@
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": "Vad grundar miljöklassningen av nya personbilar på?",
-      "correct_answer": "Mängden kolväten och vissa andra skadliga ämnen som bilen släpper ut",
+      "question": "Vilken information ger vägmärket om gata raktfram?",
+      "correct_answer": "Förbud att stanna och parkera",
       "incorrect_answers": [
-        "Mängden koldioxid som bilen släpper ut",
-        "Bilens totalvikt",
-        "Bilens bränsleförbrukning"
+        "Förbud mot infart med fordon",
+        "Återvändsgata",
+        "Förbud mot fordonstrafik"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.jpg",
+      "question": "Hur ska du göra i den här situationen?",
+      "correct_answer": "Behålla minmnplacering bväl till höger, sänka farten och vara beredd att stanna",
+      "incorrect_answers": [
+        "Tuta för att uppmärksamma fotgängaren på att hålla in hundarna så att jag kan passera",
+        "Öka farten för att snabbt komma förbi fotgängaren och hundarna inna kurvan",
+        "Sänka farten och köra förbi med god marginal i sidled"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.jpg",
+      "question": "Du ska svänga till vänster i en korsning framme vid det gula huset. Var ska du placera bilen strax före korsningen?",
+      "correct_answer": "Så låndt till vänster som möjligt",
+      "incorrect_answers": [
+        "Mitt i gatan",
+        "Så långt till höger som möjligt"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.jpg",
+      "question": "#####################",
+      "correct_answer": "#####################",
+      "incorrect_answers": [
+        "#################",
+        "#################",
+        "#################"
       ]
     },{
       "category": "Drive card",
