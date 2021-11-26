@@ -292,6 +292,18 @@
         "Bilens totalvikt",
         "Bilens bränsleförbrukning"
       ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.jpg",
+      "question": "En ung förare reagerar i allmänhet långsammare när det händer något oväntat i trafiken än vad en erfaren förare i 50-års åldern gör. Vad kan det bero pä? ",
+      "correct_answer": "Erfarna förare är oftast mera beredda på att diet kan hända något oväntat",
+      "incorrect_answers": [
+        "Erfarna förare kör oftast",
+        "Bilens totalvikt",
+        "Bilens bränsleförbrukning"
+      ]
     }
   ]
 }
