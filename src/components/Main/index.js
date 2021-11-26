@@ -50,7 +50,7 @@ const Main = ({startQuiz}) => {
         category &&
         numOfQuestions &&
         // difficulty &&
-        questionsType &&
+        // questionsType &&
         (countdownTime.hours || countdownTime.minutes || countdownTime.seconds)
     ) {
         allFieldsSelected = true;
