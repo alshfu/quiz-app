@@ -1,12 +1,13 @@
 {
+
   "name": "quiz-app",
   "version": "5.1.0",
   "private": true,
   "author": {
-    "name": "Safdar Jamal",
-    "url": "https://safdarjamal.github.io"
+    "name": "Alexander Shchetinin",
+    "url": "https://github.com/alshfu/"
   },
-  "homepage": "https://safdarjamal.github.io/quiz-app/",
+  "homepage": "https://github.com/alshfu/quiz-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
@@ -15,7 +16,7 @@
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "^4.0.3",
+    "react-scripts": "^3.4.4",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^2.0.3",
     "sweetalert2": "^10.16.6",
