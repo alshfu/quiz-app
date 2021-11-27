@@ -10,7 +10,6 @@
 
 - [React](http://reactjs.org)
 - [Semantic UI](https://semantic-ui.com)
-- [Open Trivia Database API](https://opentdb.com/api_config.php)
 
 ## Development
 
@@ -53,4 +52,4 @@ QuizApp is built by Safdar Jamal and edit by alshfu
 
 ## License
 
-Code released under the [MIT license](https://github.com/SafdarJamal/quiz-app/blob/master/LICENSE).
+Code released under the [MIT license]
