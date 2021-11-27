@@ -25,7 +25,7 @@ import Offline from '../Offline';
 // import json_data from "../../constants/questions_roadsing.json";
 
 const Main = ({startQuiz}) => {
-    const [category, setCategory] = useState('0');
+    const [category, setCategory] = useState();
     // const [numOfQuestions, setNumOfQuestions] = useState(5);
     const [numOfQuestions] = useState(5);
     // const [difficulty, setDifficulty] = useState('0');
@@ -49,8 +49,6 @@ const Main = ({startQuiz}) => {
     if (
         category &&
         numOfQuestions &&
-        // difficulty &&
-        // questionsType &&
         (countdownTime.hours || countdownTime.minutes || countdownTime.seconds)
     ) {
         allFieldsSelected = true;
@@ -65,7 +63,7 @@ const Main = ({startQuiz}) => {
     }
 
     const fetchData = () => {
-        // console.log(CATEGORIES[category].text)
+
         const json_data = getJSONData(category)
         if (category === 1){
             json_data.results.forEach(element => {
