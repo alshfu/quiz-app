@@ -320,10 +320,44 @@
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": "#####################",
-      "correct_answer": "#####################",
+      "question": "En ung förare reagerar i allmänhet långsammare när det händer något oväntat i trafiken än vad en erfaren förare i 50-års åldern gör. Vad kan det bero pä? ",
+      "correct_answer": "Erfarna förare är oftast mera beredda på att diet kan hända något oväntat",
       "incorrect_answers": [
-        "#################",
+        "Erfarna förare kör oftast betydligt långsammare ",
+        "Erfarna förare är oftast mera beredda på att diet kan hända något oväntat",
+        "Unga förare är oftast osäkra på sig själva "
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.jpg",
+      "question": "Ar detta påstående sant? Två personer som dricker samma mängd alkohol under samma tidsrymd för alltid samma alkoholhalt i blodet.",
+      "correct_answer": "Nej",
+      "incorrect_answers": [
+        "Ja"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.jpg",
+      "question": "Du ska svänga till vänster i korsningen på bilden. Det finns ingen trafik bakom dig.",
+      "correct_answer": "Nära mittlinjen",
+      "incorrect_answers": [
+        "Till höger i körfältet ",
+        "Till höger på vägrenen",
+        "Mitt i körfältet"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.jpg",
+      "question": "",
+      "correct_answer": "",
+      "incorrect_answers": [
+        "Till höger i korfattet ",
         "#################",
         "#################"
       ]
@@ -332,12 +366,12 @@
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": "En ung förare reagerar i allmänhet långsammare när det händer något oväntat i trafiken än vad en erfaren förare i 50-års åldern gör. Vad kan det bero pä? ",
-      "correct_answer": "Erfarna förare är oftast mera beredda på att diet kan hända något oväntat",
+      "question": "#####################",
+      "correct_answer": "#####################",
       "incorrect_answers": [
-        "Erfarna förare kör oftast",
-        "Bilens totalvikt",
-        "Bilens bränsleförbrukning"
+        "#################",
+        "#################",
+        "#################"
       ]
     },{
       "category": "Drive card",
