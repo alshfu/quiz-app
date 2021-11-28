@@ -22,6 +22,7 @@ const Quiz = ({data, countdownTime, endQuiz}) => {
     const [userSlectedAns, setUserSlectedAns] = useState(null);
     const [questionsAndAnswers, setQuestionsAndAnswers] = useState([]);
     const [timeTaken, setTimeTaken] = useState(null);
+    const quiz_img = require('../../images/'+ data[questionIndex].img_file_name);
 
     const handleItemClick = (e, {name}) => {
         setUserSlectedAns(name);
@@ -66,7 +67,7 @@ const Quiz = ({data, countdownTime, endQuiz}) => {
         });
     };
 
-    const quiz_img = require('../../images/'+ data[questionIndex].img_file_name).default;
+
 
     return (
         <Item.Header>
@@ -91,6 +92,7 @@ const Quiz = ({data, countdownTime, endQuiz}) => {
                                 <br/>
 
                                 <Item.Meta floated="center">
+
                                     <img src={quiz_img}
 
                                          alt={he.decode(data[questionIndex].correct_answer)}
