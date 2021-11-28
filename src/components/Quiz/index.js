@@ -69,6 +69,7 @@ const Quiz = ({data, countdownTime, endQuiz}) => {
 
 
     const quiz_img = require('../../images/'+ data[questionIndex].img_file_name);
+    console.log(quiz_img)
     return (
         <Item.Header>
             <Container>
