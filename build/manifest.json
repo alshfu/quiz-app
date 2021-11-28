@@ -1,0 +1,22 @@
+{
+  "name": "QuizApp",
+  "short_name": "QuizApp",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#D0D9DD",
+  "description": "Gratis körkortsfrågor / vägmarkeringar",
+  "orientation": "any",
+  "theme_color": "#1B1C1D",
+  "icons": [
+    {
+      "src": "android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
