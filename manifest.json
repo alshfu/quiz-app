@@ -1,7 +1,12 @@
 {
-  "short_name": "QuizApp",
   "name": "QuizApp",
-  "description": "QuizApp is a free and open-source quiz application that lets you play fully customized quizzes right in the browser.",
+  "short_name": "QuizApp",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#D0D9DD",
+  "description": "Gratis körkortsfrågor / vägmarkeringar",
+  "orientation": "any",
+  "theme_color": "#1B1C1D",
   "icons": [
     {
       "src": "android-chrome-192x192.png",
@@ -13,10 +18,5 @@
       "type": "image/png",
       "sizes": "512x512"
     }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "orientation": "any",
-  "theme_color": "#1B1C1D",
-  "background_color": "#D0D9DD"
+  ]
 }
