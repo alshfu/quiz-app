@@ -4,8 +4,8 @@
     {
       "category": "Drive card",
       "type": "multiple",
-      "image": "./public/images/C27.png)",
-      "img_file_name": "C27.png",
+      "image": "5_1.tif",
+      "img_file_name": "5_1.tif",
       "question": "Vad innebär vägmärket?",
       "correct_answer": "Förbud att köra om motordrivna fordon med fler hjul än två",
       "incorrect_answers": [
@@ -26,30 +26,30 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_1.png",
+      "image": "5_3.jpg",
+      "img_file_name": "5_3.jpg",
       "question": "Får du köra om på höger sida i den här situation?",
-      "correct_answer": "JA",
+      "correct_answer": "Ja",
       "incorrect_answers": [
         "Nej"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_2.png",
+      "image": "5_4.jpg",
+      "img_file_name": "5_4.jpg",
       "question": "I vilken av dessa situationer är det lämpligt att använda vägrenen för att underlätta omkörning?",
-      "correct_answer": "Bild A",
+      "correct_answer": "I situation A",
       "incorrect_answers": [
-        "Bild B",
-        "Bild C",
-        "Bild D"
+        "I situation B",
+        "I situation C",
+        "I situation D"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_3.png",
+      "image": "5_5.png",
+      "img_file_name": "5_5.png",
       "question": "Vad innebär vägmärkeskombinationen?",
       "correct_answer": "Det är förbjudet att parkera före dessa vägmärken",
       "incorrect_answers": [
@@ -84,8 +84,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "B5.png",
+      "image": "5_8.tif",
+      "img_file_name": "5_8.tif",
       "question": "Du har precis passerat det här vägmärket. Vad gäller i korsningen du kommer till om det inte finns några andra vägmärken?",
       "correct_answer": "Jag ska låta trafik från höger köra före mig",
       "incorrect_answers": [
@@ -101,8 +101,7 @@
       "question": "Får en ambulans med sirener och blåljus påslagna passera en trafiksignal som visar röt ljus",
       "correct_answer": "Ja",
       "incorrect_answers": [
-        "Nej",
-        "Ingen kan köra på röt"
+        "Nej"
       ]
     },{
       "category": "Drive card",
@@ -112,8 +111,7 @@
       "question": "Kan du bli åtalad om du följer med som passagerare i en bil och du vet att föraren är alkoholpåverkad ",
       "correct_answer": "Ja",
       "incorrect_answers": [
-        "Nej",
-        "Nej om du är nykter"
+        "Nej"
       ]
     },{
       "category": "Drive card",
@@ -156,8 +154,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_4.png",
+      "image": "5_14.png",
+      "img_file_name": "5_14.png",
       "question": "Vad gäller om du ska svänga till höger?",
       "correct_answer": "Jag får svänga nu eftersom den gröna pilen lyser",
       "incorrect_answers": [
@@ -183,7 +181,6 @@
       "question": "Vilken belysning får du använda när du kör i dimma i dagsljus?",
       "correct_answer": "Dimljus tillsammans med parkeringsljus",
       "incorrect_answers": [
-        "Enbart dimljus",
         "Dimljus tillsammans med halvljus"
       ]
     },{
@@ -203,8 +200,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_5.png",
+      "image": "5_18.jpg",
+      "img_file_name": "5_18.jpg",
       "question": "Du kör inne på en stor parkeringsplats och ska fortsätta rakt fram. Bilen som kommer från höger kör sakta. Vad ska du göra",
       "correct_answer": "Jag låter den andra bilen köra först eftersom den kommer från höger",
       "incorrect_answers": [
@@ -226,8 +223,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_6.png",
+      "image": "5_20.png",
+      "img_file_name": "5_20.png",
       "question": "Vilket av de här vägmärkena anger en vägkorsning där högerregeln gäller",
       "correct_answer": "Vägmärke C",
       "incorrect_answers": [
@@ -238,8 +235,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_6.png",
+      "image": "5_21.png",
+      "img_file_name": "5_21.png",
       "question": "Vad gäller i korsningen på biden?",
       "correct_answer": "Jag får svänga både till höger och till vänster",
       "incorrect_answers": [
@@ -249,8 +246,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_7.jpg",
+      "image": "5_22.jpg",
+      "img_file_name": "5_22.jpg",
       "question": "Du avser att fortsätta rakt fram. Vad är viktigast att ha beredd på i den här situationen?",
       "correct_answer": "Att föraren framför kanske stannar strax",
       "incorrect_answers": [
@@ -283,8 +280,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "5_25.png",
+      "img_file_name": "5_25.png",
       "question": "Vilken information ger vägmärket om gata raktfram?",
       "correct_answer": "Förbud att stanna och parkera",
       "incorrect_answers": [
@@ -295,8 +292,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "5_26.jpg",
+      "img_file_name": "5_26.jpg",
       "question": "Hur ska du göra i den här situationen?",
       "correct_answer": "Behålla minmnplacering bväl till höger, sänka farten och vara beredd att stanna",
       "incorrect_answers": [
@@ -307,8 +304,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "5_27.png",
+      "img_file_name": "5_27.png",
       "question": "Du ska svänga till vänster i en korsning framme vid det gula huset. Var ska du placera bilen strax före korsningen?",
       "correct_answer": "Så låndt till vänster som möjligt",
       "incorrect_answers": [
@@ -318,124 +315,597 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": "En ung förare reagerar i allmänhet långsammare när det händer något oväntat i trafiken än vad en erfaren förare i 50-års åldern gör. Vad kan det bero pä? ",
-      "correct_answer": "Erfarna förare är oftast mera beredda på att diet kan hända något oväntat",
+      "image": "5_28.jpg",
+      "img_file_name": "5_28.jpg",
+      "question": "Vad innebär den heldragna gula linjen? ",
+      "correct_answer": "Jag får inte stanna eller parkera här",
       "incorrect_answers": [
-        "Erfarna förare kör oftast betydligt långsammare ",
-        "Erfarna förare är oftast mera beredda på att diet kan hända något oväntat",
-        "Unga förare är oftast osäkra på sig själva "
+        "Jag får stanna här oavsett ärende, men inte parkera",
+        "Jag får stanna här, men bara för att hämta eller släppa av passagerare",
+        "Jag får stanna här, men bara för att hämta eller lämna gods "
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": "Ar detta påstående sant? Två personer som dricker samma mängd alkohol under samma tidsrymd för alltid samma alkoholhalt i blodet.",
-      "correct_answer": "Nej",
+      "question": "Vilken veckodag sker flest dödsolyckor i trafiken?",
+      "correct_answer": "Fredag",
       "incorrect_answers": [
-        "Ja"
+        "Måndag",
+        "Onsdag",
+        "Söndag"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "5_30.jpg",
+      "img_file_name": "5_30.jpg",
+      "question": "Vilket körsätt har den förare som i den här situationen saktar in tidigt för att få ett säkert samspel med cyklisten?",
+      "correct_answer": "Defensiv",
+      "incorrect_answers": [
+        "Impulsiv",
+        "Stressigt",
+        "Offensiv"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": "Du ska svänga till vänster i korsningen på bilden. Det finns ingen trafik bakom dig.",
-      "correct_answer": "Nära mittlinjen",
+      "question": "I vilken trafikmiljö är det störst risk för att föraren blir trött(sömnig)?",
+      "correct_answer": "På en bred och rak landsväg med lite trafik",
       "incorrect_answers": [
-        "Till höger i körfältet ",
-        "Till höger på vägrenen",
-        "Mitt i körfältet"
+        "På en bred väg i stadstrafik med mycket trafik",
+        "På en smal och krokig landsväg med lite trafik",
+        "I stadstrafik med lite trafik"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": "",
-      "correct_answer": "",
+      "question": "Påverkas din körförmåga i allmänhet av stress?",
+      "correct_answer": "Ja,hög stress försämrar körförmågan",
       "incorrect_answers": [
-        "Till höger i korfattet ",
-        "#################",
-        "#################"
+        "Ja, stress förbättrar alltid körförmågan",
+        "Nej"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": "#####################",
-      "correct_answer": "#####################",
+      "question": "En av följande förartyper är oftare än de andra inblandad i trafikolyckor. Vilken?",
+      "correct_answer": "Unga män med dålig självkännedom och offensiv körstill",
       "incorrect_answers": [
-        "#################",
-        "#################",
-        "#################"
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": "Är detta påstående sant? Två personer som dricker samma mängd alkohol under samma tidsrymd får alltid samma alkoholhalt i blodet. ",
-      "correct_answer": "Nej",
-      "incorrect_answers": [
-        "Ja"
+        "Unga kvinnor med bra självkännedom och defensiv körstill",
+        "Unga män med bra självkännedom och defensiv körstill"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_2_3.jpg",
-      "question": "Du ska svänga till vänster i korsningen på bilden. Det finns ingen trafik bakom dig.  Var ska du placera bilen?",
+      "question": "Bör den som är nybörjare i trafiken köra med större marginaler är en van bilförare?",
+      "correct_answer": "Ja, en nybörjare behöver oftast mer tid för att bedöma händelser i trafiken",
+      "incorrect_answers": [
+        "Nej, dagsformen avgör vilka marginaler man bör köra med",
+        "Nej, en nybörjare i trafiken är oftare mer pigg och alert än en van bilförare"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "5_35.jpg",
+      "img_file_name": "5_35.jpg",
+      "question": "Hur ska du uppträda mot fotgängaren i den här situationen?",
+      "correct_answer": "Jag sänker farten och söker ögonkontakt med henne",
+      "incorrect_answers": [
+        "Jag tutar för att påkalla hennes uppmärksamhet",
+        "Jag kör vidare eftersom jag hinner före henne"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "5_36.png",
+      "img_file_name": "5_36.png",
+      "question": "Du ska fortsätta rakt fram i korsningen. Vilka fordon har du väjningplikt mot?",
+      "correct_answer": "Enbart fordon från höger",
+      "incorrect_answers": [
+        "Fordon som kommer rakt framifrån och ska svänga till vänster",
+        "Fordon både från vänster och från höger ",
+        "Enbart fordon från vänster "
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "5_37.jpg",
+      "img_file_name": "5_37.jpg",
+      "question": "Hur ska du uppträda i denna situationen",
+      "correct_answer": "Jag har alltid väjningsplikt mot alla fordon när jag korsar en större asfalterad väg",
+      "incorrect_answers": [
+        "Jag har stopplikt eftersom jag kommer från en mindre väg",
+        "Jag har väjningsplikt mot fordon både från vänster och höger",
+        "Jag har väjningsplikt enbart mot fordon från höger"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "5_38.jpg",
+      "img_file_name": "5_38.jpg",
+      "question": "Du är 10 meter bakom bussen som 10 meter lång din hastighet är 50 km/tim. Hinner du stanna om ett barn springer ut framför bussen?",
+      "correct_answer": "Nej",
+      "incorrect_answers": [
+        "Ja"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "5_39.png",
+      "img_file_name": "5_39.png",
+      "question": "Vad gäller på den här gatan?",
+      "correct_answer": "Det är tillåtet att köra på gatan om man ska hämta en person som bor längs gatan",
+      "incorrect_answers": [
+        "Fordon får köra i högst 30 km/tim",
+        "Bilförare har väjningsplikt mot cyklister",
+        "Ingen fordonstrafik är tillåtet på gatan"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.jpg",
+      "question": "Du kommer till en olycksplats. Hur bör du försöka hjälpa en medvetslös person som andas normalt och har regelbunden puls?",
+      "correct_answer": "Jag lägger personen i stabilt (framstupa) sidoläge",
+      "incorrect_answers": [
+        "Jag lägger personen på rygg och lägger en filt över",
+        "Jag sätter omedelbart igång med hjärt- och lungräddning",
+        "Jag skakar personen tills medvetslösen går"
+  ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_2_10.jpg",
+      "question": "Du börjar bogsera din bil med motorn avstängd Vilken effekt får detta vid bogsering?",
+      "correct_answer": "Jag måste använda mycket mer kraft än normalt när jag bromsar",
+      "incorrect_answers": [
+        "Hjulen kan låsa lättare än normalt när jag bromsar",
+        "Bromsarna fungerar inte alls"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "5_42.jpg",
+      "img_file_name": "5_42.jpg",
+      "question": "Det är januari månad vilket är det viktigaste skälet till att du ska ha vinterdäck med bra mönsterdjup i den här situationen?",
+      "correct_answer": "Risken för sladd är mindre än med sommardäck",
+      "incorrect_answers": [
+        "Bilens ABS-bromsar fungerar inte annars",
+        "Jag kan annars få böter",
+        "Jag kan köra fortare än med sommardäck"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "5_43.jpg",
+      "img_file_name": "5_43.jpg",
+      "question": "Vilket bild vissar rätt?",
+      "correct_answer": "Bild B",
+      "incorrect_answers": [
+        "Bild A",
+        "Bild C"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.jpg",
+      "question": "Varför inträffar de flesta dödsolyckorna i trafiken mellan klockan 16 och klockan 18?",
+      "correct_answer": "Det är då det är mest trafik",
+      "incorrect_answers": [
+        "Det är då förarna är tröttast",
+        "Det är mycket vilt på vägarna",
+        "Det är oftast skymning"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "5_45.jpg",
+      "img_file_name": "5_45.jpg",
+      "question": "Vad bör du vara beredd på att den gående kommer att göra?",
+      "correct_answer": "Gå över gatan",
+      "incorrect_answers": [
+        "Stå kvar och låta mig köra först"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.jpg",
+      "question": "Vilken av dessa personer löper normalt störst risk att bli en fara i trafiken?",
+      "correct_answer": "Den som söker spänning och äventyr",
+      "incorrect_answers": [
+        "Den som tillåter andra förare att göra misstag",
+        "Den som har självkontroll",
+        "Den som har gott självförtroende"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "5_47.jpg",
+      "img_file_name": "5_47.jpg",
+      "question": "Hastighetsbegränsningen på vägen du kör på just nu är 70 km/tim. Du ska svänga mot Torup. Vilken högsta tillåtna hastighet gäller direkt efter svängen, om inget annat anges?",
+      "correct_answer": "70 km/tim",
+      "incorrect_answers": [
+        "50 km/tim",
+        "60 km/tim",
+        "80 km/tim"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "5_48.jpg",
+      "img_file_name": "5_48.jpg",
+      "question": "Du tänker att svänga till höger i din här korsningen Hur bör du köra för att få så låg bränsleförbrukning som möjligt?",
+      "correct_answer": "Släppa gasen helt och utnyttja motorbromsen",
+      "incorrect_answers": [
+        "Frikoppla och rulla fram",
+        "Minska på gasen",
+        "Förtsätta med bibehållen hastighet så länge som möjligt"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.jpg",
+      "question": "Hur mycket minskar koldioxid om man använder eko driving?",
+      "correct_answer": "Cirka 700 000 ton",
+      "incorrect_answers": [
+        "Cirka 10 000 ton",
+        "Cirka 70 000 ton",
+        "Cirka 200 000 ton"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "5_50.png",
+      "img_file_name": "5_50.png",
+      "question": "Vilket påstående är rätt?",
+      "correct_answer": "Det är tillåtet att parkera helgfria lördagar kl.09.00",
+      "incorrect_answers": [
+        "Det är tillåtet att parkera vardagar kl.15.00"
+        "Det är tillåtet att parkera söndagar kl.08.00"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_2_19.jpg",
+      "question": "Hur stor andel av de som dödats i trafikolyckor har inte använt bilbältet vid olyckstillfället?",
+      "correct_answer": "Ca 50 procent",
+      "incorrect_answers": [
+        "Ca 10 procent",
+        "Ca 25 procent",
+        "Ca 75 procent"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "5_52.png",
+      "img_file_name": "5_52.png",
+      "question": "Vad gäller när du har passerat vägmärket?",
+      "correct_answer": "Anslutande vägar har väjningsplikt",
+      "incorrect_answers": [
+        "Det är förbjudet att vända på vägen",
+        "Högsta tillåtna hastighet är alltid 50 km/tim",
+        "Högsta tillåtna hastighet är alltid 70 km/tim"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.jpg",
+      "question": "Vad ska du kontrollera för trafiksäkerheten efter du har tvättat din bil på biltvätt?",
+      "correct_answer": "Att bromsarna fungerar",
+      "incorrect_answers": [
+        "Att kylsystemet fungerar",
+        "Att elsystemet fungerar",
+        "Att styrservon fungerar"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.jpg",
+      "question": "Du blir omkörd av en bil som krockat med en mötande bil under omkörningen. Din bil blir inte skadad. Kan du bli straffad om du inte stannar kvar på olycksplatsen?",
+      "correct_answer": "Ja, jag kan bli åtalad för smitning",
+      "incorrect_answers": [
+        "Nej, eftersom jag inte har orsakat olyckan",
+        "Nej, eftersom jag inte måste vittna i ett sådant fall",
+        "Nej, eftersom mitt fordon inte blev skadat"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "5_55.jpg",
+      "img_file_name": "5_55.jpg",
+      "question": "Hur ska du passera fotgängaren på bilden",
+      "correct_answer": "Minska hastigheten och passera med god marginal i sidled",
+      "incorrect_answers": [
+        "Öka hastigheten och passera snabtt med god marginal i sidled",
+        "Behålla hastigheten och placeringen för att inte överraska trafiken bakom mig",
+        "Behålla hastigheten och passera med god marginal i sidled"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "5_56.png",
+      "img_file_name": "5_56.png",
+      "question": "Vad innebär vägmärket med tilläggastavla som finns på höger sida?",
+      "correct_answer": "Cyklande eller mopedförare korsar eller kör ofta in på vägen efter svängen",
+      "incorrect_answers": [
+        "Förbud mot trafik med cyklar och mopedar till höger",
+        "Påbjuden körriktning för cyklande och mopedförare"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.jpg",
+      "question": "Vad påföljaden om föraren är grovt rattfylleri?",
+      "correct_answer": "Böter och körkortsåterkallelse",
+      "incorrect_answers": [
+        "Enbart körkortsåterkallelse",
+        "Enbart böter"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "5_58.tif",
+      "img_file_name": "5_58.tif",
+      "question": "Vad är förbjudet att göra där det här vägmärket gäller om inget annat anges?",
+      "correct_answer": "Stanna bilen för att lasta ur gods",
+      "incorrect_answers": [
+        "Stanna bilen för att ringa ett mobilsamtal",
+        "Stanna bilen för att ta upp en passagerare",
+        "Stanna bilen för att släppa av en passagerare"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "5_59.jpg",
+      "img_file_name": "5_59.jpg",
+      "question": "I vilken av situationerna kan det vara lämpligt att använda ljudsignal?",
+      "correct_answer": "Situation C",
+      "incorrect_answers": [
+        "Situation A",
+        "Situation B",
+        "Situation D"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.jpg",
+      "question": "Spelar det någon roll för bränsleförbrukningen om du har bagage i din bil?",
+      "correct_answer": "Ja, vikt och bränsleförbrukning hänger ihop",
+      "incorrect_answers": [
+        "Nej, för det kan jag enkelt kompensera med min körteknik",
+        "Nej, men det ger ett bättre väggrepp",
+        "Ja, men enbart om det är last på takräcket"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.jpg",
+      "question": "Hur bör du köra för att minska bilens avgasutsläpp?",
+      "correct_answer": "Jag undviker onödiga stopp genom att planera körningen",
+      "incorrect_answers": [
+        "Jag accelererar snabbt och med full gas efter varje växling",
+        "Jag undviker motorbromsning så lite som möjligt",
+        "Jag kör med kort avstånd till framförvarande"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.jpg",
+      "question": "Vilket alternativ innhåller samtliga belysningar som måste finnas framtill på en personbil?",
+      "correct_answer": "Helljus, halvljus, parkeringsljus och körriktningsvisare",
+      "incorrect_answers": [
+        "Hellus, halvljus och körriktningsvisare",
+        "Helljus, parkeringsljus, dimljus och körriktningsvisare",
+        "Helljus, halvljus, dimljus och körriktningsvisare" 
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.jpg",
+      "question": "Hur ska du uppträda när du blir omkörd?",
+      "correct_answer": "Jag är skyldig att försöka underlätta omkörningen även om jag bedömer att den olämplig",
+      "incorrect_answers": [
+        "Jag är skyldig att försöka hindra omkörningen om jag bedömer att den är olämplig",
+        "Jag är skyldig att minska hastigheten",
+        "Jag är skyldig att köra ut på vägrenen"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.jpg",
+      "question": "Din grannes femåriga pojke har gjort sig illa och du ska köra pojken och hans mamma till sjukhuset. Du har ingen bältesstol eller bälteskudde i bilen. Hur ska barnet sitta under resan?",
+      "correct_answer": "Han ska sitta på en egen plats i baksätet och använda bilbälte",
+      "incorrect_answers": [
+        "Han ska sitta i sin mammas knä och använda samma bilbälte som hon",
+        "Han ska sitta i sin mammas knä men utan att använda bilbälte"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.jpg",
+      "question": "Du har köpt en bensindriven bil av 2004 års modell. Vad krävs för att få köra bilen i trafik?",
+      "correct_answer": "Att bilen är kontrollbesiktad, fordonsskatten betald och trafikförsäkring tecknad",
+      "incorrect_answers": [
+        "Enbart att trafikförsäkring är tecknad",
+        "Enbart att fordonsskatten är betald och trafikförsäkring tecknad",
+        "Enbart att bilen är kontrollbesiktad Enbart att fordonsskatten är betald"
+      ]    
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.jpg",
+      "question": "Du har fått punktering en dag när det är vinterväglag. Du byter till reservhjulet som är ett så kallat nödhjul. Får du fortsätta att köra?",
+      "correct_answer": "Ja, men jag bör inte köra i högre hastighet än vad som anges på nödhjulet",
+      "incorrect_answers": [
+        "Ja, det finns inga begränsningar på att köra med nödhjul",
+        "Nej, jag får inte köra med nödhjulet när det är vinterväglag",
+        "Nej, jag måste låta bilen bli bogserad"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "5_67.tif",
+      "img_file_name": "5_67.tif",
+      "question": "Vad betyder vägmärket?",
+      "correct_answer": "Nummer på trafikplatsen",
+      "incorrect_answers": [
+        "Vägvisning till en riksväg",
+        "Vägnummermärke vid omledning av trafiken"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "5_68.jpg",
+      "img_file_name": "5_68.jpg",
+      "question": "Du ska svänga till höger i korsningen. Hur bör du göra?",
+      "correct_answer": "Jag väntar tills cyklisten har svängt i korsningen",
+      "incorrect_answers": [
+        "Jag utnyttjar andra väghalvan för att hinna före cyklisten fram till korsningen",
+        "Jag tutar för att uppmärksamma cyklisten på att jag vill köra om",
+        "Jag kör om cyklisten före korsningen utan att överskrida mittlinjen"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.jpg",
+      "question": "Vilket påstående om vägrenen är riktigt?",
+      "correct_answer": "Vägrenen är avsedd för bl.a. Oskyddade trafikanter",
+      "incorrect_answers": [
+        "Vägrenen är ett körfält",
+        "Samtliga trafikanter får använda vägrenen men ingen har skyldighet att göra det",
+        "Jag är alltid skyldig att använda vägrenen när jag blir omkörd"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "5_70.jpg",
+      "img_file_name": "5_70.jpg",
+      "question": "Du får imma på insidan av vindrutan. Vilken knapp ska du trycka på för att så fort som möjligt få bort imman?",
+      "correct_answer": "Knapp B",
+      "incorrect_answers": [
+        "Knapp A",
+        "Knapp C",
+        "Knapp D",
+        "Knapp E",
+       ]
+      
+       #_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_
+      #_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_
+      #_#_#_#_#_#_#_#_#_#_#_#_#_#bilet_6#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_
+      #_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_
+      #_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_
+      
+      
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.jpg",
+      "question": "En ung förare reagerar i allmänhet långsammare när det händer något oväntat i trafiken än vad en erfaren förare i 50-årsåldern gör. Vad kan det bero på?",
+      "correct_answer": "Erfarna förare är oftast mera beredda på att det kan hända något oväntat",
+      "incorrect_answers": [
+        "Erfarna förare kör oftast betydligt långtammare",
+        "Unga förare är oftast osäkra på sig själva"
+       
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.jpg",
+      "question": "Är detta påstående sant?
+"Två personer som dricker samma mängd alkohol under samma tidsrymd får alltid samma alkoholhalt i blodet."",
+      "correct_answer": "Nej",
+      "incorrect_answers": [
+        "Ja",
+        " "
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "6_3.jpg",
+      "img_file_name": "6_3.jpg",
+      "question": "Du ska svänga till vänster i korsningen på bilden. Det finns ingen trafik bakom dig. Var ska du placera bilen?",
       "correct_answer": "Nära mittlinjen",
       "incorrect_answers": [
         "Till höger i körfältet",
-        "Till höger på vägrenen ",
-        "Mitt i körfältet"
+"Till höger på vägrenen",
+"Mitt i körfältet"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": "Bromssträckan vid en viss hastighet är 40 meter. Hur lång blir bromssträckan om du sänker hastigheten till hälften? ",
+      "question": "Bromssträckan vid en viss hastighet är 40 meter. Hur lång blir bromssträckan om du sänker hastigheten till hälften?",
       "correct_answer": "Ca 10 meter",
       "incorrect_answers": [
         "Ca 5 meter",
-        "Ca 20 meter",
-        "Ca 30 meter"
+"Ca 20 meter",
+"Ca 30 meter"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": "Bilen har fått motorfel och du tvingas stanna i mörker pä en väg som saknar gatubelysning. Vilket ljus, utöver varningsblinkers och baklyktor, ska du ha tänt pä bilen när du stannat? ",
+      "question": "Bilen har fått motorfel och du tvingas stanna i mörker på en väg som saknar gatubelysning. Vilket ljus, utöver varningsblinkers och baklyktor, ska du ha tänt på bilen när du stannat?",
       "correct_answer": "Parkeringsljus",
       "incorrect_answers": [
-        "Halvljus",
-        "Helljus "
+        "Helljus",
+"Halvljus"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_2_6.jpg",
-      "question": "Du kör i situationen på bild A. Plötsligt börjar den här kontrollampan blinka pä instrumentpanelen (bild B). Vad bör du göra? ",
+      "image": "6_6.jpg",
+      "img_file_name": "6_6.jpg",
+      "question": "Du kör i situationen på bild A.
+Plötsligt börjar den här
+kontrollampan blinka på
+instrumentpanelen (bild B).
+Vad bör du göra?",
       "correct_answer": "Lätta på gasen",
       "incorrect_answers": [
-        "Växla ned och motorbromsa ",
-        "Gasa",
-        "Bromsa"
+        "Växla ned och motorbromsa
+Gasa
+Bromsa"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": "Du kör i 100 km/tim på en motorväg. Det är torrt väglag. Vilket är det minsta avstånd du bör ha till fordonet framför dig? ",
+      "question": "Du kör i 100 km/tim på en
+motorväg. Det är torrt väglag.
+Vilket är det minsta avstånd du bör
+ha till fordonet framför dig?",
       "correct_answer": "Cirka 100 meter",
       "incorrect_answers": [
         "Cirka 25 meter",
@@ -447,65 +917,94 @@
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": "Du backar på parkerad bil och hör i samband med detta en lätt duns. Vad ska du göra?",
-      "correct_answer": "Jag ska underrätta polisen om jag inte lyckas få kontakt med bilägaren",
+      "question": "Du backar på en parkerad bil och hör
+i samband med detta en lätt duns.
+Vad ska du göra?",
+      "correct_answer": "Jag ska underrätta polisen om
+jag inte lyckas få kontakt med
+bilägaren",
       "incorrect_answers": [
         "Jag ska alltid kontakta polisen",
-        "Jag ska kontakta bilägaren om jag tydligt kan  se någon  skada, annars behöver jag inte göra något"
+        "Jag ska kontakta bilägaren om
+jag tydligt kan se någon skada,
+annars behöver jag inte göra
+något"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": "Du har långt till en tvätthall och väljer därför att tvätta bilen med miljötvättmedel hemma vid villatomten. Vilken av de här platserna bör du helst välja? ",
-      "correct_answer": "Gräsmattan, där smuts vattnet tas upp av växter och jord",
+      "question": "Du har långt till en tvätthall och
+väljer därför att tvätta bilen med
+miljötvättmedel hemma vid
+villatomten.
+Vilken av de här platserna bör du
+helst välja?",
+      "correct_answer": "Gräsmattan, där smutsvattnet
+tas upp av växter och jord",
       "incorrect_answers": [
-        "Den asfalterade gatan, där smutsvattnet rinner ner i en dagvattenbrunn ",
-        "Garageuppfarten, där brunnen är kopplad till kommunens dagvattenledningar "
+        "Den asfalterade gatan, där
+smutsvattnet rinner ner i en
+dagvattenbrunn
+Garageuppfarten, där brunnen
+är kopplad till kommunens
+dagvattenledningar"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_2_10.jpg",
-      "question": "Måste du svänga till höger i någon av situationerna? ",
-      "correct_answer": "Ja, i båda situationerna ",
-      "incorrect_answers": [
-        "Ja, men enbart i situation B ",
-        "Ja, men enbart i situation A ",
-        "Nej"
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_2_11.jpg",
-      "question": "Du ska fortsätta rakt fram. Gäller högerregeln i n§gon av korsningarna? ",
+      "image": "6_10.png",
+      "img_file_name": "6_10.png",
+      "question": "Måste du svänga till höger i någon
+av situationerna?",
       "correct_answer": "Ja, i båda situationerna",
       "incorrect_answers": [
-        "Ja, men enbart i situation A",
-        "Ja, men enbart i situation B",
-        "Nej"
+        "Nej",
+        "Ja, men enbart i situation A
+Ja, men enbart i situation B"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_2_12.jpg",
-      "question": "Får du köra om fordonet pä bilen i den här situationen? ",
+      "image": "6_11.jpg",
+      "img_file_name": "6_11.jpg",
+      "question": "Du ska fortsätta rakt fram.
+Gäller högerregeln i någon av
+korsningarna?",
+      "correct_answer": "Ja, i båda situationerna",
+      "incorrect_answers": [
+        "Nej",
+        "Ja, men enbart i situation A
+Ja, men enbart i situation B"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "6_12.jpg",
+      "img_file_name": "6_12.jpg",
+      "question": "Får du köra om fordonet på bilen i
+den här situationen?",
       "correct_answer": "Nej",
       "incorrect_answers": [
-        "Ja, eftersom det finns dubbel heldragen linje",
-        "Ja, eftersom fordonet kör långsamt",
-        "Ja, eftersom sikten är bra och 0 D ingen trafik syns"
+        "Ja, eftersom det finns dubbel
+heldragen linje
+Ja, eftersom fordonet kör
+långsamt
+
+Ja, eftersom sikten är bra och
+ingen trafik syns"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": "Bilderna visar bland annat motortemperaturen vid olika tillfällen. Vilken bild visar en normal arbetstemperatur efter några mils körning?",
+      "image": "6_13.jpg",
+      "img_file_name": "6_13.jpg",
+      "question": "Bilderna visar bland annat
+motortemperaturen vid olika tillfällen.
+Vilken bild visar en normal
+arbetstemperatur efter några mils
+körning?",
       "correct_answer": "Bild C",
       "incorrect_answers": [
         "Bild A",
@@ -514,1162 +1013,799 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_2_4.jpg",
-      "question": "Du kör i 70 km/tim när älgen på bilden plötsligt dyker  upp. Ungefär hur långt rullar  bilen innan du hinner börja bromsa?",
+      "image": "6_14.jpg",
+      "img_file_name": "6_14.jpg",
+      "question": "Du kör i 70 km/tim när älgen på
+bilden plötsligt dyker upp.
+Ungefär hur långt rullar bilen innan >
+du hinner börja bromsa?",
       "correct_answer": "Cirka 20 meter",
       "incorrect_answers": [
-        "Cirka 10 meter",
-        "Cirka 30 meter",
-        "Cirka 40 meter"
+        "Cirka 10 meter
+Cirka 30 meter
+Cirka 40 meter"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": "Varför bör  du kontrollera lufttrycket i däcken ofta?",
-      "correct_answer": "för att högt lufttryck i däcken är bra för både miljön och min ekonomi",
+      "question": "Varför bör du kontrollera lufttrycket i
+däcken ofta?",
+      "correct_answer": "För att högt lufttryck i däcken är
+bra för både miljön och min
+ekonomi",
       "incorrect_answers": [
-        "För att lufttrycket inte får bli för högt under körning",
-        "För att lagen kräver det"
+        "För att lufttrycket inte får bli
+för högt under körning
+För att lagen kräver det"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_2_16.jpg",
-      "question": "Är någon av bilarna rätt parkerad utifrån det du ser pä bilderna? ",
-      "correct_answer": "Ja, bilen pä bild! A",
+      "image": "6_16.png",
+      "img_file_name": "6_16.png",
+      "question": "Är någon av bilarna rätt parkerad
+utifrån det du ser på bilderna?",
+      "correct_answer": "Ja, bilen på bild A",
       "incorrect_answers": [
-        "Ja, bilen pä bild! B",
-        "Ja, bilen pä bild! C",
-        "Ja, bilen pä bild! D",
-        "Nej"
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": "Vilken är den största risken när man drabbas av fartblindhet?",
-      "correct_answer": "Att man underskattar bromssträckans längd",
-      "incorrect_answers": [
-        "Att man har för stort avstånd till fordonen framför",
-        "Att man inte hinner inte vägmärken och andra anvisningar",
-        "Att reaktionsförmågan försämras",
-        "Att man blir trött fort"
+        "Ja, bilen på bild B
+Ja, bilen på bild C
+Ja, bilen på bild D
+Nej"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": "###",
-      "correct_answer": "###",
+      "question": "Vilken är den största risken när man
+drabbas av fartblindhet?",
+      "correct_answer": "Att man underskattar
+bromssträckans längd",
       "incorrect_answers": [
-        "###",
-        "###",
-        "###"
+        "Att man har för stort avstånd
+till fordonen framför ",
+        "Att man inte hinner se
+vägmärken och andra
+anvisningar
+Att reaktionsförmågan
+försämras
+Att man blir trött fort"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": "Du ska fortsätta rakt fram och den mörka bilen kör sakta. Hur ska du göra? ",
-      "correct_answer": "Jag låter den mörka bilen köra först eftersom högerregeln gäller",
+      "image": "6_18.jpg",
+      "img_file_name": "6_18.jpg",
+      "question": "Du ska fortsätta rakt fram och den
+mörka bilen kör sakta.
+Hur ska du göra? ",
+      "correct_answer": "Jag låter den mörka bilen köra
+först eftersom högerregeln gäller ",
       "incorrect_answers": [
-        "Jag kör först eftersom jag kör på den större vägen",
-        "Jag kör först eftersom jag ska fortsätta rakt fram"
+        "Jag kör först eftersom jag kör
+på den större vägen ",
+        "Jag kör först eftersom jag ska
+fortsätta rakt fram ",
+        " "
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_2_19.jpg",
-      "question": "Hur bör du stäHa in ryggstödet och huvudstödet(nackskyddet) i bilen?",
+      "image": "6_19.jpg",
+      "img_file_name": "6_19.jpg",
+      "question": "Hur bör du ställa in ryggstödet och
+huvudstödet (nackskyddet) i bilen?",
       "correct_answer": "Enligt bild C",
       "incorrect_answers": [
-        "Enligt bild B",
-        "Enligt bild D",
-        "Enligt bild A"
+        "Enligt bild A ",
+        "Enligt bild B ",
+        "Enligt bild D "
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": "Du kommer till en korsning är en militärkolonn korsar din väg. Får du passera i en lucka i kolonnen?",
-      "correct_answer": "Nej, hela militärkolonnen måste  passera innan jag får köra",
+      "question": "Var bör du placera ditt fordon på
+vägen vid möte i mörker?",
+      "correct_answer": "Så nära mittlinjen som möjligt",
       "incorrect_answers": [
-        "Ja, men enbart om polis ger mig tecken att passera",
-        "Ja, men enbart om militärpolis ger mig tecken att passera",
-        "Ja, men enbart om det kan ske utan att jag bryter eller hindrar kolonnen"
+        "Så nära kantlinjen som möjligt
+Mitt emellan mittlinjen och
+kantlinjen
+På vägrenen"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": "Hur lång sträcka kör du på 3 sekunder när du kör i 70km/tim?",
+      "question": "Du kommer till en korsning där en
+militärkolonn korsar din väg.
+Får du passera i en lucka i kolonnen?",
+      "correct_answer": "Nej, hela militärkolonnen måste
+passera innan jag får köra",
+      "incorrect_answers": [
+        "Ja, men enbart om polis ger mig
+tecken att passera
+Ja, men enbart om militärpolis
+ger mig tecken att passera",
+        "Ja, men enbart om det kan ske
+utan att jag bryter eller hindrar
+kolonnen"
+      ]
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "Q_0.png",
+      "img_file_name": "Q_0.jpg",
+      "question": "Hur lång sträcka
+kör du på 3 sekunder
+när du kör i 70 km/tim?",
       "correct_answer": "Ca 60 meter",
       "incorrect_answers": [
-        "Ca 20 meter",
-        "Ca 40 meter",
-        "Ca 30 meter",
-        "Ca 70 meter",
-        "Ca 92 meter"
+        "Ca 20 meter ",
+        "Ca 40 meter ",
+        "Ca 90 meter "
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": "Vilken är den vanligaste olyckstypen när förare ska svänga vänster pä en landsväg?",
-      "correct_answer": "Krock med fordon som kommer bakifrån.",
+      "question": "Vilken är den vanligaste olyckstypen
+när förare ska svänga vänster på en
+landsväg?",
+      "correct_answer": "Krock med fordon som kommer
+bakifrån ",
       "incorrect_answers": [
-        "Krock med fordon som kommer från höger i korsningen.",
-        "Krock med fordon som kommer från vänster i korsningen.",
-        "Krock med fordon som kör framför dem",
-        "Krock med ett mötande fordon."
+        "Krock med fordon som kommer
+från höger i korsningen ",
+        "Krock med fordon som kommer
+från vänster i korsningen
+Krock med fordon som kör
+framför dem
+Krock med ett mötande fordon "
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": "Vilket stämmer bäst in på hur människan påverkas av alkohol?",
-      "correct_answer": "Självförtroendet blir bättre.",
+      "question": "Vilket stämmer bäst in på hur
+människan påverkas av alkohol?",
+      "correct_answer": "Självförtroendet blir bättre",
       "incorrect_answers": [
-        "Förmågan att reagera snabbt blir bättre.",
-        "Förmågan att bedöma risker blir bättre.",
-        "Förmågan att anpassa hastigheten blir bättre."
+        "Förmågan att reagera snabbt blir
+bättre
+Förmågan att bedöma risker blir
+bättre
+Förmågan att anpassa
+hastigheten blir bättre"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_2_25.jpg",
-      "question": "Vad är mest förrädiskt i denna situation?",
+      "image": "6_25.jpg",
+      "img_file_name": "6_25.jpg",
+      "question": "Vad är mest förrädiskt i denna
+situation?",
       "correct_answer": "Utfarten från höger efter ladan.",
       "incorrect_answers": [
-        "Utfarten från höger före ladan.",
-        "Utfarterna på vänster sida från gårdsplanen."
+        "Utfarten från höger före ladan.
+Utfarterna på vänster sida från
+gårdsplanen."
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": "Vilket av dessa vägmärken upphör att gälla efter nästa korsning om inget annat anges?",
+      "image": "6_26.png",
+      "img_file_name": "6_26.png",
+      "question": "Vilket av dessa vägmärken upphör
+att gälla efter nästa korsning om
+inget annat anges?",
       "correct_answer": "Vägmärke B",
       "incorrect_answers": [
-        "Vägmärke A",
+        "Vägmärke A ",
         "Vägmärke C"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": "Du parkerar din bil en lördag klockan 14.30. När måste du senaste hämta bilen?",
-      "correct_answer": "Måndag kl.10:00",
+      "image": "6_27.png",
+      "img_file_name": "6_27.png",
+      "question": "Du parkerar din bil en lördag
+klockan 14.30.
+När måste du senaste hämta bilen?",
+      "correct_answer": "Måndag kl. 10.00",
       "incorrect_answers": [
-        "Måndag kl.09:00",
-        "Söndag kl. 10:00",
-        "Söndag kl. 09:00",
-        "Lördag kl. 15.30"
+        "Lördag kl.15.30
+Söndag kl.09.00
+Söndag kl. 10.00
+Måndag kl.09.00"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": "Vilken av bilderna visar en situation där €1et är tillåtet att köra om till höger?",
+      "image": "6_28.png",
+      "img_file_name": "6_28.png",
+      "question": "Vilken av bilderna visar en situation
+där det är tillåtet att köra om till
+höger?",
       "correct_answer": "Bild B",
       "incorrect_answers": [
-        "Bild A",
-        "Bild C",
-        "Bild D"
+        "Bild A ",
+        "Bild C ",
+        "Bild D "
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": "Vad avgör om du ska använda en bilbarnstol eller bälteskudde?",
-      "correct_answer": "Barnets längd.",
+      "question": "Vad avgör om du ska använda en
+bilbarnstol eller bälteskudde?",
+      "correct_answer": "Barnets längd",
       "incorrect_answers": [
-        "Barnets förmåga att sitta utan stöd.",
-        "Barnets vikt.",
-        "Barnets ålder."
+        "Barnets förmåga att sitta utan
+stöd",
+        "Barnets vikt ",
+        "Barnets ålder "
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
-      "incorrect_answers": [
-        " ",
-        " ",
-        " "
-      ]
-    },{
-      "category": "Drive card",
-      "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Vilken väg bör du välja för att
+påverka miljön så lite som möjligt?",
+      "correct_answer": "En väg där jag kan hålla jämn fart och där jag behöver stanna få gånger",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "En väg där jag måste stanna
+ofta, så att motorn får gå
+mycket på tomgång
+En väg där jag ofta måste köra
+på låga växlar
+En väg där jag måste växla
+mycket"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "image": "6_31.jpg",
+      "img_file_name": "6_31.jpg",
+      "question": "Var ska du fylla på motorolja?",
+      "correct_answer": "Vid ring B",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Vid ring A ",
+        "Vid ring C ",
+        "Vid ring D "
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du befinner dig på en landsväg som är huvudled. Hastigheten är begränsad till 90 km/tim. Något är del på bilen och du har blivit stående på vägrenen. Måste du sätta ut varningstriangel?",
+      "correct_answer": "Ja, strax bakom bilen vid vänster bakhjul",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Ja, på bilens tak
+Nej, det behövs inte eftersom
+bilen står på vägrenen
+Ja, lämpligen 100-200 meter
+bakom bilen",
+        "Ja, lämpligen 10-15 meter
+bakom bilen"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "En person som kör bil efter alkoholförtäring rattfylleri kan dömas för. Var går gränsen för rattfylleri (promillehalten mätt i blodet)?",
+      "correct_answer": "Vid 0,2 promille",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Vid 0 promille",
+        "Vid 0,5 promille",
+        "Vid 0,8 promille"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Vilket av de här fordonen får du inte bogsera?",
+      "correct_answer": "Tvåhjulig motorcykel",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Lätt lastbil
+Personbil"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du har precis svängt in på en bred landsväg. Du är osäker på vilken hastighetsbegränsning som gäller, så du kör i 70 km/tim. En lastbil närmar sig bakifrån. Hur bör du uppträda?",
+      "correct_answer": "Jag håller väl till höger så att lastbilen kan köra om",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Jag ökar till 90km/tim eftersom
+lastbilen kommer ifatt mig
+Jag ökar til 80 km/tim eftersom
+lastbilar inte får köra fortare"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "image": "6_36.jpg",
+      "img_file_name": "6_36.jpg",
+      "question": "Har du väjningsplikt mot fotgängaren i den här situationen?",
+      "correct_answer": "Ja, eftersom övergångsstället är obevakat",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Nej, eftersom fotgängaren ännu
+inte är ute på övergångsstället",
+        "Nej, eftersom det finns
+trafiksignal"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Dett finns ett klart samband mellan olika typer av personer och vårdslösthet i trafiken. I vilken av de här situationerna är det vanligast att föraren kör vårdslöst?",
+      "correct_answer": "En ung man med sina vänner i bilen",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "En äldre kvinna med sina
+väninnor i bilen",
+        "En småbarnsmamma med sina
+barn i bilen
+En medelålders man på
+tjänsteresa"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Är det bra för miljön om du vaxar din bil?",
+      "correct_answer": "Ja, för då behöver jag inte tvätta bilen så ofta",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Nej, miljöfarliga ämnen släpper från bilen när jag tvättar den ",
+        "Ja, jag förhindrar isbildning på
+bilen vintertid och det tar
+därför kortare tid att få bilen
+varm
+Nej, vax drar åt sig smuts och
+jag måste därför tvätta bilen
+oftare"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "image": "6_39.png",
+      "img_file_name": "6_39.png",
+      "question": "Du ska fortsätta rakt fram i korsningen. Hur ska du göra?",
+      "correct_answer": "Jag stannar vid stopplinjen och fortsätter när signalen visar grönt",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Jag kör vidare när fotgängaren
+passerat min körbana
+Jag stannar framme vid
+trafikljuset för att inte blockera
+för ev annan trafik som ska
+svänga"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "image": "6_40.tif",
+      "img_file_name": "6_40.tif",
+      "question": "Vad betyder vägmärket? ",
+      "correct_answer": "Átervändsväg",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Förbud att stanna och parkera
+Förbud mot fordonstrafik",
+        "Förbud mot infart med fordon "
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Vilket ämne från bilens avgaser är färglöst och saknar lukt och smak samt kan orsaka illamående och huvudvärk som ett första tecken på förgiftning?",
+      "correct_answer": "Kolmonoxid",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Kväveoxid
+Koldioxid
+Svaveloxid"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Vad innebär att en bil är utrustad med ett tvåkrets bromssystem? ",
+      "correct_answer": "Att bilen inte förlorar all bromsverkan om en krets går sönder",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Att parkeringsbromsen verkar på
+alla hjulen
+Att bromsverkan fördubblas vid
+en kraftig inbromsning
+Att man inte behöver trampa lika
+hårt på bromspedalen som med
+ett enkrets bromssystem"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Hur kan du på bästa sätt sänka bränsleförbrukningen?",
+      "correct_answer": "Jag släpper gasen i god tid för att undvika bromsning ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Jag växlar till en lägre växel i alla
+uppförsbackar
+Jag använder bilens farthållare
+Jag försöker att hela tiden köra
+på höga motorvarv"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "image": "6_44.jpg",
+      "img_file_name": "6_44.jpg",
+      "question": "Vad bör du i första hand ha beredskap för i denna situation? ",
+      "correct_answer": "Möte med omkörande fordon ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Cyklister i mitt körfält
+Gående efter vägkanten"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "En person tar en öl tillsammans med arbetskamraterna på väg hem från jobbet. Han dricker 50 cl starköl (7 % alkohol). Hur mycket motsvarar detta ungefär i starksprit (40 % alkohol)? ",
+      "correct_answer": "Cirka 18 cl ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Cirka 2 cl ",
+        "Cirka 4 cl ",
+        "Cirka 9 cl "
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "image": "6_46.jpg",
+      "img_file_name": "6_46.jpg",
+      "question": "Du kör i ett kuperat landskap. Hur bör du köra för att skona miljön mest? ",
+      "correct_answer": "Jag utnyttjar i största mån bilens rörelseenergi ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Jag använder alltid farthållaren ",
+        "Jag accelererar kraftigt i början
+av uppförsbackar
+Jag försöker alltid hålla samma
+hastighet"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "image": "6_47.jpg",
+      "img_file_name": "6_47.jpg",
+      "question": "Du ska köra in på motorvägen från påfarten. Hur ska du uppträda i situationen på bilden? ",
+      "correct_answer": "Jag accelererar på påfarten för att försöka anpassa hastigheten till trafiken på motorvägen ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Jag sänker hastigheten för att
+ha möjlighet att stanna vid
+påfartssträckans slut
+Jag väntar med att accelerera
+tills jag lämnat påfarten"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du har varit och besiktat din bil. Du fick inget föreläggande men bilen hade enklare fel. Vad ska du göra? ",
+      "correct_answer": "Åtgärda felen snarast men jag behöver inte besikta om bilen ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Åtgärda felen snarast och
+besikta om bilen
+Lämna bilen till en verkstad
+eftersom enbart en verkstad får
+åtgärda bristerna
+Betala en straffavgift
+till bilprovningen"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "image": "6_49.png",
+      "img_file_name": "6_49.png",
+      "question": "Vad innebär vägmärket? ",
+      "correct_answer": "Jag ska lämna mötande trafik förträde om det inte finns utrymme för möte ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Endast vägarbetsfordon får
+passera märket ",
+        "Mötande trafik ska lämna mig
+förträde om det inte finns
+utrymme för möte"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "På vilken av de här vägarna bör du vara extra beredd på vattenplaning?",
+      "correct_answer": "En nyasfalterad väg ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "En grusväg ",
+        "En våg med sliten körbana "
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Varför är det bra för miljön om du använder motorvärmare när det är kallt och du kör en bil med katalysator?",
+      "correct_answer": "Utsläppen av kolväten och koloxid halveras redan från start, jämfört med om motorn är kall ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Avgaserna är redan från start
+helt fria från giftiga ämnen
+Utsläppen av koldioxid halveras
+jämfört med om motorn
+är kall",
+        "Avgaserna omvandlas till
+vattenånga och koldioxid redan
+när motorn startas "
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "image": "6_52.jpg",
+      "img_file_name": "6_52.jpg",
+      "question": "Däcken på bilderna har ett mönsterdjup som överstiger 3mm. Vilket av däcken är inte tillåtet att använda under perioden 1 december - 31 mars om vinterväglag råder?",
+      "correct_answer": "Däck D",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Däck A ",
+        "Däck B ",
+        "Däck C "
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Var är det förbjudet att stanna för att släppa av en passagerare? ",
+      "correct_answer": "Där bilen skymmer ett vägmärke ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "På huvudled
+På körbanan bredvid ett parkerat
+fordon
+Framför infarten till en fastighet"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Hur kör du om du har ett defensivt körsätt?",
+      "correct_answer": "Jag planerar min körning och visar i god tid vad jag ska göra",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Jag lämnar alltid företräde till all
+korsande trafik ",
+        "Jag kör alltid med låg hastighet
+inom tättbebyggt område"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Hur kan ditt avstånd till framförvarande fordon öka trafiksäkerheten? ",
+      "correct_answer": "Ett långt avstånd underlättar omkörning för trafik bakom mig ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Ett kort avstånd hindrar farliga
+omkörningar ",
+        "Ett kort avstånd ökar
+säkerheten när jag ska göra en
+omkörning"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Hur påverkas körningen om man pratar i mobiltelefon när man kör bil?",
+      "correct_answer": "Man har sämre uppsikt bakåt i sidospeglarna",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Stoppsträckan blir kortare
+Man gör mindre och lungare
+rattrörelser
+Reaktionstiden blir kortare"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "På en olycksplats kan det finnas personer med olika typer av skador. Vilken person är det viktigast att försöka hjälpa först?",
+      "correct_answer": "Skadad med andningssvårigheter",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Skadad med benbrott ",
+        "Skadad med skärsår
+Psykiskt chockad"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Kan du påverka bränsle- förbrukningen genom att välja tidpunkt för din bilresa? ",
+      "correct_answer": "Ja, om jag kör när det är lite trafik kan jag minska förbrukningen ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Ja, om jag kör när det är mycket
+trafik kan jag minska
+förbrukningen
+Nej, det sperlar ingen roll vilken
+tid på dagen jag kör"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "image": "6_59.png",
+      "img_file_name": "6_59.png",
+      "question": "Vilken information får du av varningsmärket och tilläggstavlan? ",
+      "correct_answer": "Om jag svänger till höger, ska jag vara beredd på att det strax finns en trafiksignal",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Jag måste svänga till höger
+Om jag ska svänga till höger,
+måste jag stanna före
+korsningen för att kontrollera
+om det finns en trafiksignal"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "image": "6_60.png",
+      "img_file_name": "6_60.png",
+      "question": "Har föraren i den inringade bilen stannat på ett tillåtet sätt? ",
+      "correct_answer": "Nej, det är inte tillåtet att stanna ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Ja, det är tillåtet att stanna för
+att släppa av eller på
+passagerare
+Ja, det är tillåtet att stanna, men
+i högst fem minuter"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Finns det något yttre kännetecken på att en fotgängare kan vara synskadad? ",
+      "correct_answer": "Ja, en vit käpp ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Nej
+Ja, en vit bindel på armen
+Ja, en röd käpp"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "image": "6_62.png",
+      "img_file_name": "6_62.png",
+      "question": "Du ska svänga till höger i korsningen längst bort. Hur ska du uppträda? ",
+      "correct_answer": "Jag måste stanna vid den närmaste stopplinjen men vid linjen längst bort enbart om det finns trafik i korsningen ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Jag behöver bara stanna vid stopplinjen längst bort, eftersom det första stoppmärket enbart är en förvarning ",
+        "Jag måste stanna vid båda topplinjerna"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "image": "6_63.png",
+      "img_file_name": "6_63.png",
+      "question": "Du ska parkera bilen i ungefär två timmar. Får du parkera bilen på någon av de här gatorna? ",
+      "correct_answer": "Ja, på båda gatorna ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Ja, men enbart på gata A",
+        "Ja, men enbart på gata B",
+        "Nej"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "image": "6_64.jpg",
+      "img_file_name": "6_64.jpg",
+      "question": "Vad betyder de inringade reflexerna markerade med A respektive B?",
+      "correct_answer": "Både A och B visar att fordonet är ett tillkopplat släp",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "B visar att fordonet är lastat med farligt gods",
+        "A visar att fordonet får köras i 100 km/tim",
+        "B visar att fordonet är en bred transport"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "image": "6_65.jpg",
+      "img_file_name": "6_65.jpg",
+      "question": "Du ska passera bussen på bilden. Du kör i 50 km/tim.När du är vid bussens bakända springer ett barn ut framför bussen. Du bromsar så snabbt som möjligt. Vilken hastighet har du när du är framme vid barnet? ",
+      "correct_answer": "30 km/tim",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "0 km/tim ",
+        "10 km/tim ",
+        "50 km/tim "
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "image": "6_66.jpg",
+      "img_file_name": "6_66.jpg",
+      "question": "Du ska svänga vänster och kör på en enkelriktad väg. Vilket körfält ska du ta? ",
+      "correct_answer": "Vänstra körfältet",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Högra körfältet",
+        "Du kan välja antigen högra eller vänstra körfältet"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Vad ingår i bilens totalvikt? ",
+      "correct_answer": "Tjänstevikten och maxlasten ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Bruttovikten men inte maxlasten",
+        "Tjänstevikten och förarens vikt",
+        "Bruttovikten men inte förarens vikt"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "När får du använda varningsblinkers? ",
+      "correct_answer": "När bilens har fått motorhaveri ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "När jag stannat för att ta upp passagerare", 
+        "När jag backar", 
+        "När jag parkerat i mörker för att ta en paus"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "image": "6_69.jpg",
+      "img_file_name": "6_69.jpg",
+      "question": "Du ska förtsätta rakt fram. Vad måste du först vara beredd på i den här situationen? ",
+      "correct_answer": "En mötande kör om lastbilen ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Fotgängare kan gå ut bakom lastbilen ",
+        "Det kan komma ut fotgängare och fordon bakom häcken.", 
+        "Lastbilsföraren startar och kör iväg"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "6_70.png",
+      "img_file_name": "6_70.png",
+      "question": "Du tänker parkera din bil den 28 januari. Får du parkera där vägmärket gäller? ",
+      "correct_answer": "Ja",
+      "incorrect_answers": [
+        "Nej"
+      ]
+      
+      #_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_
+      #_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_
+      #_#_#_#_#_#_#_#_#_#_#_#_#_#bilet_7#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_
+      #_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_
+      #_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_
+      
+      
+    },{
+      "category": "Drive card",
+      "type": "multiple",
+      "image": "7_1.jpg",
+      "img_file_name": "7_1.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -1680,8 +1816,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_2.jpg",
+      "img_file_name": "7_2.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -1692,8 +1828,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_3.png",
+      "img_file_name": "7_3.png",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -1716,8 +1852,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_5.png",
+      "img_file_name": "7_5.png",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -1752,8 +1888,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_8.jpg",
+      "img_file_name": "7_8.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -1764,8 +1900,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_9.jpg",
+      "img_file_name": "7_9.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -1788,8 +1924,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_11.jpg",
+      "img_file_name": "7_11.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -1824,8 +1960,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_14.jpg",
+      "img_file_name": "7_14.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -1848,8 +1984,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_16.jpg",
+      "img_file_name": "7_16.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -1884,8 +2020,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_19.jpg",
+      "img_file_name": "7_19.jpg", 
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -1896,8 +2032,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_20.png",
+      "img_file_name": "7_20.png",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -1908,8 +2044,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_21.jpg",
+      "img_file_name": "7_21.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -1968,8 +2104,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_26.jpg",
+      "img_file_name": "7_26.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -1980,8 +2116,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_27.jpg",
+      "img_file_name": "7_27.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -1992,8 +2128,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_28.jpg",
+      "img_file_name": "7_28.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2004,8 +2140,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_29.png",
+      "img_file_name": "7_29.png",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2016,8 +2152,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_30.jpg",
+      "img_file_name": "7_30.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2040,8 +2176,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_32.jpg",
+      "img_file_name": "7_32.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2052,8 +2188,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_33.jpg",
+      "img_file_name": "7_33.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2064,8 +2200,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_34.tif",
+      "img_file_name": "7_34.tif",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2076,8 +2212,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_35.jpg",
+      "img_file_name": "7_35.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2088,8 +2224,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_36.png",
+      "img_file_name": "7_36.png",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2100,8 +2236,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_37.png",
+      "img_file_name": "7_37.png",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2112,8 +2248,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_38.png",
+      "img_file_name": "7_38.png",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2124,8 +2260,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_39.jpg",
+      "img_file_name": "7_39.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2136,8 +2272,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_40.tif",
+      "img_file_name": "7_40.tif",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2160,8 +2296,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_42.jpg",
+      "img_file_name": "7_42.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2172,8 +2308,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_43.jpg",
+      "img_file_name": "7_43.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2184,8 +2320,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_44.jpg",
+      "img_file_name": "7_44.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2208,8 +2344,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_46.png",
+      "img_file_name": "7_46.png",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2232,8 +2368,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_48.jpg",
+      "img_file_name": "7_48.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2280,8 +2416,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_52.jpg",
+      "img_file_name": "7_52.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2304,8 +2440,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_54.jpg",
+      "img_file_name": "7_54.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2340,8 +2476,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_57.jpg",
+      "img_file_name": "7_57.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2352,8 +2488,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_58.jpg",
+      "img_file_name": "7_58.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2400,8 +2536,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_62.png",
+      "img_file_name": "7_62.png",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2412,8 +2548,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_63.jpg",
+      "img_file_name": "7_63.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2424,8 +2560,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_64.tif",
+      "img_file_name": "7_64.tif",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2436,8 +2572,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_65.jpg",
+      "img_file_name": "7_65.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2460,8 +2596,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_67.jpg",
+      "img_file_name": "7_67.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2496,8 +2632,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "7_70.jpg",
+      "img_file_name": "7_70.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2505,11 +2641,24 @@
         " ",
         " "
       ]
+      
+       #_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_
+      #_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_
+      #_#_#_#_#_#_#_#_#_#_#_#_#_#bilet_8#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_
+      #_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_
+      #_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_
+      
+      
+      
+      
+      
+      
+      
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_1.jpg",
+      "img_file_name": "8_1.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2532,8 +2681,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_3.jpg",
+      "img_file_name": "8_3.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2604,8 +2753,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_9.jpg",
+      "img_file_name": "8_9.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2652,8 +2801,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_13.jpg",
+      "img_file_name": "8_13.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2664,8 +2813,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_14.png",
+      "img_file_name": "8_14.png",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2688,8 +2837,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_16.png",
+      "img_file_name": "8_16.png",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2700,8 +2849,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_17.jpg",
+      "img_file_name": "8_17.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2724,8 +2873,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_19.jpg",
+      "img_file_name": "8_19.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2736,8 +2885,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_20.jpg",
+      "img_file_name": "8_20.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2748,8 +2897,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_21.png",
+      "img_file_name": "8_21.png",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2760,8 +2909,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_22.jpg",
+      "img_file_name": "8_22.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2772,8 +2921,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_23.jpg",
+      "img_file_name": "8_23.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2796,8 +2945,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_25.jpg",
+      "img_file_name": "8_25.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2808,8 +2957,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_26.jpg",
+      "img_file_name": "8_26.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2820,8 +2969,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_27.jpg",
+      "img_file_name": "8_27.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2832,8 +2981,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_28.tif",
+      "img_file_name": "8_28.tif",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2844,8 +2993,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_29.jpg",
+      "img_file_name": "8_29.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2880,8 +3029,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_32.jpg",
+      "img_file_name": "8_32.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2904,8 +3053,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_34.jpg",
+      "img_file_name": "8_34.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2940,8 +3089,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_37.jpg",
+      "img_file_name": "8_37.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2952,8 +3101,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_38.jpg",
+      "img_file_name": "8_38.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2976,8 +3125,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_40.jpg",
+      "img_file_name": "8_40.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -2988,8 +3137,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_41.tif",
+      "img_file_name": "8_41.tif",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -3012,8 +3161,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_43.jpg",
+      "img_file_name": "8_43.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -3060,8 +3209,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_47.png",
+      "img_file_name": "8_47.png",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -3072,8 +3221,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_48.jpg",
+      "img_file_name": "8_48.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -3084,8 +3233,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_49.tif",
+      "img_file_name": "8_49.tif",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -3096,8 +3245,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_50.jpg",
+      "img_file_name": "8_50.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -3108,8 +3257,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_51.jpg",
+      "img_file_name": "8_51.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -3132,8 +3281,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_53.png",
+      "img_file_name": "8_53.png",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -3144,8 +3293,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_54.jpg",
+      "img_file_name": "8_54.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -3180,8 +3329,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_57.jpg",
+      "img_file_name": "8_57.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -3204,8 +3353,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_59.png",
+      "img_file_name": "8_59.png",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -3216,8 +3365,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_60.jpg",
+      "img_file_name": "8_60.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -3240,8 +3389,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_62.jpg",
+      "img_file_name": "8_62.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -3252,8 +3401,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_63.png",
+      "img_file_name": "8_63.png",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -3264,8 +3413,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_64.png",
+      "img_file_name": "8_64.png",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -3276,8 +3425,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_65.jpg",
+      "img_file_name": "8_65.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -3288,8 +3437,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_66.jpg",
+      "img_file_name": "8_66.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -3300,8 +3449,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_67.png",
+      "img_file_name": "8_67.png",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -3324,8 +3473,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_69.png",
+      "img_file_name": "8_69.png",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -3336,8 +3485,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "8_70.jpg",
+      "img_file_name": "8_70.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -3345,6 +3494,19 @@
         " ",
         " "
       ]
+      
+      
+      
+      #_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_
+      #_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_
+      #_#_#_#_#_#_#_#_#_#_#_#_#_#bilet_9#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_
+      #_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_
+      #_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_
+      
+      
+      
+      
+      
     },{
       "category": "Drive card",
       "type": "multiple",
@@ -3360,8 +3522,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "9_2.jpg",
+      "img_file_name": "9_2.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -3372,8 +3534,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "9_3.jpg",
+      "img_file_name": "9_3.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -3396,8 +3558,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "9_5.jpg",
+      "img_file_name": "9_5.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -3408,8 +3570,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "9_6.png",
+      "img_file_name": "9_6.png",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
@@ -3420,8 +3582,8 @@
     },{
       "category": "Drive card",
       "type": "multiple",
-      "image": "Q_0.png",
-      "img_file_name": "Q_0.jpg",
+      "image": "9_7.jpg",
+      "img_file_name": "9_7.jpg",
       "question": " ",
       "correct_answer": " ",
       "incorrect_answers": [
