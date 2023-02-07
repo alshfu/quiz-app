@@ -2602,8 +2602,8 @@ mellan din överkropp och ratten? ",
 fordons koldioxidutsläpp? ",
       "correct_answer": "Fordonsskatten ",
       "incorrect_answers": [
-        "Trängselskatten
-Vägskatten"
+        "Trängselskatten",
+"Vägskatten"
       ]
     },{
       "category": "Drive card",
@@ -2634,8 +2634,8 @@ dödats i singelolyckor de senaste
       "correct_answer": "Ca hälften ",
       "incorrect_answers": [
         "Ca två tredjedelar ",
-        "Ca en fjärdedel
-Ca en tredjedel"
+        "Ca en fjärdedel",
+"Ca en tredjedel"
       ]
     },{
       "category": "Drive card",
@@ -2661,8 +2661,8 @@ köra på en hög växel i stället för på
 en låg? ",
       "correct_answer": "Bränsleförbrukningen blir lägre ",
       "incorrect_answers": [
-        "Katalysatorn blir effektivare
-Motorslitaget blir mindre "
+        "Katalysatorn blir effektivare",
+"Motorslitaget blir mindre "
       ]
     },{
       "category": "Drive card",
@@ -2705,9 +2705,9 @@ olyckan? ",
       "correct_answer": "Föraren ",
       "incorrect_answers": [
         "Endast de i bilen som har
-körkort
-Bilens ägare
-Alla som åker med i bilen"
+körkort",
+"Bilens ägare",
+"Alla som åker med i bilen"
       ]
     },{
       "category": "Drive card",
@@ -2750,8 +2750,8 @@ högsta tillåtna hastighet
 tillåtna hastighet 110 km/tim ",
         "En landsväg utan vägren med
 högsta tillåtna hastighet
-90 km/tim
-En motorväg med högsta tillåtna
+90 km/tim",
+"En motorväg med högsta tillåtna
 hastighet 110 km/tim"
       ]
     },{
@@ -2782,10 +2782,10 @@ före svängen? ",
       "correct_answer": "Fordon som kommer bakifrån í
 det högra körfältet ",
       "incorrect_answers": [
-        "Fotgängare på övergångsstället
-Fordon som kommer från
-vänster i korsningen
-Fordon som kommer från höger i
+        "Fotgängare på övergångsstället",
+"Fordon som kommer från
+vänster i korsningen",
+"Fordon som kommer från höger i
 korsningen"
       ]
     },{
@@ -2818,8 +2818,8 @@ höger i någon av korsningarna? ",
       "correct_answer": "Ja, i båda korsningarna ",
       "incorrect_answers": [
         "Nej ",
-        "Ja,men enbart i korsning A
-Ja,men enbart i korsning B"
+        "Ja,men enbart i korsning A",
+"Ja,men enbart i korsning B"
       ]
     },{
       "category": "Drive card",
@@ -2832,8 +2832,8 @@ situationerna? ",
       "correct_answer": "Ja,men enbart i situation A ",
       "incorrect_answers": [
         "Ja,men enbart i situation B
-Ja, i båda situationerna
-Nej"
+"Ja, i båda situationerna",
+"Nej"
       ]
     },{
       "category": "Drive card",
@@ -2850,8 +2850,8 @@ hastighet för att inte hindra i
 trafiken ",
         "Alltid hålla högsta tillåtna
 hastighet för att undvika att
-andra kör om
-Köra dit man ska så fort som
+andra kör om",
+"Köra dit man ska så fort som
 möjligt"
       ]
     },{
@@ -2866,8 +2866,8 @@ hastighetsbegränsning på
       "incorrect_answers": [
         "Om 200 meter är den
 rekommenderade hastigheten
-50 km/tim
-Om 200 meter upphör
+50 km/tim",
+"Om 200 meter upphör
 hastighetsbegränsningen på
 50 km/tim att gälla "
       ]
@@ -2896,9 +2896,9 @@ växelvis med rött och blått ljus.
 Vad ska du göra? ",
       "correct_answer": "Köra in till vägkanten och stanna ",
       "incorrect_answers": [
-        "Fortsätta med lägre hastighet
-Lämna fri väg
-Öka hastigheten"
+        "Fortsätta med lägre hastighet",
+"Lämna fri väg",
+"Öka hastigheten"
       ]
     },{
       "category": "Drive card",
@@ -2913,8 +2913,8 @@ båda sidor ",
       "incorrect_answers": [
         "Nej, varken på vänster eller
 höger sida ",
-        "Ja, men bara på vänster sida
-Ja, men bara på höger sida"
+        "Ja, men bara på vänster sida",
+"Ja, men bara på höger sida"
       ]
     },{
       "category": "Drive card",
@@ -2935,9 +2935,9 @@ ut som bilarna i A och B? ",
       "question": "Vad ingår i bilens totalvikt? ",
       "correct_answer": "Tjänstevikten och maxlasten ",
       "incorrect_answers": [
-        "Bruttovikten men inte maxlasten
-Tjänstevikten och förarens vikt
-Bruttovikten men inte förarens vikt"
+        "Bruttovikten men inte maxlasten",
+"Tjänstevikten och förarens vikt",
+"Bruttovikten men inte förarens vikt"
       ]
     },{
       "category": "Drive card",
@@ -2951,8 +2951,8 @@ Vilken är den största vinsten utöver
 detta? ",
       "correct_answer": "Antalet trafikolyckor minskar ",
       "incorrect_answers": [
-        "Antalet polisrapporterade hastighetsöverträdelser minskar
-Antalet sålda miljöbilar ökar"
+        "Antalet polisrapporterade hastighetsöverträdelser minskar",
+"Antalet sålda miljöbilar ökar"
       ]
     },{
       "category": "Drive card",
@@ -2997,8 +2997,8 @@ bilen i rörelse ",
       "incorrect_answers": [
         "Dra åt parkeringsbromsen och
 kontrollera att kontrollampan för
-bromsvarning tänds
-Dra åt parkeringsbromsen och
+bromsvarning tänds",
+"Dra åt parkeringsbromsen och
 känna efter att den inte fjädrar"
       ]
     },{
@@ -3025,8 +3025,8 @@ lastar din bil? ",
       "correct_answer": "Bruttovikten ",
       "incorrect_answers": [
         "Tjänstevikten ",
-        "Totalvikten
-Maxlasten"
+        "Totalvikten",
+"Maxlasten"
       ]
     },{
       "category": "Drive card",
@@ -3043,8 +3043,8 @@ lastsäkring? ",
 lämplig datorbutik ",
         "Ja, eftersom ryggstödet även
 förhindrar föremålet att röra sig
-framåt
-Ja, eftersom jag inte har
+framåt",
+"Ja, eftersom jag inte har
 ytterligare bagage"
       ]
     },{
@@ -3063,8 +3063,8 @@ polisövervakning på dessa
 vägsträckor ",
         "Man vill minska
 koldioxidutsläppen på dessa
-vägsträckor
-Man vill minska risken för
+vägsträckor",
+"Man vill minska risken för
 viltolyckor"
       ]
     },{
@@ -3077,9 +3077,9 @@ med mitträcke.
 Vilket är det främsta skalet till det? ",
       "correct_answer": "Säkerhet på vägen ökar ",
       "incorrect_answers": [
-        "Det blir lättare att köra om
-Vägens maxhastighet kan höjas
-Trafiken flyter bättre"
+        "Det blir lättare att köra om",
+"Vägens maxhastighet kan höjas",
+"Trafiken flyter bättre"
       ]
     },{
       "category": "Drive card",
@@ -3093,9 +3093,9 @@ använda höger körfält för att köra
 om? ",
       "correct_answer": "Nej ",
       "incorrect_answers": [
-        "Ja,men enbart i situation A
-Ja,men enbart i situation B
-Ja, i båda situationernal"
+        "Ja,men enbart i situation A",
+"Ja,men enbart i situation B",
+"Ja, i båda situationernal"
       ]
     },{
       "category": "Drive card",
@@ -3109,8 +3109,8 @@ framför mig ",
       "incorrect_answers": [
         "Förbud att hålla längre avstånd
 än 50 meter till fordon som kör
-framför mig
-Förbud mot fordon som är
+framför mig",
+"Förbud mot fordon som är
 längre än 50 meter"
       ]
     },{
@@ -3124,8 +3124,8 @@ möjligt? ",
       "correct_answer": "Jag undviker högre varvtal än
 3000 varv/min ",
       "incorrect_answers": [
-        "Jag accelererar kraftigt när jag startar
-Jag kör på motorvarv över 3500 varv/min"
+        "Jag accelererar kraftigt när jag startar",
+"Jag kör på motorvarv över 3500 varv/min"
       ]
     },{
       "category": "Drive card",
@@ -3169,8 +3169,8 @@ som kommer att hända i trafiken ",
       "incorrect_answers": [
         "De pratar inte lika mycket i
 mobiltelefon under körning ",
-        "De håller ofta lägre hastighet
-De har ofta bättre bromsar på
+        "De håller ofta lägre hastighet",
+"De har ofta bättre bromsar på
 bilen"
       ]
     },{
@@ -3186,9 +3186,9 @@ reaktionstiden avgör
 reaktionssträckans längd allra mest? ",
       "correct_answer": "Hastigheten ",
       "incorrect_answers": [
-        "Bromstekniken
-Däckkvaliteten
-Väglaget"
+        "Bromstekniken",
+"Däckkvaliteten",
+"Väglaget"
       ]
     },{
       "category": "Drive card",
@@ -3216,9 +3216,9 @@ Vad kan orsaken vara?  ",
       "correct_answer": "Att bromsvätskenivån är för låg ",
       "incorrect_answers": [
         "Att generatorn inte fungerar
-Att antisladdsystemet inte
-fungerar
-Att kylarvätskenivån är för låg"
+"Att antisladdsystemet inte
+fungerar",
+"Att kylarvätskenivån är för låg"
       ]
     },{
       "category": "Drive card",
@@ -3231,10 +3231,10 @@ vägmärket gäller?",
 på markerade parkeringsplatser ",
       "incorrect_answers": [
         "Ja, men bara om jag har särskilt
-tillstånd
-Ja, jag får parkera var som helst
-om jag inte hindrar annan trafik
-Nej, jag far aldrig parkera dar"
+tillstånd",
+"Ja, jag får parkera var som helst
+om jag inte hindrar annan trafik",
+"Nej, jag far aldrig parkera dar"
       ]
     },{
       "category": "Drive card",
@@ -3248,8 +3248,8 @@ situationerna? ",
       "correct_answer": "Ja, í båda situationerna ",
       "incorrect_answers": [
         "Nej ",
-        "Ja, men enbart i situation A
-Ja, men enbart i situation B"
+        "Ja, men enbart i situation A",
+"Ja, men enbart i situation B"
       ]
     },{
       "category": "Drive card",
@@ -3265,8 +3265,8 @@ gångbanan ",
         "Att fordon kan komma från
 vänster på gatan",
         "Att bilarna på parkeringen kan
-backa ut
-Att fordon kan komma från
+backa ut",
+"Att fordon kan komma från
 höger på gatan"
       ]
     },{
@@ -3283,8 +3283,8 @@ larma 112 ",
       "incorrect_answers": [
         "Spärra av olycksplatsen",
         "Ge första hjälpen åt eventuella
-skadade
-Varna andra trafikanter"
+skadade",
+"Varna andra trafikanter"
       ]
     },{
       "category": "Drive card",
@@ -3294,11 +3294,11 @@ Varna andra trafikanter"
       "question": "Vad är förbjudet att göra här?",
       "correct_answer": "Parkera före vägmärket",
       "incorrect_answers": [
-        "Stanna efter vägmärket
-Parkera efter vägmärket
-Parkera både före och efter vägmärket
-Stanna både före och efter vägmärket
-Stanna före vägmärket"
+        "Stanna efter vägmärket",
+"Parkera efter vägmärket",
+"Parkera både före och efter vägmärket",
+"Stanna både före och efter vägmärket",
+"Stanna före vägmärket"
       ]
     },{
       "category": "Drive card",
@@ -3313,8 +3313,8 @@ kan gå ut framför bussen ",
       "incorrect_answers": [
         "Ja, men jag måste köra om
 snabbt så jag inte hindrar eller
-stör annan trafik
-Nej, jag har väjningsplikt mot
+stör annan trafik",
+"Nej, jag har väjningsplikt mot
 bussen"
       ]
     },{
@@ -3329,10 +3329,10 @@ Vad bör du göra? ",
       "incorrect_answers": [
         "Lämna bilen på verkstad
 eftersom man inte själv får fylla
-på vätskan
-Awakta och låta verkstaden fylla
-på vätska vid nästa servicetillfälle
-Fylla på vänligt vatten"
+på vätskan",
+"Awakta och låta verkstaden fylla
+på vätska vid nästa servicetillfälle",
+"Fylla på vänligt vatten"
       ]
     },{
       "category": "Drive card",
@@ -3346,9 +3346,9 @@ När är risken störst?",
       "correct_answer": "När jag kör i en skarp kurva ",
       "incorrect_answers": [
         "När jag kör ut ur en
-cirkulationsplats
-Om jag accelererar kraftigt
-Om jag bromsar kraftigt"
+cirkulationsplats",
+"Om jag accelererar kraftigt",
+"Om jag bromsar kraftigt"
       ]
     },{
       "category": "Drive card",
@@ -3425,10 +3425,10 @@ du stanna med din bil mindre än
 på övergångsstället ",
       "incorrect_answers": [
         "När jag ska släppa av en
-passagerare
-När jag ska uträtta ett kortare
-ärende
-När jag ska lasta gods"
+passagerare",
+"När jag ska uträtta ett kortare
+ärende",
+"När jag ska lasta gods"
       ]
     },{
       "category": "Drive card",
@@ -3442,8 +3442,8 @@ situationingen? ",
         "Nej, eftersom den anslutande
 vägen är en lokal väg ",
         "Nej, eftersom den anslutande
-vägen är mindre
-Nej, högerregeln gäller inte på
+vägen är mindre",
+"Nej, högerregeln gäller inte på
 högersvängar"
       ]
     },{
@@ -3458,8 +3458,8 @@ vägmärkena på vägens högra sida? ",
 vägar om 200 meter ",
       "incorrect_answers": [
         "70 km/tim börjar gäller
-om 200 meter
-70 km/tim upphör efter
+om 200 meter",
+"70 km/tim upphör efter
 200 meter"
       ]
     },{
@@ -3487,10 +3487,10 @@ hjulbultarna efter en tids körning?",
 lossnar ",
       "incorrect_answers": [
         "För att undvika skakningar i
-ratten
-För att inte påverka däckens
-friktion
-För att undvika snedslitning av
+ratten",
+"För att inte påverka däckens
+friktion",
+"För att undvika snedslitning av
 däcken"
       ]
     },{
@@ -3537,8 +3537,8 @@ risken för fallknivsverkan? ",
 släpvagnen så jämnt som möjligt ",
       "incorrect_answers": [
         "Jag försöker att undvika hårda
-inbromsningar
-Jag använder enbart
+inbromsningar",
+"Jag använder enbart
 motorbromsen vid fartminskning"
       ]
     },{
@@ -3566,11 +3566,11 @@ anvisningar finns? ",
 finns framför dig? ",
       "correct_answer": "Ettt långsamtgående fordon ",
       "incorrect_answers": [
-        "Ett bärgningsfordon
-En tung lastbil
-Ett fordon lastat med farligt
-gods
-En tung lastbil med tillkopplat
+        "Ett bärgningsfordon",
+"En tung lastbil",
+"Ett fordon lastat med farligt
+gods",
+"En tung lastbil med tillkopplat
 släp"
       ]
       
@@ -3596,9 +3596,9 @@ släpvagn som är lastad.
 Vem är ansvarig för lastsäkringen? ",
       "correct_answer": "Jag som är förare ",
       "incorrect_answers": [
-        "Kamraten som äger bilen
-Ägaren till lasten
-Personen som lastat släpvagnen"
+        "Kamraten som äger bilen",
+"Ägaren till lasten",
+"Personen som lastat släpvagnen"
       ]
     },{
       "category": "Drive card",
@@ -3614,9 +3614,9 @@ räkna med? ",
         "Att jag kan bli trött, eftersom
 det är tidigt och vägen är lång
 och rak ",
-        "Att jag kan bli fartblind
-Att jag kan råka ut för synvillor
-Att det kan vara svårt att
+        "Att jag kan bli fartblind",
+"Att jag kan råka ut för synvillor",
+"Att det kan vara svårt att
 bedöma avstånd"
       ]
     },{
@@ -3628,8 +3628,8 @@ bedöma avstånd"
 körbanan? ",
       "correct_answer": "Jag måste snarast byta körfält ",
       "incorrect_answers": [
-        "Jag närmar mig en vägkorsning med väjningsplikt
-Jag närmar mig ett spärrområde"
+        "Jag närmar mig en vägkorsning med väjningsplikt",
+"Jag närmar mig ett spärrområde"
       ]
     },{
       "category": "Drive card",
@@ -3642,9 +3642,9 @@ I vilket fall måste felen åtgärdas
 snarast? ",
       "correct_answer": "Alltid",
       "incorrect_answers": [
-        "Endast vid fel på styrsystemet
-Endast vid fel på bromssystemet
-Endast vid fel som kräver ombesiktning"
+        "Endast vid fel på styrsystemet",
+"Endast vid fel på bromssystemet",
+"Endast vid fel som kräver ombesiktning"
       ]
     },{
       "category": "Drive card",
@@ -3658,8 +3658,8 @@ Hur bör du köra?",
 stanna om det blir gult ljus",
       "incorrect_answers": [
         "Öka farten så att jag hinner
-passera under tiden det är grönt ljus
-Bromsa med färdbromsen så jag
+passera under tiden det är grönt ljus",
+"Bromsa med färdbromsen så jag
 kan stanna i god tid om det blir
 gult ljus"
       ]
@@ -3685,9 +3685,9 @@ Var börjar den farliga vägsträckan? ",
       "correct_answer": "Om cirka 200 meter ",
       "incorrect_answers": [
         "Omedelbart ",
-        "Om cirka 500 meter
-Om cirka 700 meter
-Om cirka 900 meter"
+        "Om cirka 500 meter",
+"Om cirka 700 meter",
+"Om cirka 900 meter"
       ]
     },{
       "category": "Drive card",
@@ -3704,8 +3704,8 @@ eller polisen ",
         "Jag behöver enbart ringa mitt
 försäkringsbolag ",
         "Jag måste alltid anmäla sådana
-olyckor till polisen
-Jag behöver enbart märka
+olyckor till polisen",
+"Jag behöver enbart märka
 ut olycksplatsen"
       ]
     },{
