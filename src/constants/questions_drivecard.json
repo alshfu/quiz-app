@@ -1663,36 +1663,35 @@
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Vilket bränsle påverkar växthuseffekten mest? ",
+      "correct_answer": "Biogas ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Bensin
+Diesel
+Naturgas"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "2_2.png",
       "img_file_name": "2_2.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du ska köra rakt fram. Cyklisten kör sakta. Vad ska du göra? ",
+      "correct_answer": "Du låter cyklisten köra först, eftersom han/hon kommer från höger ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Du kör först, eftersom du kör på huvudvägen",
+        "Du kör först, eftersom du ska köra rakt fram"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Varför sker det flesta olyckorna mellan kl. 16-18? ",
+      "correct_answer": "Därför att det är rusningsttid ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Därför att djuren brukar komma plötsligt ut vid denna tidpunkt
+För att förarna brukar vara trötta vid den här tidpunkten
+Därför att det är skymningstid"
       ]
     },{
       "category": "Drive card",
