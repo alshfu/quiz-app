@@ -1666,9 +1666,9 @@
       "question": "Vilket bränsle påverkar växthuseffekten mest? ",
       "correct_answer": "Biogas ",
       "incorrect_answers": [
-        "Bensin
-Diesel
-Naturgas"
+        "Bensin",
+        "Diesel",
+        "Naturgas"
       ]
     },{
       "category": "Drive card",
@@ -1689,9 +1689,9 @@ Naturgas"
       "question": "Varför sker det flesta olyckorna mellan kl. 16-18? ",
       "correct_answer": "Därför att det är rusningsttid ",
       "incorrect_answers": [
-        "Därför att djuren brukar komma plötsligt ut vid denna tidpunkt
-För att förarna brukar vara trötta vid den här tidpunkten
-Därför att det är skymningstid"
+        "Därför att djuren brukar komma plötsligt ut vid denna tidpunkt",
+        "För att förarna brukar vara trötta vid den här tidpunkten",
+        "Därför att det är skymningstid"
       ]
     },{
       "category": "Drive card",
@@ -1701,9 +1701,9 @@ Därför att det är skymningstid"
       "question": "Vad innebär vägmärket? ",
       "correct_answer": "Slut på omkörningsförbud ",
       "incorrect_answers": [
-        "Förbud mot fordonstrafik
-Slut på zons förbud att parkera fordon
-Förbud att dubbelparkera"
+        "Förbud mot fordonstrafik",
+        "Slut på zons förbud att parkera fordon",
+        "Förbud att dubbelparkera"
       ]
     },{
       "category": "Drive card",
@@ -1714,8 +1714,8 @@ Förbud att dubbelparkera"
       "correct_answer": "Att du tappar koncentrationen en tiondel på grund av trötthet ",
       "incorrect_answers": [
         "Att du sover men nästan öppna ögon och därför inte blir helt utvilad av din nattsömn ",
-        "Att du har mycket litet behov av sömn
-Att du vaknar många gånger under natten och sover korta perioder däremellan"
+        "Att du har mycket litet behov av sömn",
+        "Att du vaknar många gånger under natten och sover korta perioder däremellan"
       ]
     },{
       "category": "Drive card",
@@ -1725,9 +1725,9 @@ Att du vaknar många gånger under natten och sover korta perioder däremellan"
       "question": "Varför blir vana förare i 50-årslåldern mer sällan inblandade i olyckor än unga förare? ",
       "correct_answer": "De har mer erfarenhet ",
       "incorrect_answers": [
-        "De kör mer offensivt
-De har mer prestige tänkande
-De kör ofta på natten"
+        "De kör mer offensivt",
+        "De har mer prestige tänkande",
+        "De kör ofta på natten"
       ]
     },{
       "category": "Drive card",
@@ -1737,8 +1737,8 @@ De kör ofta på natten"
       "question": "Du kör med lägre lufttryck i däcken än vad som rekommenderas i instruktionsboken. Kommer det att påverka bränsleförbrukningen? ",
       "correct_answer": "Ja, förbrukningen ökar ",
       "incorrect_answers": [
-        "Ja, förbrukningen minskar
-Nej, förbrukningen påverkas inte"
+        "Ja, förbrukningen minskar",
+        "Nej, förbrukningen påverkas inte"
       ]
     },{
       "category": "Drive card",
@@ -1760,8 +1760,8 @@ Nej, förbrukningen påverkas inte"
       "question": "Vad kan öka bränsleförbrukningen i din personbil? ",
       "correct_answer": "Påslagen luftkonditionering ",
       "incorrect_answers": [
-        "Kömning på höga växlar
-Högt lufttryck i däcken"
+        "Kömning på höga växlar",
+        "Högt lufttryck i däcken"
       ]
     },{
       "category": "Drive card",
@@ -1771,8 +1771,8 @@ Högt lufttryck i däcken"
       "question": "Kan samåkning i personbil innebära att olyckor minskar? ",
       "correct_answer": "Ja, med färre bilar på vägarna blir det sannolikt färre olyckor ",
       "incorrect_answers": [
-        "Nej, passagerama stör föraren vilket leder till fler olyckor
-Nej, fler passagerare innebär att bilarna får ändrade köregenskaper vilket leder till fler olyckor"
+        "Nej, passagerama stör föraren vilket leder till fler olyckor",
+        "Nej, fler passagerare innebär att bilarna får ändrade köregenskaper vilket leder till fler olyckor"
       ]
     },{
       "category": "Drive card",
@@ -1783,8 +1783,8 @@ Nej, fler passagerare innebär att bilarna får ändrade köregenskaper vilket l
       "correct_answer": "Runt dragkrokens hals ",
       "incorrect_answers": [
         "I stötfångarens infästning ",
-        "I öglan på bilens dragordning
-Runt parkeringsbroms reglaget på släpvagnen"
+        "I öglan på bilens dragordning",
+        "Runt parkeringsbroms reglaget på släpvagnen"
       ]
     },{
       "category": "Drive card",
@@ -1794,8 +1794,8 @@ Runt parkeringsbroms reglaget på släpvagnen"
       "question": "Du köper 2 fabriksnya däck till din bil. Var på bilen bör det monteras? ",
       "correct_answer": "På bakaxeln ",
       "incorrect_answers": [
-        "Det har ingen betydelse var de monteras
-På fram axeln"
+        "Det har ingen betydelse var de monteras",
+        "På fram axeln"
       ]
     },{
       "category": "Drive card",
@@ -1816,9 +1816,9 @@ På fram axeln"
       "question": "Vad finns det i bilbatteriet förutom destillerat vatten? ",
       "correct_answer": "Svavelsyra ",
       "incorrect_answers": [
-        "Freon
-Avfettning
-Glykol"
+        "Freon",
+        "Avfettning",
+        "Glykol"
       ]
     },{
       "category": "Drive card",
@@ -1828,9 +1828,9 @@ Glykol"
       "question": "Vad innebär skylten på bilden när denna är monterad baktill på ett fordon? ",
       "correct_answer": "Fordonet är långsamt gående ",
       "incorrect_answers": [
-        "Fordonet har ett tillkopplat släpfordon
-Fordonet är lastat med farligt gods
-Fordonet har fått motorhaveri och blir stående vid vägen"
+        "Fordonet har ett tillkopplat släpfordon",
+        "Fordonet är lastat med farligt gods",
+        "Fordonet har fått motorhaveri och blir stående vid vägen"
       ]
     },{
       "category": "Drive card",
@@ -1840,8 +1840,8 @@ Fordonet har fått motorhaveri och blir stående vid vägen"
       "question": "På motorvägen finns det öppningar i mitten. Vilka får använda dessa öppningar? ",
       "correct_answer": "Vägarbetsfordon ",
       "incorrect_answers": [
-        "Taxi bilar
-Fordonet som missade utfarten"
+        "Taxi bilar",
+        "Fordonet som missade utfarten"
       ]
     },{
       "category": "Drive card",
@@ -1851,9 +1851,9 @@ Fordonet som missade utfarten"
       "question": "Du ser att det inte kommer något tåg just nu. Får du då passera järnvägskorsningen i någon av situationerna utan att stanna? ",
       "correct_answer": "Ja, men enbart i situation A ",
       "incorrect_answers": [
-        "Ja, men enbart i situation B
-Ja, i båda
-Nej"
+        "Ja, men enbart i situation B",
+        "Ja, i båda",
+        "Nej"
       ]
     },{
       "category": "Drive card",
@@ -1863,9 +1863,9 @@ Nej"
       "question": "På vilket sätt kan du bäst minska din negativa påverkan på miljön? ",
       "correct_answer": "Du cyklar när det är kortare sträckor ",
       "incorrect_answers": [
-        "Du undviker att använda syntetiskt motorolja i bilen
-Du använder motorvärmare till bilen året runt
-Du använder bilen bara vid kortare sträckor"
+        "Du undviker att använda syntetiskt motorolja i bilen",
+        "Du använder motorvärmare till bilen året runt",
+        "Du använder bilen bara vid kortare sträckor"
       ]
     },{
       "category": "Drive card",
@@ -1875,9 +1875,9 @@ Du använder bilen bara vid kortare sträckor"
       "question": "Vad anger dessa skyltar? ",
       "correct_answer": "Sidohinder ",
       "incorrect_answers": [
-        "Farlig kurval
-Avfart
-Annan fara"
+        "Farlig kurval",
+        "Avfart",
+        "Annan fara"
       ]
     },{
       "category": "Drive card",
@@ -1887,8 +1887,8 @@ Annan fara"
       "question": "Du har hamnat i vänster fast och din avsikt var att köra rakt fram. Hur ska du göra i denna situationen? ",
       "correct_answer": "Du svänger till vänster ",
       "incorrect_answers": [
-        "Du byter körfält och kör rakt fram
-Du fortsätter rakt fram"
+        "Du byter körfält och kör rakt fram",
+        "Du fortsätter rakt fram"
       ]
     },{
       "category": "Drive card",
@@ -1899,8 +1899,8 @@ Du fortsätter rakt fram"
       "correct_answer": "Ja, här finns särskild anordnade parkeringsplatser i anslutning till kollektivtrafik ",
       "incorrect_answers": [
         "Nej, vägmärket betyder parkeringsplats enbart för taxibilar ",
-        "Ja, här finns parkeringsplatser med anslutning till motorvärmare
-Ja, här kan du tanka biobränsle"
+        "Ja, här finns parkeringsplatser med anslutning till motorvärmare",
+        "Ja, här kan du tanka biobränsle"
       ]
     },{
       "category": "Drive card",
@@ -1921,8 +1921,8 @@ Ja, här kan du tanka biobränsle"
       "correct_answer": "Att bilen går att bromsa hjälpligt även om ett av bromsrören går sönder ",
       "incorrect_answers": [
         "Att samtliga hjul automatiskt bromsas om ett av bromsrören går sönder ",
-        "Att bromsverkan fördelas mellan bilens hjul så att risken för sladd minskar i haltväglag
-Att bilens hjul aldrig låser sig vid hårda inbromsningar"
+        "Att bromsverkan fördelas mellan bilens hjul så att risken för sladd minskar i haltväglag",
+        "Att bilens hjul aldrig låser sig vid hårda inbromsningar"
       ]
     },{
       "category": "Drive card",
@@ -1942,8 +1942,8 @@ Att bilens hjul aldrig låser sig vid hårda inbromsningar"
       "question": "Vad gäller då du kör in i en cirkulationsplats? ",
       "correct_answer": "Du har väjningsplikt mot fordon i cirkulationsplatsen ",
       "incorrect_answers": [
-        "Fordonet i cirkulationsplatsen har väjningsplikt mot dig
-Du måste alltid stanna innan du kör in i cirkulationsplatsen"
+        "Fordonet i cirkulationsplatsen har väjningsplikt mot dig",
+        "Du måste alltid stanna innan du kör in i cirkulationsplatsen"
       ]
     },{
       "category": "Drive card",
@@ -1953,9 +1953,9 @@ Du måste alltid stanna innan du kör in i cirkulationsplatsen"
       "question": "Du förutser en fara och minskar farten från 100 km/h till 50km/h. Hur påverkas bromssträckan? ",
       "correct_answer": "Den minskar till ungefär en 1/4 del ",
       "incorrect_answers": [
-        "Den minskar till ungefär en 1/5 del
-Den minskar till ungefär hälften
-Den minskar till ungefär en 1/3 del"
+        "Den minskar till ungefär en 1/5 del",
+        "Den minskar till ungefär hälften",
+        "Den minskar till ungefär en 1/3 del"
       ]
     },{
       "category": "Drive card",
@@ -2000,9 +2000,9 @@ Den minskar till ungefär en 1/3 del"
       "question": "Vilken av dessa gaser är lukt och färglös? ",
       "correct_answer": "Koloxid ",
       "incorrect_answers": [
-        "Väteoxid
-Koldioxid
-Kväveoxid"
+        "Väteoxid",
+        "Koldioxid",
+        "Kväveoxid"
       ]
     },{
       "category": "Drive card",
@@ -2012,8 +2012,8 @@ Kväveoxid"
       "question": "Vilka av de här fordonen får du inte bogsera? ",
       "correct_answer": "2hjulig motorcykel ",
       "incorrect_answers": [
-        "Personbil
-Lätt lastbil"
+        "Personbil",
+        "Lätt lastbil"
       ]
     },{
       "category": "Drive card",
@@ -2034,8 +2034,8 @@ Lätt lastbil"
       "question": "Du kör i 90 km/h på en landsväg och det är torrt väglag. Hur vet du att avståendet till framförvarande fordon är tillräckligt långt? ",
       "correct_answer": "När du har minst 3 sekunder fram till fordonet ",
       "incorrect_answers": [
-        "När du har ungefär 5 billängder fram till fordonet
-Avståndet till framför är bra så länge föraren inte blinkar med bromsljuset för att visa att du kör för nära"
+        "När du har ungefär 5 billängder fram till fordonet",
+        "Avståndet till framför är bra så länge föraren inte blinkar med bromsljuset för att visa att du kör för nära"
       ]
     },{
       "category": "Drive card",
@@ -2045,8 +2045,8 @@ Avståndet till framför är bra så länge föraren inte blinkar med bromsljuse
       "question": "Du närmar dig korsningen där du har väjningsplikt. Hur ska trafikanterna på den korsande vägen kunna veta att du kommer att lämna företräde? ",
       "correct_answer": "Genom att du sänker hastigheten i god tid ",
       "incorrect_answers": [
-        "Genom att vägmärket visar att du har väjningsplikt
-Genom att du placerar bilen väl till höger"
+        "Genom att vägmärket visar att du har väjningsplikt",
+        "Genom att du placerar bilen väl till höger"
       ]
     },{
       "category": "Drive card",
@@ -2056,9 +2056,9 @@ Genom att du placerar bilen väl till höger"
       "question": "Vilken belysning är på när enligt denna bild? ",
       "correct_answer": "Parkeringsljus ",
       "incorrect_answers": [
-        "Helljus
-Halvljus
-Dimljus"
+        "Helljus",
+        "Halvljus",
+        "Dimljus"
       ]
     },{
       "category": "Drive card",
@@ -2068,8 +2068,8 @@ Dimljus"
       "question": "Du körde på en person i 30 km/h. Vad motsvarar detta om han hade ramlat från ett flervåningshus? ",
       "correct_answer": "Att han hade ramlat från första våningen ",
       "incorrect_answers": [
-        "Att han hade ramlat från från tredje våningen
-Att han hade ramlat från från femte våningen"
+        "Att han hade ramlat från från tredje våningen",
+        "Att han hade ramlat från från femte våningen"
       ]
     },{
       "category": "Drive card",
@@ -2079,8 +2079,8 @@ Att han hade ramlat från från femte våningen"
       "question": "Du har börjat köra om lastbilen. Hur ska du göra i denna situation? ",
       "correct_answer": "Du avbryter omkörningen och går tillbaka till höger körfält ",
       "incorrect_answers": [
-        "Du accelererar för att omkörningen skall gå så snabbt som möjligt
-Du signalerar med helljuset för att varna mötande trafik"
+        "Du accelererar för att omkörningen skall gå så snabbt som möjligt",
+        "Du signalerar med helljuset för att varna mötande trafik"
       ]
     },{
       "category": "Drive card",
@@ -2101,8 +2101,8 @@ Du signalerar med helljuset för att varna mötande trafik"
       "correct_answer": "13 augusti kl. 18.00 ",
       "incorrect_answers": [
         "4 augusti kl. 15.00 ",
-        "19 augusti kl. 16.00
-25 augusti kl. 09.00"
+        "19 augusti kl. 16.00",
+        "25 augusti kl. 09.00"
       ]
     },{
       "category": "Drive card",
@@ -2112,9 +2112,9 @@ Du signalerar med helljuset för att varna mötande trafik"
       "question": "Vilken typ av olyckor är äldre förare inblandade i oftare än andra förare? ",
       "correct_answer": "Korsningsolyckor ",
       "incorrect_answers": [
-        "Omkörningsolyckor
-Singelolyckor
-Alkohol relaterade olyckor"
+        "Omkörningsolyckor",
+        "Singelolyckor",
+        "Alkohol relaterade olyckor"
       ]
     },{
       "category": "Drive card",
@@ -2124,9 +2124,9 @@ Alkohol relaterade olyckor"
       "question": "Vad gäller för att ett uttryckningsfordon ska få kalla fri väg? ",
       "correct_answer": "Det räcker att ljud eller ljus är påslagen ",
       "incorrect_answers": [
-        "Blinkande blått och rött ljus framtill ska vara påslaget
-Om fordonen har hög fart behöver inte några larmanordningar vara påslagna
-Både ljud och ljus anordningar måste vara påslagna samtidigt"
+        "Blinkande blått och rött ljus framtill ska vara påslaget",
+        "Om fordonen har hög fart behöver inte några larmanordningar vara påslagna",
+        "Både ljud och ljus anordningar måste vara påslagna samtidigt"
       ]
     },{
       "category": "Drive card",
@@ -2136,9 +2136,9 @@ Både ljud och ljus anordningar måste vara påslagna samtidigt"
       "question": "Du ska transportera denna dator skärm. Är bilens insynsskydd tillräckligt som lastsäkring? ",
       "correct_answer": "Nej ",
       "incorrect_answers": [
-        "Ja, eftersom du inte har ytterligare bagage
-Ja, eftersom ryggstödet även förhindrar föremålet att röra sig framåt
-Ja, men bara vid färd till och från lämplig dator butik"
+        "Ja, eftersom du inte har ytterligare bagage",
+        "Ja, eftersom ryggstödet även förhindrar föremålet att röra sig framåt",
+        "Ja, men bara vid färd till och från lämplig dator butik"
       ]
     },{
       "category": "Drive card",
@@ -2148,9 +2148,9 @@ Ja, men bara vid färd till och från lämplig dator butik"
       "question": "Vad varnar vägmärket för? ",
       "correct_answer": "Vägarbete ",
       "incorrect_answers": [
-        "Slirig väg
-Ojämn väg
-Farthinder"
+        "Slirig väg",
+        "Ojämn väg",
+        "Farthinder"
       ]
     },{
       "category": "Drive card",
@@ -2173,9 +2173,9 @@ Farthinder"
       "correct_answer": "Alla förare som var inblandade i olyckan ",
       "incorrect_answers": [
         "Föraren som var vållande till olyckan ",
-        "Polisen
-De personer som blev skadade vid olyckan
-Försäkringsbolaget"
+        "Polisen",
+        "De personer som blev skadade vid olyckan",
+        "Försäkringsbolaget"
       ]
     },{
       "category": "Drive card",
@@ -2185,9 +2185,9 @@ Försäkringsbolaget"
       "question": "Hur undviker du bäst att få vattenplaning? ",
       "correct_answer": "Genom att köra med tillräckligt låg hastighet ",
       "incorrect_answers": [
-        "Genom att köra med breda däck
-Genom att köra med däck vars mönster är mer än 5mm
-Genom att köra med bil med fyrhjulsdrift"
+        "Genom att köra med breda däck",
+        "Genom att köra med däck vars mönster är mer än 5mm",
+        "Genom att köra med bil med fyrhjulsdrift"
       ]
     },{
       "category": "Drive card",
@@ -2197,8 +2197,8 @@ Genom att köra med bil med fyrhjulsdrift"
       "question": "På en olycksplats kan det finnas personer med olika typer av skador.Vilken person är det viktigast att försöka hjälpa först? ",
       "correct_answer": "Skadad med andningssvårighet ",
       "incorrect_answers": [
-        "Psykiskt chockad
-Skadad med skärsår",
+        "Psykiskt chockad",
+        "Skadad med skärsår",
         "Skadad med benbrott "
       ]
     },{
@@ -2209,9 +2209,9 @@ Skadad med skärsår",
       "question": "När du kör tänds den här kontrollampan på bilens instrument panel. Vad innebär det? ",
       "correct_answer": "Antisladdsystemet fungerar inte ",
       "incorrect_answers": [
-        "Krockkuddssystemet fungerar inte
-Bromsama fungerar inte
-De låsningsfria bromsarna fungerar inte "
+        "Krockkuddssystemet fungerar inte",
+        "Bromsama fungerar inte",
+        "De låsningsfria bromsarna fungerar inte "
       ]
     },{
       "category": "Drive card",
@@ -2245,8 +2245,8 @@ De låsningsfria bromsarna fungerar inte "
       "question": "När du gör kort säkerhetskontroll på din bil märker du att färdbromsen inte fungerar. Får du köra med bilen? ",
       "correct_answer": "Nej, bilen måste bärgas från platsen ",
       "incorrect_answers": [
-        "Ja, men mycket sakta
-Ja, men enbart direkt till verkstad för att reparera fordonet"
+        "Ja, men mycket sakta",
+        "Ja, men enbart direkt till verkstad för att reparera fordonet"
       ]
     },{
       "category": "Drive card",
@@ -2256,9 +2256,9 @@ Ja, men enbart direkt till verkstad för att reparera fordonet"
       "question": "Du kör på en landsväg med många upp och nedförsbackar. Hur kan du sänka bränsleförbrukningen på bästa sätt? ",
       "correct_answer": "Jag använder mig av farthållaren ",
       "incorrect_answers": [
-        "Jag lättar foten från gaspedalen för att slippa inbromsningar
-Jag försöker att alltid behålla högt motorvarv när jag kör
-Växla ned vid uppförsbackar"
+        "Jag lättar foten från gaspedalen för att slippa inbromsningar",
+        "Jag försöker att alltid behålla högt motorvarv när jag kör",
+        "Växla ned vid uppförsbackar"
       ]
     },{
       "category": "Drive card",
@@ -2280,8 +2280,8 @@ Växla ned vid uppförsbackar"
       "correct_answer": "20 cm ",
       "incorrect_answers": [
         "10 cm ",
-        "80 cm
-40 cm"
+        "80 cm",
+        "40 cm"
       ]
     },{
       "category": "Drive card",
@@ -2291,8 +2291,8 @@ Växla ned vid uppförsbackar"
       "question": "Du ska svänga till vänster. Måste du ge tecken med körriktningsvisaren i någon av situationerna? ",
       "correct_answer": "Ja, men enbart i situation A ",
       "incorrect_answers": [
-        "Ja, men enbart i situation B
-Ja, i båda situationerna"
+        "Ja, men enbart i situation B",
+        "Ja, i båda situationerna"
       ]
     },{
       "category": "Drive card",
@@ -2302,8 +2302,8 @@ Ja, i båda situationerna"
       "question": "Vad kan följden om du lånar ut din bil till en person som du vet att han inte har körkort men som ändå kör bilen? ",
       "correct_answer": "Både du och den som lånar bilen kan bli straffade ",
       "incorrect_answers": [
-        "Enbart du som är ägare av bilen kan bli straffad
-Enbart den som lånar bilen kan bli straffad"
+        "Enbart du som är ägare av bilen kan bli straffad",
+        "Enbart den som lånar bilen kan bli straffad"
       ]
     },{
       "category": "Drive card",
@@ -2313,8 +2313,8 @@ Enbart den som lånar bilen kan bli straffad"
       "question": "Hur fort får du köra med en lätt lastbil på motorväg där hastigheten är begränsad till 110 km/h? ",
       "correct_answer": "110 km/h ",
       "incorrect_answers": [
-        "80 km/h
-90 km/h"
+        "80 km/h",
+        "90 km/h"
       ]
     },{
       "category": "Drive card",
@@ -2325,8 +2325,8 @@ Enbart den som lånar bilen kan bli straffad"
       "correct_answer": "Bilen blir väldigt tungstyrd ",
       "incorrect_answers": [
         "Det går lättare än normalt att styra ",
-        "Styringen fungerar som vanligt
-Styrningen fungerar inte alls"
+        "Styringen fungerar som vanligt",
+        "Styrningen fungerar inte alls"
       ]
     },{
       "category": "Drive card",
@@ -2347,8 +2347,8 @@ Styrningen fungerar inte alls"
       "correct_answer": "Om möjligt välja en tidpunkt med lugnare trafik tempo ",
       "incorrect_answers": [
         "Alltid hålla högsta tillåtna hastighet för att inte hindra i trafiken ",
-        "Att alltid hålla högsta tillåtna hastigheter för att undvika omkörningar
-Köra dit man ska så fort som möjligt"
+        "Att alltid hålla högsta tillåtna hastigheter för att undvika omkörningar",
+        "Köra dit man ska så fort som möjligt"
       ]
     },{
       "category": "Drive card",
@@ -2358,9 +2358,9 @@ Köra dit man ska så fort som möjligt"
       "question": "Vilka får trafikera körfält A där vägmärket gäller? ",
       "correct_answer": "Fordon i linjetrafik, cyklar och moped klass II ",
       "incorrect_answers": [
-        "Bussar och tunga lastbilar
-Enbart bussar
-Enbart fordon i linjetrafik"
+        "Bussar och tunga lastbilar",
+        "Enbart bussar",
+        "Enbart fordon i linjetrafik"
       ]
     },{
       "category": "Drive card",
@@ -2371,8 +2371,8 @@ Enbart fordon i linjetrafik"
       "correct_answer": "Farligt gods ",
       "incorrect_answers": [
         "Trafikplats nummer ",
-        "Vägarbete
-Vägnummer"
+        "Vägarbete",
+        "Vägnummer"
       ]
     },{
       "category": "Drive card",
@@ -2383,8 +2383,8 @@ Vägnummer"
       "correct_answer": "Ni ska visa varandra hänsyn och anpassa kömningen för ett säkert samspel ",
       "incorrect_answers": [
         "Pilama i ditt körfält betyder att du har väjningsplikt mot den andra bilen ",
-        "Pilarna i ditt körfält betyder att du ska köra före den andra bilen
-Du har enligt högerregeln väjningsplikt mot den andra bilen"
+        "Pilarna i ditt körfält betyder att du ska köra före den andra bilen",
+        "Du har enligt högerregeln väjningsplikt mot den andra bilen"
       ]
     },{
       "category": "Drive card",
@@ -2394,8 +2394,8 @@ Du har enligt högerregeln väjningsplikt mot den andra bilen"
       "question": "Du ska svänga till höger i korsningen längst fram. Hur ska du uppträda? ",
       "correct_answer": "Du måste stanna vid den närmaste stopp linjen men vid linjen längst bort enbart om det finns trafiki korsningen ",
       "incorrect_answers": [
-        "Du måste stanna vid båda stopp linjerna
-Du behöver bara stanna vid stopp linjen längst bort, eftersom den första stopp märket enbart är förvarning"
+        "Du måste stanna vid båda stopp linjerna",
+        "Du behöver bara stanna vid stopp linjen längst bort, eftersom den första stopp märket enbart är förvarning"
       ]
     },{
       "category": "Drive card",
@@ -2417,8 +2417,8 @@ Du behöver bara stanna vid stopp linjen längst bort, eftersom den första stop
       "correct_answer": "Du kör i jämn fart och undviker att stanna i onödan ",
       "incorrect_answers": [
         "Du kör i jämn fart på låga växlar ",
-        "Du kör med snabba accelerationer och full gas
-Du kör på låga växlar och undviker att stanna i onödan"
+        "Du kör med snabba accelerationer och full gas",
+        "Du kör på låga växlar och undviker att stanna i onödan"
       ]
     },{
       "category": "Drive card",
@@ -2428,9 +2428,9 @@ Du kör på låga växlar och undviker att stanna i onödan"
       "question": "Vad innebär det inringande vägmärket? ",
       "correct_answer": "Du måste lämna mötande fordon företräde om bredden inte är tillräcklig för möte ",
       "incorrect_answers": [
-        "Mötande trafik ska lämna dig företräde om bredden inte är tillräcklig för möte
-Du får inte passera vägmärket,eftersom bron är enkelriktad
-Mötande fordon får inte passera bron,eftersom den är enkelriktad"
+        "Mötande trafik ska lämna dig företräde om bredden inte är tillräcklig för möte",
+        "Du får inte passera vägmärket,eftersom bron är enkelriktad",
+        "Mötande fordon får inte passera bron,eftersom den är enkelriktad"
       ]
     },{
       "category": "Drive card",
@@ -2441,8 +2441,8 @@ Mötande fordon får inte passera bron,eftersom den är enkelriktad"
       "correct_answer": "Tjänstevikt + maxlast = totalvikt ",
       "incorrect_answers": [
         "Tjänstevikt + totalvikt = maxlast ",
-        "Totalvikt + maxlast = tjänstevikt
-Tjänstevikt + totalvikt = bruttovikt"
+        "Totalvikt + maxlast = tjänstevikt",
+        "Tjänstevikt + totalvikt = bruttovikt"
       ]
     },{
       "category": "Drive card",
@@ -2463,8 +2463,8 @@ Tjänstevikt + totalvikt = bruttovikt"
       "question": "En del kommuner förbjuder körning med dubbdäck på vissa gator inom tätorten. Vilket är det viktigaste skälet till det? ",
       "correct_answer": "Man vill minska på kostnaderna för vägunderhållet och dubbdäcken skadar vägen i stor utsträckning ",
       "incorrect_answers": [
-        "Man vill minska på bullret och dubbdäcken ger ett högt vägljud
-Man vill förbättra luften och dubbdäcken sliter upp partiklar i luften"
+        "Man vill minska på bullret och dubbdäcken ger ett högt vägljud",
+        "Man vill förbättra luften och dubbdäcken sliter upp partiklar i luften"
       ]
       
       ##########################################################
