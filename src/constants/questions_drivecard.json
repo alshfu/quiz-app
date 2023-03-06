@@ -3109,192 +3109,188 @@ Ett varning system som kombineras med farthållaren för att hindra olyckor"
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Hur bör du köra för att minska bilens avgasutsläpp? ",
+      "correct_answer": "Jag undviker onödig stopp genom att planera min körning ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Jag kör med kort avstånd till framförvarande
+Jag använder motorbromsning så lite som möjligt
+Jag accelererar snabbt och med full gas efter varje växling"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_56.png",
       "img_file_name": "3_56.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "I vilken av dessa situationer kan du vänta innan du bländar av från hel till halvljus innan du möter ett fordon i mörker? ",
+      "correct_answer": "I situation A ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "I situation B
+I situation C
+I situation D"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_57.png",
       "img_file_name": "3_57.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Hur ska du köra på ett säkert sätt för att kunna svänga i slutet på nedförsbacken? ",
+      "correct_answer": "Jag ska köra långsamt och vara beredd på hinder och mötande trafik ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Jag ska hålla stort avstånd till högerkanten, eftersom där finns ett fast hinder ",
+        "Jag ska köra med hög växel ilagd för att kunna undvika motorbroms i nerförsbacken
+Jag ska trycka ner kopplingen för att undvika att bilen slocknar i nerförsbacken"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du kopplar en släpvagn till din bil som är utrustad med broms. Vad är max hastigheten? ",
+      "correct_answer": "80 km/h ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "70 km/h ",
+        "90 km/h
+110 km/h"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_59.png",
       "img_file_name": "3_59.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du planerar att parkera din bil den 28 februari. Får du parkera där vägmärket gäller? ",
+      "correct_answer": "Nej ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Ja"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_60.png",
       "img_file_name": "3_60.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du parkerar din bil enligt A. Datumet är den 15 augusti och klockan är 07.00. När måste du senast hämta bilen?",
+      "correct_answer": "Den 15 augusti kl. 10.00 ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Den 15 augusti kl. 09.00 ",
+        "Den 16 augusti kl. 08.00
+Den 16 augusti kl. 10.00"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_61.png",
       "img_file_name": "3_61.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Vilket alternativ är rätt? ",
+      "correct_answer": "Om jag ska fortsätta mot E4 kan jag stanna kvar i det högra körfältet ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Eftersom vägmarkeringar saknas är vägen inte uppdelad i körfält ",
+        "Om jag fortsätter i det högra körfältet måste jag svänga till höger mot Länna 
+Om jag placerar mig i det vänstra körfältet måste jag svänga till vänster mot Nynäshamn"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_62.png",
       "img_file_name": "3_62.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du kör personbil. Måste du svänga till höger i någon av korsningarna? ",
+      "correct_answer": "Ja, men enbart i korsningen på bild A ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Ja, men enbart i korsningen på bild B
+Ja, i båda korsningarna
+Nej"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_63.png",
       "img_file_name": "3_63.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Den här skylten kan finnas i vägtunnel. Vad innebär den? ",
+      "correct_answer": "Den visar en utrymningsväg ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Den visar väg till närmaste nödtelefon ",
+        "Den visar väg till närmaste brandsläckare
+Den visar vart gående måste gå"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Är det tillåtet att parkera eller stanna vid en busshållplats? ",
+      "correct_answer": "Ja, det är tillåtet att stanna för att släppa av eller på passagerare om jag inte hindrar bussen ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Nej, jag får aldrig stanna vid en busshållplats
+Ja, jag får parkera om jag sitter kvar i bilen
+Ja, om jag inte hindrar någon buss får jag stanna för att lasta ur eller i gods"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Varningslampan för bromssystemet tänds under färd. Vad är det första du ska göra? ",
+      "correct_answer": "Stoppa motorn för att kolla bromsvätskan ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Köra till närmaste verkstad
+Fylla på bromsvätska vid nästa tankning
+Atgärda felet vid nästa service"
       ]
               },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "I vilken trafikmiljö är det störst risk för att föraren blir trött (sömnig)? ",
+      "correct_answer": "På en bred och rak landsväg med lite trafik ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "I stadstrafik med lite trafik
+På en smal och krokig landsväg med lite trafik
+På en bred väg i stadstrafik med mycket trafik"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_67.png",
       "img_file_name": "3_67.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du ska fortsätta rakt fram. Gäller högerregeln i någon av korsningarna? ",
+      "correct_answer": "Ja, i båda korsningarna ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Nej",
+        "Ja, men enbart i korsning A
+Ja, men enbart i korsning B"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du planerar att lasta en madrass på tacket till din bil. Bilen är 180 cm bred och madrassen kommer att skjuta ut 30 cm på vardera sidan av bilen. Får du köra på en allmän väg? ",
+      "correct_answer": "Nej ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Ja, eftersom bilens bredd inklusive last inte kommer att överskrida 260 cm
+Ja, om bilen är registrerad som lastbil"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Vilken av dessa förare visar exempel på säkert samspel i trafiken? ",
+      "correct_answer": "En förare som saktar in för att visa att han tänker lämna företräde ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "En förare som alltid håller på sin rätt enligt reglerna
+En förare som överträder hastighetsgränsen för att följa trafikrytmen"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_70.png",
       "img_file_name": "3_70.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Får du i någon av situationerna svänga till höger utan att först stanna? ",
+      "correct_answer": "Ja, båda situationerna ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Nej ",
+        "Ja, men enbart i situation A
+Ja, men enbart i situation B"
       ]
       
       
