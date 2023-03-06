@@ -2479,648 +2479,630 @@
       "type": "multiple",
       "image": "3_1.png",
       "img_file_name": "3_1.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du passerar det här vägmärket. Hur bör du vara extra uppmärksam? ",
+      "correct_answer": "Tidigt på morgonen ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Under sommaren
+Mitt på dagen
+Vid varmt väder"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Hur stor är möjligheten att överleva för en oskyddad trafikant som blir påkörd av en bil som kör i 30 km/h. ",
+      "correct_answer": "90 % ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "10 %
+30 %
+60 %"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Vad är en reaktionssträcka? ",
+      "correct_answer": "Den sträcka bilen rulla från att jag upptäcker en fara tills jag t.ex. börjar bromsa ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Den sträcka bilen rullar från att jag börjar bromsa tills bilen står stilla
+Den sträcka bilen rulla från att jag upptäcker en fara tills bilen står stilla"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_4.png",
       "img_file_name": "3_4.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Bilen är parkerad. Är det tillåtet i någon av situationerna? ",
+      "correct_answer": "Nej ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Ja, men enbart i situation A
+Ja, men enbart i situation B
+Ja, i båda situationerna"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_5.png",
       "img_file_name": "3_5.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du kör på motorväg. Vad gäller i den här situationen? ",
+      "correct_answer": "Jag måste anpassa hastigheten för att underlätta för den andra föraren ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Den andra föraren har väjningsplikt
+Jag måste byta till vänster körfält för att underlätta för den andra föraren"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_6.png",
       "img_file_name": "3_6.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Tänk på att situationerna på bilderna inträffar när du kör i mörker. I vilken situation är det tillåtet att fortsätta med helljus? ",
+      "correct_answer": "I situation A ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "I situation B
+I situation C
+I situation D"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Hur stor andel av de förare som har dödats i singelolyckor de senaste åren har varit alkoholpåverkade? ",
+      "correct_answer": "Ca hälften ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Ca två tredjedelar ",
+        "Ca en fjärdedel
+Ca en tredjedel"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du kör på en landsväg med höga hastigheter. Vilken är den största faran om du kommer utanför vägkanten med höger hjulpar? ",
+      "correct_answer": "Om jag kör tillbaka på vägen igen så kan det leda till att fordonet sladdar och hamnar på den andra vägen där mötande trafik finns ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Fälgarna kan bli skeva, vilket gör att jag får svårt att styra bilen
+Sten och grus kan sprätta upp på bakomvarande trafik
+Om sidovägen vad mjuk så kan det leda till att hjulet dyker ner i leran och bilen stannar plötsligt"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_9.png",
       "img_file_name": "3_9.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du har precis passerat det här vägmärket.Vad gäller i korsningen du kommer till om det inte finns några andra vägmärken? ",
+      "correct_answer": "Jag ska låta trafik från höger köra före mig ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Jag ska låta all korsande trafik köra före mig
+All mötande trafik lämnar mig företräde
+Jag låter all trafik från vänster om mig köra före mig"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_10.png",
       "img_file_name": "3_10.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du ska fortsätta rakt fram. Vad gäller i den här situationen? ",
+      "correct_answer": "Jag får inte passera ljussignalen ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Jag får inte passera varningsmärket
+Jag får köra vidare men jag har väjningsplikt mot utryckningsfordon"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_11.png",
       "img_file_name": "3_11.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Fordonet som kör framför dig har baktill denna skylt. Vad är fordonet framför? ",
+      "correct_answer": "Långsamt gående ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Lastat med farligt gods ",
+        "En släpvagn
+Bogserad bil"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_12.png",
       "img_file_name": "3_12.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du möter en bil som kör på fel sida av vägen. Hur bör du göra? ",
+      "correct_answer": "Bromsa och styra åt höger ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Snabbt styra över åt vänster"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_13.png",
       "img_file_name": "3_13.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Vilken information ger vägmärket, om gatan rakt fram? ",
+      "correct_answer": "Förbud att stanna och parkera ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Förbud mot infart med fordon
+Förbud mot fordonstrafik
+Återvändsgata"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_14.png",
       "img_file_name": "3_14.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Är omkörning tillåten i någon av situationerna på bilderna? ",
+      "correct_answer": "Ja, i situationen på bild D ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Nej, inte i någon av situationerna ",
+        "Ja, i situationen på bild A
+Ja, i situationen på bild B
+Ja, i situationen på bild C"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du tvättar din bil med högtryckstvätt.Vad bör du i första hand kontrollera efteråt med tanke på trafiksäkerheten? ",
+      "correct_answer": "Att bromsarna fungerar ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Att elsystemet fungerar
+Att styrservon fungerar
+Att kylsystemet fungerar"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Vilket ämne i avgaserna bidrar mest till att öka växthuseffekten? ",
+      "correct_answer": "Koldioxid",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Kolväte
+Kolmonoxid"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Vilken av dessa personer löper normalt störst risk att bli en fara i trafiken? ",
+      "correct_answer": "Den som söker spänning och äventyr ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Den som har god självförtroende ",
+        "Den som har självkontroll
+Den som tillåter andra förare att göra misstag"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Vilket alternativ är rätt? ",
+      "correct_answer": "Tjänstevikt + maxlast = totalvikt ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Tjänstevikt + totalvikt = bruttovikt ",
+        "Tjänstevikt + totalvikt = maxlast
+Totalvikt + maxlast = tjänstevikt"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "För att undvika risken att få en nacksnärtsskada (whiplash) måste du ha huvudstödet (nackskyddet) rätt inställt. Vad krävs dessutom? ",
+      "correct_answer": "Att använda bilbältet på rätt sätt ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Att bilen är utrustad med krockkudde
+Att bilen har ABS-bromsar
+Att bilen har antisladd system"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du kommer som första person fram till en plats där en trafikolycka inträffat. Vad är det första du bör göra? ",
+      "correct_answer": "Jag sätter hinder på olycksplatsen",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Varna andra trafikanter
+Ge första hjälpen åt eventuella skadade
+Överblicka över situationen samt ringa 112"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Vid vilket av dessa tillfällen får dimbaklyktor användas? ",
+      "correct_answer": "När det snöar kraftigt ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "När bakomvarande fordon syns tydligt
+Vid klar sikt i mörker
+Vid klar sikt i dagsljus"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Hur fungerar ett antisladdsystem? ",
+      "correct_answer": "Det bromsar in ett eller flera av hjulen om bilen får sladd ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Det gör så att alla hjulen låser sig vid bromsning
+Det frikopplar enbart drivningen om bilen får sladd"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Påverkar ditt körsätt hur mycket däcken slits? ",
+      "correct_answer": "Ja, om jag gör kraftiga accelerationer och inbromsningar ökar däckslitaget ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Nej ",
+        "Ja, om jag kör i hög hastighet slits däcken mindre än i låg hastighet"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_24.png",
       "img_file_name": "3_24.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du ska köra rakt fram. Gäller högerregeln i någon av situationerna? ",
+      "correct_answer": "Nej ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Ja, men enbart i situation A
+Ja, men enbart i situation B
+Ja, i båda situationerna"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_25.png",
       "img_file_name": "3_25.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Vilket är det lämpligaste sättet att vända i korsningen på bilden? ",
+      "correct_answer": "Jag svänger till vänster i korsningen,stannar och backar rakt längs kanten ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Jag gör en u-sväng ",
+        "Jag svänger till höger i korsningen,stanna och backar rakt genom korsningen"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du kör en landsväg i mörker med helljuset tänt och närmar dig ett backkrön. För vilken anledning kan det vara bra att blända av till halvljus för kort stund? ",
+      "correct_answer": "För att jag lättare ska kunna upptäcka andra bilar från mötande sida ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "För att låta ögonen vila från starkt ljus
+För att mötande fordons ljus kommer att vara stark för mina ögon
+För att kontrollera för att se om halvljus lamporna fungerar"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Vilken skatt räknas på ditt fordons koldioxidutsläpp? ",
+      "correct_answer": "Fordonsskatten ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Trängsel skatten ",
+        "Vägskatten"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_28.png",
       "img_file_name": "3_28.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Vilket vägmärke är placerat längst från en järnvägskorsning? ",
+      "correct_answer": "Vägmärke C ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Vägmärke A
+Vägmärke B"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du har svängt in på en huvudled där högsta tillåtna hastighet är 90 km/h. Vad ska du alltid göra efter svängen? ",
+      "correct_answer": "Tittar på sidan och bakåt på vägen och accelererar ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Accelerera försiktigt för att inte skada miljön
+Använda vägrenen som accelerationsfält"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Hur kan du normalt minska bränsleförbrukningen? ",
+      "correct_answer": "Jag undviker att använda luftkonditioneringen ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Jag undviker att ha högt lufttryck i däcken
+Jag kör på låga växlar"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du ska från motorvägen bogsera en bil till närmaste avfart. Får du använda vägrenen? ",
+      "correct_answer": "Ja, jag måste använda vägrenen ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Ja, men enbart om båda bilarna har varningsblinkers påslagen ",
+        "Nej, det är endast tillåtet för fordonet fram att använda vägrenen
+Nej, jag får aldrig använda vägrenen"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Finns det något yttre kännedom på att en fotgängare kan vara synskadad? ",
+      "correct_answer": "Ja, en vit käpp ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Ja, en röd käpp ",
+        "Ja, en vit bindel på armen
+Nej"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_33.png",
       "img_file_name": "3_33.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Vad innebär linjerna mitt på vägen? ",
+      "correct_answer": "Linjerna varnar för att det finns en anslutande väg ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Högsta hastighet är begränsad till 70 km/h
+Det är förbjudet att överskrida linjerna med något hjul
+Det är förbjudet att köra om"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_34.png",
       "img_file_name": "3_34.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du kör i 90 km/h, vilket är högsta tillåtna hastighet på denna väg. Får du använda vägrenen tillfälligt för att underlätta omkörning för bakomvarande? ",
+      "correct_answer": "Ja, eftersom jag kan överblicka vägen framför mig ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Nej, det är endast tillåtet på vägar där hastigheten är högst 70 km/h ",
+        "Nej, eftersom bilen bakom mig kör på ett snabbare sätt än vad det är tillåtet"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_35.png",
       "img_file_name": "3_35.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du ska fortsätta rakt fram. Hur ska du uppträda i korsningen sedan du har stannat vid stopplinjen? ",
+      "correct_answer": "Jag måste samspela med de andra trafikanterna på korsningen för att se vem som kör först ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Högerregeln gäller och därför har jag väjningsplikt mot trafik från höger",
+        "Jag har väjningsplikt mot trafik som kommer från både vänster och höger"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du kör i mörker och du har last som skjuter ut bakåt så mycket att du måste markera den. Hur ska markeringen se ut? ",
+      "correct_answer": "Röd lykta med röd reflex ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Vit lykta med vit reflex ",
+        "Röda och gula reflexer
+Röd och gul flagga
+Enbart röda reflexer"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_37.png",
       "img_file_name": "3_37.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du kör den gula bilen 2 och vill köra om den gröna bilen 1. I vilken situation får du inte köra över väg markeringen? ",
+      "correct_answer": "I situation D ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "I situation A
+I situation B
+I situation C"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_38.png",
       "img_file_name": "3_38.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du kopplar en lastad släpvagn till din bil. Hur kan du enklast ändra kultrycket? ",
+      "correct_answer": "Jag fördelar om lasten i bilen och släpet ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Jag ökar lufttrycket i släpets däck
+Jag fördelar om lasten i bilen
+Jag minskar lufttrycket i släpets däck"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Många olyckor sker på övergångsställen när det är mörkt. Vilken är den vanligaste orsaken till detta? ",
+      "correct_answer": "Förama kör för fort och kan inte stanna i rätt tid när de upptäcker gående ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Belysningen från andra fordon bländar förarna",
+        "Gående har inga reflexer eller ljusare färgkläder på sig"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_40.png",
       "img_file_name": "3_40.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du kör personbil. Är det tillåtet för dig att köra om i någon av situationerna? ",
+      "correct_answer": "Ja, men enbart i situation A ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Ja, men enbart i situation B
+Ja, i både situationerna A, B
+Ja, men enbart i situation C
+Nej"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_41.png",
       "img_file_name": "3_41.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Vilken information får du av varningsmärket och tilläggstavlan? ",
+      "correct_answer": "Om jag svänger till höger, ska jag vara beredd på att det strax finns en trafiksignal ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Om jag ska svänga till höger, måste jag stanna före korsningen för att kontrollera om det finns trafiksignal
+Jag måste svänga till höger"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_42.png",
       "img_file_name": "3_42.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du ska fortsätta rakt fram. Vem ska köra först? ",
+      "correct_answer": "Jag, men jag är beredd på att stanna,eftersom cyklisten kanske svänger framför mig ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Cyklisten, eftersom hon ska svänga
+Cyklisten, eftersom högerregeln gäller"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_43.png",
       "img_file_name": "3_43.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Du ska fortsätta rakt fram. Hur bör du uppträda? ",
+      "correct_answer": "Jag anpassar farten och låter cyklisten köra först ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Jag kör först, eftersom jag ska rakt fram
+Jag kör först, eftersom cyklisten ser att jag kör fortare
+Jag kör först, eftersom högerregeln gäller inte cyklister"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_44.png",
       "img_file_name": "3_44.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Far du svanga till vänster vid trafiksignalen? ",
+      "correct_answer": "Ja ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Nej här far enbart varutransporter svänga till vänster
+Nej,vänstersväng är förbjudet"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_45.png",
       "img_file_name": "3_45.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Gällande mittlinjen. I vilken situation är det inte tillåtet att överskrida den? ",
+      "correct_answer": "I situation C ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "I situation A
+I situation B"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Grupptrycket kan påverka hur du uppträder som förare. Är det bra eller dåligt? ",
+      "correct_answer": "Gruppens värderingar avgör om det är bra eller dåligt med grupptryck ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Det är alltid dåligt med grupptryck
+Det är alltid bra med grupptryck"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Vilken utrustning måste du ha med när du kör personbil? ",
+      "correct_answer": "Varningstriangel ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Bogserlina
+Startkablar
+Reservdäck"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_48.png",
       "img_file_name": "3_48.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Vilket vägmärke varnar dig för att vägsträckan ofta korsas av cyklister och mopedförare? ",
+      "correct_answer": "Vägmärke C ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Vägmärke A ",
+        "Vägmärke B ",
+        "Vägmärke D "
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Var går gränsen för grovt rattfylleri (promillehalten mätt i blodet)? ",
+      "correct_answer": "Vid 1,0 promille ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Vid 1,2 promille ",
+        "Vid 0,5 promille
+Vid 0,2 promille
+Vid 0,8 promille"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Hur påverkas reaktionssträckan av förarens ålder och erfarenhet? ",
+      "correct_answer": "En 45-årig erfaren förare har vanligtvis kortare reaktionssträcka än en 18-åring, eftersom erfarna förare har lärt sig att förutse faror ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "En 18-åring har vanligtvis kortare reaktionssträcka än en 45-årig erfaren förare, eftersom yngre förare har bättre reaktionsförmåga
+Reaktionssträckan påverkas varken av förarens ålder eller erfarenhet"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_51.png",
       "img_file_name": "3_51.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "På väg mot Nyköping upptäcker du att vägen är avstängd p.g.a. vägarbete. Vilken skylt sätts upp för att visa lämplig förbifart till Nyköping. ",
+      "correct_answer": "Vägmärke 3 ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Vägmärke 2
+Vägmärke 1
+Vägmärke 4
+Vägmärke 5"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Vilken är den vanligaste orsaken till singelolyckor med dödlig utgång? ",
+      "correct_answer": "Alkoholpåverkade bilförare ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Trötta bilförare ",
+        "Drogpåverkade bilförare
+Bilförare som använt olämplig medicin i samband med körning"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "3_53.png",
       "img_file_name": "3_53.png",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Hur ska du uppträda i denna situation? ",
+      "correct_answer": "Du stannar och låter den gående passera ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Du tutar när du närmar dig personen
+Du närmar dig personen så han kan backa när han ser dig"
       ]
     },{
       "category": "Drive card",
       "type": "multiple",
       "image": "Q_0.png",
       "img_file_name": "Q_0.jpg",
-      "question": " ",
-      "correct_answer": " ",
+      "question": "Vad är en påskjutsbroms? ",
+      "correct_answer": "Ett vanligt bromssystem till släpvagnar ",
       "incorrect_answers": [
-        " ",
-        " ",
-        " "
+        "Ett system för ökad säkerhet vid kollision med fotgängare
+Ett system som förstärker hårda inbromsningar
+Ett varning system som kombineras med farthållaren för att hindra olyckor"
       ]
     },{
       "category": "Drive card",
