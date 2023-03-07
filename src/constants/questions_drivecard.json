@@ -6556,7 +6556,7 @@
       "correct_answer": "I öglan på bilens draganordning (C) ",
       "incorrect_answers": [
         "Runt parkeringsbromsreglaget på släpvagnen ",
-        "I stödfångarens infastning (A),
+        "I stödfångarens infastning (A)",
         "Runt dragkrockens kulhals (B)"
       ]
     },{
@@ -6788,7 +6788,7 @@
       "question": "Du ska köra rakt fram. Gäller högerregeln i någon av situationerna? ",
       "correct_answer": "Ja,men enbart i situation A ", 
       "incorrect_answers": [
-        "Ja,men enbart i situation B
+        "Ja,men enbart i situation B",
         "Ja, i båda situationerna",
         "Nej"
       ]
@@ -7078,7 +7078,7 @@
       "question": "Den här kontrollampan tänds när du kör. Vad kan orsaken vara?  ",
       "correct_answer": "Att bromsvätskenivån är för låg ",
       "incorrect_answers": [
-        "Att generatorn inte fungerar
+        "Att generatorn inte fungerar",
         "Att antisladdsystemet inte fungerar",
         "Att kylarvätskenivån är för låg"
       ]
@@ -7596,7 +7596,7 @@
       "question": "Vilken information får du av vägmärket? ",
       "correct_answer": "Strax smalnar vägen till 4 meters bred",
       "incorrect_answers": [
-        "Om 4 meter smalnar vägen av
+        "Om 4 meter smalnar vägen av",
         "Strax finns en vägbur eller ett väggupp som är 4 meter lång",
         "Om 4 meter finns det en vägbula eller gupp"
       ] 
